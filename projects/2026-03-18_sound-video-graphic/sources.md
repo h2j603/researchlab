@@ -4,7 +4,7 @@ date: 2026-03-18
 updated: 2026-03-18
 status: in-progress
 type: reference
-tags: [visual-culture, analog-digital]
+tags: [visual-culture, analog-digital, matthew-wilcock, sound-design]
 related: ["projects/2026-03-18_sound-video-graphic/_index.md"]
 confidence: medium
 ---
@@ -78,6 +78,42 @@ confidence: medium
 | 136 Visual Artworks as Spectrograms | [Griffonage](https://griffonagedotcom.wordpress.com/2025/09/06/136-visual-artworks-that-are-also-musical-sound-spectrograms/) | 스펙트로그램 아트 136선 |
 | Sound Wave Art | [Griffonage](https://griffonagedotcom.wordpress.com/2019/02/28/sound-wave-art-current-practices-future-possibilities/) | 사운드 웨이브 아트 현황과 가능성 |
 | Generative Art Guide | [AIArtists.org](https://aiartists.org/generative-art-design) | 제너레이티브 아트 가이드 |
+
+## Matthew Wilcock 관련
+
+| 제목 | 출처 | 설명 |
+|------|------|------|
+| Matthew Wilcock 공식 사이트 | [matthewwilcock.com](https://matthewwilcock.com) | 아티스트 공식 웹사이트 |
+| Instagram (@matthewsinstagram) | [Instagram](https://www.instagram.com/matthewsinstagram/) | Motorway Cycles 등 작업 게시 |
+| Motorway Cycles XI | [Bandcamp](https://matthewwilcock.bandcamp.com/track/motorway-cycles-xi-junction-m25-m11) | Playhead 방법론으로 제작된 고속도로 사운드 아트 |
+| Motorway Cycles — 기사 | [Higher Plain Music](https://higherplainmusic.com/2026/01/01/matthew-wilcock-turns-motorway-traffic-and-movement-in-the-real-world-into-sound-art/) | Playhead 방법론 상세 설명 |
+| "Out" 설치 | [XK Studio](https://xk.studio/Matthew-Wilcock-Out) | 그래픽 스코어 영상 설치 (Outernet London) |
+| "Out" 설치 | [Behance](https://www.behance.net/gallery/184746553/Matthew-Wilcock-Out) | "Out" 비주얼 아카이브 |
+| "Out" 설치 — 기사 | [STASH](https://www.stashmedia.tv/xk-studio-goes-all-out-with-motion-installation-for-matthew-wilcock/) | XK studio 협업 상세 |
+| "Cease. Fire." 설치 | [LBBOnline](https://lbbonline.com/news/zelig-sound-co-founder-matthew-wilcock-debuts-provocative-art-installation) | 카세트 설치 작업 상세 |
+| Sound of Life 인터뷰 | [Sound of Life / KEF](https://www.soundoflife.com/blogs/design/matthew-wilcock-interview) | 음악에서 설치까지의 진화 |
+| "Concept is King" 인터뷰 | [Pro Sound Effects](https://blog.prosoundeffects.com/concept-is-king-how-matthew-wilcock-stays-creative) | 창작 방법론과 철학 |
+| Lecture in Progress 인터뷰 | [Lecture in Progress](https://lectureinprogress.com/journal/matthew-wilcock) | 사운드 디자이너/프로듀서로서의 소개 |
+| Sound of Life 인터뷰 | [Sound of Life / KEF](https://www.soundoflife.com/blogs/design/matthew-wilcock-interview) | 음악에서 비디오 설치로의 진화 인터뷰 |
+| Higher Plain Music 기사 | [Higher Plain Music](https://higherplainmusic.com/2026/01/01/matthew-wilcock-turns-motorway-traffic-and-movement-in-the-real-world-into-sound-art/) | Motorway Cycles 프로젝트 상세 |
+| Pro Sound Effects 인터뷰 | [Pro Sound Effects Blog](https://blog.prosoundeffects.com/concept-is-king-how-matthew-wilcock-stays-creative) | "Concept is King" — 창작 철학 |
+| Lecture in Progress 인터뷰 | [Lecture in Progress](https://lectureinprogress.com/journal/matthew-wilcock) | 사운드 디자이너/작곡가 프로필 |
+| LBBOnline — Cease Fire 설치 | [LBBOnline](https://lbbonline.com/news/zelig-sound-co-founder-matthew-wilcock-debuts-provocative-art-installation) | Cease. Fire. 설치 작품 |
+| STASH — Out 설치 | [STASH Media](https://www.stashmedia.tv/xk-studio-goes-all-out-with-motion-installation-for-matthew-wilcock/) | XK studio + Wilcock "Out" 설치 |
+| XK studio — Out 프로젝트 | [XK studio](https://xk.studio/Matthew-Wilcock-Out) | "Out" 설치 프로젝트 페이지 |
+| Behance — Out | [Behance](https://www.behance.net/gallery/184746553/Matthew-Wilcock-Out) | "Out" 설치 비주얼 |
+| Far Out Magazine 인터뷰 | [Far Out Magazine](https://faroutmagazine.co.uk/quick-fire-questions-10-minutes-with-matthew-wilcock/) | 10분 인터뷰 |
+| Bandcamp — It Can Only Change | [Bandcamp](https://matthewwilcock.bandcamp.com/album/it-can-only-change) | 앨범 페이지 |
+| Bandcamp — Motorway Cycles XI | [Bandcamp](https://matthewwilcock.bandcamp.com/track/motorway-cycles-xi-junction-m25-m11) | Motorway Cycles XI 트랙 |
+| Zelig Sound 공식 사이트 | [Zelig Sound](https://www.zeligsound.com/) | 상업적 사운드 스튜디오 |
+| Super Generic 브랜딩 | [Visuelle](https://visuelle.co.uk/supergeneric/) | Super Generic 레이블 브랜드 아이덴티티 |
+| Kyma + Wacom 방법론 | [Symbolic Sound Blog](https://news.symbolicsound.com/category/sonic-branding/) | Kyma/Wacom 제스처 사운드 디자인 상세 |
+| Instagram | [@matthewsinstagram](https://www.instagram.com/matthewsinstagram/) | 공식 Instagram (76K 팔로워) |
+| Instagram Reel (프로젝트 출발점) | [DLIBcEgNRz5](https://www.instagram.com/reel/DLIBcEgNRz5/) | Video to Sound 변환 작업 릴 |
+| IMDB | [IMDB](https://www.imdb.com/name/nm3779934/) | 영화 작곡 필모그래피 |
+| LinkedIn | [LinkedIn](https://www.linkedin.com/in/matthew-wilcock-30ab5520/) | 프로필 |
+| Vimeo — Tear 뮤직비디오 | [Vimeo](https://vimeo.com/351070251) | "Tear" 뮤직비디오 |
+| It's Nice That — Nicer Tuesdays | [It's Nice That](https://www.itsnicethat.com/articles/nicer-tuesdays-july-review-270716) | Nicer Tuesdays 발표 리뷰 |
 
 ## 관련 문서
 
