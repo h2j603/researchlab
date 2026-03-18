@@ -10,21 +10,45 @@ type: index
 태그 중복/분산을 방지하기 위한 공식 태그 레지스트리입니다.
 새로운 태그를 추가할 때 이 목록을 먼저 확인하세요.
 
-## 분야 태그
+## 분야 태그 — 사회·문화
+| 태그 | 설명 |
+|------|------|
+| `social-phenomenon` | 사회적 현상 전반 |
+| `culture` | 문화 현상, 문화론 |
+| `semiotics` | 기호학, 상징 체계 |
+| `media` | 미디어, 커뮤니케이션 |
+| `urban` | 도시, 공간, 환경 |
+| `consumer-behavior` | 소비 문화, 소비자 행동 |
+| `subculture` | 하위문화, 카운터컬처 |
+| `zeitgeist` | 시대정신, 트렌드 |
+
+## 분야 태그 — 기술·도구
 | 태그 | 설명 |
 |------|------|
 | `ai` | 인공지능 전반 |
-| `machine-learning` | 머신러닝 |
-| `large-language-model` | LLM 관련 |
-| `computer-science` | 컴퓨터 과학 |
+| `analog-digital` | 아날로그와 디지털의 교차 |
+| `technology` | 기술 동향 |
+| `tool` | 도구, 매체, 기법 |
+
+## 분야 태그 — 디자인·시각
+| 태그 | 설명 |
+|------|------|
+| `visual-culture` | 시각 문화 |
+| `typography` | 타이포그래피 |
+| `branding` | 브랜딩, 아이덴티티 |
+| `print` | 인쇄, 출판 |
+| `graphic-history` | 그래픽 디자인 역사 |
 
 ## 형태 태그
 | 태그 | 설명 |
 |------|------|
 | `paper-review` | 논문 리뷰 |
-| `tutorial` | 튜토리얼/가이드 |
+| `case-study` | 사례 분석 |
+| `taxonomy` | 분류 체계 구축 |
 | `comparison` | 비교 분석 |
 | `deep-dive` | 심층 분석 |
+| `manifesto` | 선언문, 원칙 정리 |
+| `field-note` | 현장/관찰 기록 |
 
 ## 상태 태그
 | 태그 | 설명 |
