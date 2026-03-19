@@ -1,7 +1,7 @@
 ---
 title: "공식 태그 목록"
 date: 2026-03-18
-updated: 2026-03-18
+updated: 2026-03-19
 type: index
 ---
 
@@ -38,6 +38,7 @@ type: index
 | `branding` | 브랜딩, 아이덴티티 |
 | `print` | 인쇄, 출판 |
 | `graphic-history` | 그래픽 디자인 역사 |
+| `grid` | 그리드 시스템, 격자 구조 |
 
 ## 형태 태그
 | 태그 | 설명 |
