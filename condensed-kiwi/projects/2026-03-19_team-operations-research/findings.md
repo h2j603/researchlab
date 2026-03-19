@@ -17,6 +17,7 @@ confidence: medium
 
 ### 1. Experimental Jetset (암스테르담, 1997~)
 
+**링크**: [experimentaljetset.nl](https://www.experimentaljetset.nl)
 **멤버**: Marieke Stolk, Erwin Brinkers, Danny van den Dungen — 3인 고정
 **시작**: Gerrit Rietveld Academie 동기. 졸업 직후 결성. 20년 넘게 3인 체제 유지.
 
@@ -26,9 +27,15 @@ confidence: medium
 - 인턴이나 추가 인원을 받지 않음. 의도적으로 확장을 거부
 - 모든 결정은 세 명의 합의
 
+**대표작**
+- *Statement and Counter-Statement* (2015) — 자체 모노그래프, 에세이+작업 아카이브
+- Stedelijk Museum 아이덴티티 시스템
+- John & Paul & Ringo & George 티셔츠 (Helvetica로 비틀즈 멤버를 나열한 작업, 이들의 태도를 상징하는 아이콘이 됨)
+- Whitney Museum of American Art 리브랜딩 참여
+
 **첫 프로젝트 / 퍼블리싱**
 - 초기에는 암스테르담 문화 기관(Stedelijk Museum 등)의 소규모 의뢰부터 시작
-- 자체 출판물과 글쓰기를 통해 담론 형성 — *Statement and Counter-Statement* (2015) 등
+- 자체 출판물과 글쓰기를 통해 담론 형성
 
 **지속 방법**
 - 클라이언트 작업 (문화 기관 위주) + 강의 + 자체 출판
@@ -40,17 +47,24 @@ confidence: medium
 
 ### 2. Metahaven (암스테르담, 2007~)
 
+**링크**: [metahaven.net](https://metahaven.net)
 **멤버**: Vinca Kruk, Daniel van der Velden — 2인 핵심
 **시작**: Jan van Eyck Academie에서 만남. 디자인과 정치·사회 리서치를 결합하는 실험적 접근.
 
 **운영 모델 — "리서치 + 실무"**
 - 전통적 클라이언트 작업과 자체 리서치 프로젝트를 병행
-- 초기작 *Uncorporate Identity* (2010)가 대표적 — 소말리란드, 시랜드 등 미승인 국가의 아이덴티티를 디자인
 - 점차 영상, 다큐멘터리 등으로 매체 확장
+
+**대표작**
+- *Uncorporate Identity* (2010, Lars Müller) — 소말리란드, 시랜드 등 미승인 국가의 아이덴티티를 디자인한 출판물. 이들의 정체성을 확립한 작업
+- WikiLeaks 스카프 — 정치적 연대를 패션 오브제로 전환
+- *Can Jokes Bring Down Governments?* (2013) — 인터넷 밈과 정치의 관계를 다룬 책
+- *The Sprawl (Propaganda About Propaganda)* (2016) — 영상 에세이, 베를린 비엔날레 상영
+- *Hometown* (2018), *Elektra* (2019) — 다큐멘터리 영상 작업
 
 **첫 프로젝트 / 퍼블리싱**
 - WikiLeaks를 위한 스카프 디자인이 초기 주목을 받음
-- *Uncorporate Identity* (출판: Lars Müller) — "실현 불가능한 클라이언트"를 위한 디자인
+- *Uncorporate Identity* — "실현 불가능한 클라이언트"를 위한 디자인
 
 **지속 방법**
 - 강의 (Yale, Sandberg Instituut 등), 전시, 출판, 그랜트/펀딩
@@ -61,17 +75,24 @@ confidence: medium
 
 ### 3. Dexter Sinister (뉴욕, 2006~)
 
+**링크**: [dextersinister.org](https://www.dextersinister.org)
 **멤버**: Stuart Bailey, David Reinfurt — 2인
 **시작**: 둘 다 디자이너이자 작가. 뉴욕 로어 이스트 사이드에 "Just-In-Time Workshop and Occasional Bookstore"라는 물리적 공간을 열면서 시작.
 
 **운영 모델 — "주문형 출판소"**
 - 전통적 스튜디오가 아니라, 필요에 따라 즉석에서 인쇄·출판하는 워크숍
 - 디자인 = 유통 = 출판을 하나로 통합
-- *Dot Dot Dot* 잡지 발행 (2000~2010)
+
+**대표작**
+- *Dot Dot Dot* (2000~2010) — 디자인과 문화를 다루는 잡지, 총 20호 발행. 그래픽 디자인 담론에 큰 영향
+- *Bulletin of the Serving Library* — *Dot Dot Dot*의 후속, 온/오프라인 동시 발행 저널
+- *The Serving Library* — 디지털 아카이브 + 물리적 전시 공간
+- *Letter & Spirit* (2012) — Meta-the-Difference-Between-the-Two-Font 서체 프로젝트
+- Whitney Biennial (2008) 카탈로그 — 전시장에서 실시간 인쇄·제본
 
 **첫 프로젝트 / 퍼블리싱**
-- *Dot Dot Dot* — 디자인과 문화를 다루는 잡지, 20호 발행
-- 이후 *Bulletin of the Serving Library* — 온/오프라인 동시 발행 저널
+- *Dot Dot Dot* 1호 — Stuart Bailey가 이미 진행 중이던 잡지
+- Just-In-Time Workshop 개설 자체가 선언적 첫 프로젝트
 
 **지속 방법**
 - 출판물 판매 + 전시 + 강의 (Yale, Columbia 등) + 아트 프로젝트
@@ -82,6 +103,7 @@ confidence: medium
 
 ### 4. OK-RM (런던, 2008~)
 
+**링크**: [ok-rm.co.uk](https://ok-rm.co.uk)
 **멤버**: Oliver Knight, Rory McGrath — 2인 공동 창업, 현재 5~8인 규모
 **시작**: Royal College of Art 동기. 졸업 후 공동 창업.
 
@@ -90,9 +112,17 @@ confidence: medium
 - 자체 출판 임프린트 운영
 - 초기 2인에서 점진적으로 확장
 
+**대표작**
+- *Circular* — 자체 저널 발행
+- Tate Modern 관련 출판물 디자인
+- Serpentine Galleries 출판물 시리즈
+- V&A Museum 프로젝트들
+- *Real Review* — 건축·공간 잡지 디자인
+- OMA/Rem Koolhaas 관련 출판물
+
 **첫 프로젝트 / 퍼블리싱**
 - 졸업 후 바로 런던 문화 기관들과 연결
-- *Circular* — 자체 저널 발행
+- *Circular* 발행으로 자체 목소리 확보
 
 **CK에게 시사점**: 2인에서 시작해 점진적으로 키운 모델. 처음부터 큰 구조를 만들지 않고, 프로젝트가 쌓이면서 자연스럽게 성장.
 
@@ -100,6 +130,7 @@ confidence: medium
 
 ### 5. Åbäke (런던, 2000~)
 
+**링크**: [abake.fr](http://abake.fr)
 **멤버**: Patrick Lacey, Kajsa Ståhl, Maki Suzuki, Benjamin Reichen — 4인
 **시작**: Royal College of Art 동기. 졸업 후 결성.
 
@@ -108,8 +139,15 @@ confidence: medium
 - 프로젝트별로 모이고 흩어지는 유동적 구조
 - 디자인, 요리, 퍼포먼스 등 장르 경계를 넘나듦
 
+**대표작**
+- *Sexymachinery* — 초기 자체 잡지/zine, 이들의 정체성을 확립
+- Kitsuné 레이블 초기 아이덴티티 — 음악 레이블과의 협업
+- *Dojima River Biennale* (2009) — 참여형 설치 프로젝트
+- 다수의 요리/식당 프로젝트 — "디자인"의 범위를 확장
+- Serpentine Gallery Marathon 참여
+
 **첫 프로젝트 / 퍼블리싱**
-- *Sexymachinery* — 초기 자체 잡지/zine
+- *Sexymachinery* 1호 — RCA 재학 중 시작
 - 식당 운영 프로젝트 등 비전통적 접근
 
 **CK에게 시사점**: 물리적으로 떨어져 있어도 팀이 유지될 수 있다는 사례. 혁이 군대에 있는 현재 상황과 유사한 점이 있음. 다만 이들은 각자 독립적인 실력이 이미 있었기에 가능했던 측면도 있음.
@@ -118,6 +156,7 @@ confidence: medium
 
 ### 6. Practise (현재 오클랜드, 1999~)
 
+**링크**: [practise.co.uk](https://www.practise.co.uk)
 **멤버**: James Goggin, Shan James — 2인 핵심
 **시작**: Royal College of Art 졸업 후 런던에서 설립. 이후 네덜란드(Arnhem) → 미국(시카고) → 뉴질랜드(오클랜드)로 이동.
 
@@ -126,23 +165,35 @@ confidence: medium
 - 도시를 옮기며 그곳의 문화 기관과 협업
 - James Goggin은 MCA Chicago 디자인 디렉터 등 기관 내부 역할도 수행
 
+**대표작**
+- MCA Chicago 디자인 시스템 — 기관 내부에서 디렉팅한 대규모 프로젝트
+- Werkplaats Typografie 관련 출판물
+- Phaidon, Tate Modern, Transport for London 등 의뢰 작업
+- V&A Museum 컬렉션에 작업물 소장
+
 **CK에게 시사점**: "스튜디오 이름"에 태도를 담는 것의 중요성. Condensed Kiwi라는 이름에 어떤 태도가 담겨 있는지 정립할 필요.
 
 ---
 
 ### 7. NORM (취리히, 1999~)
 
+**링크**: [norm.to](https://norm.to)
 **멤버**: Dimitri Bruni, Manuel Krebs — 2인
 **시작**: 취리히 예술대학 동기.
 
 **운영 모델**
 - 타이포그래피와 서체 디자인에 집중
-- 자체 출판물이 곧 대표작: *Introduction* (2000) — A5 사이즈의 실험적 타이포그래피 책
+- 자체 출판물이 곧 대표작
 - 의뢰 작업은 선별적으로만 수행
+
+**대표작**
+- *Introduction* (2000) — A5 사이즈의 실험적 타이포그래피 책. 직접 인쇄·제본. 이 한 권이 팀의 국제적 명성을 확립
+- *The Things* — 자체 개발 서체
+- *Simple* (서체) — 스위스 타이포그래피 전통을 재해석
+- 취리히 Schauspielhaus 극장 시즌 그래픽
 
 **첫 프로젝트 / 퍼블리싱**
 - *Introduction* (2000) — 직접 인쇄·제본한 자체 출판물이 국제적 주목을 받음
-- 이후 *The Things* 서체 등
 
 **CK에게 시사점**: 자체 출판 하나가 팀의 정체성을 확립한 사례. 첫 퍼블리싱의 중요성.
 
@@ -152,6 +203,7 @@ confidence: medium
 
 ### 8. 슬기와 민 / Sulki & Min (서울, 2005~)
 
+**링크**: [sulki-min.com](https://sulki-min.com)
 **멤버**: 최슬기, 최성민 — 2인
 **시작**: Yale School of Art MFA 졸업 후 서울에서 설립.
 
@@ -160,9 +212,15 @@ confidence: medium
 - 의뢰 작업 (국립현대미술관, 서울시립미술관 등) + 자체 출판
 - 자체 출판 임프린트 *Specter Press* 운영
 
+**대표작**
+- 국립현대미술관(MMCA) 아이덴티티 및 전시 그래픽 시리즈
+- 서울시립미술관(SeMA) 출판물
+- *Specter Press* 출판물 — 자체 임프린트를 통한 실험적 출판
+- 광주비엔날레 카탈로그
+- *Sulki and Min* 웹사이트 — 그 자체로 아카이브이자 디자인 실험
+
 **첫 프로젝트 / 퍼블리싱**
 - 귀국 후 문화 기관 아이덴티티·출판물 작업부터 시작
-- *Sulki and Min* 웹사이트 자체가 아카이브이자 포트폴리오 역할
 
 **지속 방법**
 - 대학 교수직 (안정적 수입) + 의뢰 작업 + 출판 수익 + 강연/전시
@@ -173,6 +231,7 @@ confidence: medium
 
 ### 9. 워크룸 / Workroom (서울, 2006~)
 
+**링크**: [workroompress.kr](https://workroompress.kr)
 **멤버**: 김형진, 박활성 — 공동 창업 (현재는 약간 더 큰 규모)
 **시작**: 디자인 스튜디오와 출판사를 동시에 설립.
 
@@ -181,9 +240,15 @@ confidence: medium
 - 디자인 의뢰 작업으로 수익 → 자체 출판 프로젝트에 투자
 - 디자인 담론, 비평, 번역서 출판
 
+**대표작**
+- *워크룸 프레스* 출판 목록 전체 — 디자인 비평·이론 번역서 다수
+- *Graphic Design in the White Cube* — 한국 그래픽 디자인 담론 형성에 기여
+- *타이포그래피 서울* 관련 작업
+- 국립현대미술관, 아르코미술관 등 전시 그래픽
+- 다수의 독립 출판물 디자인·제작
+
 **첫 프로젝트 / 퍼블리싱**
 - 디자인 잡지와 비평 텍스트 번역 출판으로 시작
-- *Graphic Design in the White Cube* 등 담론 형성에 기여
 
 **CK에게 시사점**: 스튜디오와 출판사를 동시에 운영하는 모델. "출판"이 단순히 결과물이 아니라 팀의 핵심 활동이 되는 구조. CK가 zine이나 인쇄물을 내고 싶다면 참고할 모델.
 
@@ -191,6 +256,7 @@ confidence: medium
 
 ### 10. 6699press (서울, 2013~)
 
+**링크**: [6699press.com](https://6699press.com)
 **멤버**: 소규모 (정확한 구성원 공개 정보 제한적)
 **시작**: 리소그래프(Risograph) 인쇄 중심의 독립 출판 레이블로 시작.
 
@@ -198,6 +264,12 @@ confidence: medium
 - 리소그래프 인쇄기를 직접 보유·운영
 - 자체 출판 + 외부 아티스트 작업 인쇄 서비스
 - 아트북 페어 참가 (언리미티드 에디션 등)
+
+**대표작**
+- 다수의 리소그래프 zine 시리즈
+- 국내외 아티스트 협업 리소 인쇄물
+- 언리미티드 에디션 등 아트북 페어 참여를 통한 독립 출판 씬 형성
+- 워크숍 운영 — 리소그래프 인쇄 교육
 
 **첫 프로젝트 / 퍼블리싱**
 - 리소그래프 zine부터 시작 → 점차 작업 범위 확장
@@ -209,6 +281,7 @@ confidence: medium
 
 ### 11. 일상의실천 (서울, 2013~)
 
+**링크**: [everyday-practice.com](https://everyday-practice.com)
 **멤버**: 권준호, 김경철, 김어진 — 3인
 **시작**: 홍익대 동기. "디자인의 사회적 역할"을 핵심 가치로 결성.
 
@@ -216,6 +289,13 @@ confidence: medium
 - 클라이언트를 윤리적으로 선별 — 사회 이슈 관련 프로젝트를 우선
 - 노동권, 환경, 인권 등 사회 의제 관련 포스터·캠페인
 - 상업적 성공보다 사회적 메시지를 우선시
+
+**대표작**
+- 세월호 추모 포스터 시리즈 — 사회적 발언으로서의 그래픽 디자인
+- 노동·인권 관련 캠페인 포스터 다수
+- 서울시 공공 프로젝트
+- 국제 포스터 비엔날레 수상작들
+- *일상의실천 아카이브* 전시
 
 **첫 프로젝트 / 퍼블리싱**
 - 사회 이슈 포스터 작업으로 주목받기 시작
@@ -225,13 +305,19 @@ confidence: medium
 
 ---
 
-### 12. 프로파간다 (서울)
+### 12. 프로파간다 / Propaganda (서울)
 
+**링크**: [propaganda-seoul.kr](https://propaganda-seoul.kr)
 **시작**: 지욱 주도의 그래픽 디자인 스튜디오.
 
 **운영 모델**
 - 출판, 전시 그래픽, 아이덴티티 작업
 - 독립 출판 씬과 밀접한 관계
+
+**대표작**
+- 독립 출판물 디자인 다수
+- 전시 그래픽 및 아이덴티티 작업
+- 독립 출판 씬과의 협업 프로젝트
 
 ---
 
