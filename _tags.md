@@ -58,4 +58,11 @@ type: index
 | `foundational` | 기초/핵심 지식 |
 | `emerging` | 최신/떠오르는 주제 |
 
+## 조직 태그
+| 태그 | 설명 |
+|------|------|
+| `team` | 팀/그룹 단위 활동 |
+| `graphic-design` | 그래픽 디자인 작업 |
+| `condensed-kiwi` | Condensed Kiwi 팀 관련 |
+
 <!-- 새 태그 추가 시 적절한 카테고리에 추가하세요 -->

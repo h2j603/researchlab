@@ -12,6 +12,9 @@ type: index
 - [Sound ↔ Video ↔ Graphic — 매체 간 번역](projects/2026-03-18_sound-video-graphic/_index.md) — 소리·영상·그래픽 간 변환과 새로운 시각 언어의 가능성 탐구
 - [그리드 시스템 — 동서양의 해석 차이와 주술성](projects/2026-03-19_grid-systems/_index.md) — 교차점 vs. 칸, 그리드의 주술적 기능, sound↔graphic 연결 가능성
 
+## Condensed Kiwi
+- [Condensed Kiwi](condensed-kiwi/_index.md) — 그래픽 디자인 팀 (혁, 하진, 미주). 2025.12 결성, 작업 방향 논의 중
+
 ## 관심 분야 (Areas)
 <!-- 지속적으로 추적하는 분야 -->
 - (아직 등록된 분야가 없습니다)
