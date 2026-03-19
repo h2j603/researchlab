@@ -1,11 +1,11 @@
 ---
 title: "Sound ↔ Video ↔ Graphic — 매체 간 번역"
 date: 2026-03-18
-updated: 2026-03-18
+updated: 2026-03-19
 status: in-progress
 type: research
-tags: [visual-culture, analog-digital, semiotics, deep-dive]
-related: []
+tags: [visual-culture, analog-digital, semiotics, deep-dive, grid]
+related: ["projects/2026-03-19_grid-systems/_index.md"]
 confidence: medium
 ---
 
@@ -24,6 +24,7 @@ confidence: medium
 - [ ] 현재 기술로 영상→소리, 소리→시각 변환이 어디까지 가능한가?
 - [ ] 악보가 아닌, 매체 간 번역을 위한 새로운 시각 언어를 설계할 수 있는가?
 - [ ] "최신 기술로 최고의 아날로그함" 모토와 이 주제의 교차점은?
+- [ ] 그리드의 유형(교차점/칸/원형)이 소리-시각 번역의 결과를 어떻게 바꾸는가?
 
 ## 출발점 레퍼런스
 
@@ -35,3 +36,7 @@ confidence: medium
 
 - [상세 조사 내용](findings.md)
 - [출처 정리](sources.md)
+
+## 관련 프로젝트
+
+- [그리드 시스템 — 동서양의 해석 차이와 주술성](../2026-03-19_grid-systems/_index.md) — 그리드가 이 프로젝트의 구조적 열쇠가 될 수 있다

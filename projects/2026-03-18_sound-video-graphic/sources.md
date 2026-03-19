@@ -1,10 +1,10 @@
 ---
 title: "Sound ↔ Video ↔ Graphic — 출처 정리"
 date: 2026-03-18
-updated: 2026-03-18
+updated: 2026-03-19
 status: in-progress
 type: reference
-tags: [visual-culture, analog-digital, matthew-wilcock, sound-design]
+tags: [visual-culture, analog-digital, matthew-wilcock, sound-design, grid]
 related: ["projects/2026-03-18_sound-video-graphic/_index.md"]
 confidence: medium
 ---
@@ -115,7 +115,21 @@ confidence: medium
 | Vimeo — Tear 뮤직비디오 | [Vimeo](https://vimeo.com/351070251) | "Tear" 뮤직비디오 |
 | It's Nice That — Nicer Tuesdays | [It's Nice That](https://www.itsnicethat.com/articles/nicer-tuesdays-july-review-270716) | Nicer Tuesdays 발표 리뷰 |
 
+## 그리드 × 소리 관련
+
+| 제목 | 출처 | 설명 |
+|------|------|------|
+| Zack Browning — Magic Square 작곡 | [zackbrowning.github.io](https://zackbrowning.github.io/composition/magic-square.html) | 낙서, 행성 마방진, 풍수를 작곡 구조로 사용 |
+| Peter Maxwell Davies와 마방진 | [Holy Cross (PDF)](https://mathcs.holycross.edu/~groberts/Courses/Mont2/Handouts/Lectures/Davies-web.pdf) | Davies의 마방진 나선형 작곡법 분석 |
+| 행성 마방진과 음악 | [johndcook.com](https://www.johndcook.com/blog/2012/05/16/mars-magic-squares-music/) | 화성(Mars) 마방진의 음악적 적용 |
+| 4×4 Planetary Magick Square Dub | [Ambient Esoterica](https://www.ambientesoterica.com/4x4-planetary-magick-square-dub-in-16edo/) | 행성 마방진을 16-EDO 음률로 변환 |
+| 도덕경 마방진 sonification | [laetusinpraesens.org](https://www.laetusinpraesens.org/docs00s/taote6.php) | 마방진 구조로 도덕경 패턴을 소리로 변환하는 실험 |
+| Sara Adkins — "Let's Go" 바둑판 시퀀서 | [Hackaday](https://hackaday.com/2020/10/05/go-board-step-sequencer-lets-go-make-some-music/) | 바둑판을 OpenCV+OSC+Max/MSP 스텝 시퀀서로 전환 |
+| Sara Stovall — *Mandala Music* | [New College of Florida (논문)](https://digitalcommons.ncf.edu/theses_etds/4468/) | 만다라 형태의 그래픽 스코어 시리즈 (학위 논문) |
+| Sonification과 음악/사운드 아트의 관계 | [Springer (AI & Society)](https://link.springer.com/article/10.1007/s00146-011-0337-3) | sonification의 예술적 실천에 대한 이론적 틀 |
+
 ## 관련 문서
 
 - [프로젝트 개요](_index.md)
 - [상세 조사 내용](findings.md)
+- [그리드 시스템 리서치](../2026-03-19_grid-systems/findings.md)
