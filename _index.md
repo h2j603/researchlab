@@ -1,7 +1,7 @@
 ---
 title: "Research Lab — Home"
 date: 2026-03-18
-updated: 2026-03-18
+updated: 2026-03-19
 type: index
 ---
 
@@ -10,6 +10,7 @@ type: index
 ## 진행 중인 프로젝트
 <!-- 새 프로젝트 시작 시 여기에 링크 추가 -->
 - [Sound ↔ Video ↔ Graphic — 매체 간 번역](projects/2026-03-18_sound-video-graphic/_index.md) — 소리·영상·그래픽 간 변환과 새로운 시각 언어의 가능성 탐구
+- [그리드 시스템 — 동서양의 해석 차이와 주술성](projects/2026-03-19_grid-systems/_index.md) — 교차점 vs. 칸, 그리드의 주술적 기능, sound↔graphic 연결 가능성
 
 ## 관심 분야 (Areas)
 <!-- 지속적으로 추적하는 분야 -->
