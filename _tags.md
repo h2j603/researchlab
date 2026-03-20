@@ -36,6 +36,7 @@ type: index
 | `visual-culture` | 시각 문화 |
 | `typography` | 타이포그래피 |
 | `branding` | 브랜딩, 아이덴티티 |
+| `font-distribution` | 폰트 제작·배포 전략 |
 | `print` | 인쇄, 출판 |
 | `graphic-history` | 그래픽 디자인 역사 |
 | `grid` | 그리드 시스템, 격자 구조 |
@@ -64,5 +65,8 @@ type: index
 | `team` | 팀/그룹 단위 활동 |
 | `graphic-design` | 그래픽 디자인 작업 |
 | `condensed-kiwi` | Condensed Kiwi 팀 관련 |
+| `min-hee-jin` | 민희진/오케이레코즈 벤치마킹 |
+| `instagram` | 인스타그램 전략 |
+| `publishing-strategy` | 퍼블리싱/배포 전략 |
 
 <!-- 새 태그 추가 시 적절한 카테고리에 추가하세요 -->

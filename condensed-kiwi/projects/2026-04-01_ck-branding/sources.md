@@ -52,6 +52,20 @@ confidence: medium
 - 실크스크린 — 잉크 두께감, 레이어 질감
 - 콜라주 — 종이 텍스처, 절단면, 접착 흔적
 
+## 민희진 / 오케이레코즈
+- 민희진 — 나무위키: [namu.wiki/w/민희진](https://namu.wiki/w/%EB%AF%BC%ED%9D%AC%EC%A7%84) — SM 시절 정반합 전략, 비주얼 디렉팅 전반
+- 오케이레코즈(ooak) 설립 — 스타뉴스: [starnewskorea.com](https://www.starnewskorea.com/music/2025/10/24/2025102419461473850) — 2025.10 법인 등기, "One Of A Kind"
+- 오케이레코즈 사옥 오픈 — 스타뉴스: [starnewskorea.com](https://www.starnewskorea.com/music/2026/02/06/2026020615452839038) — 2026.02 가로수길 사옥
+- 마리끌레르 — 민희진 새 소속사: [marieclairekorea.com](https://www.marieclairekorea.com/celebrity/2025/10/ooak/)
+- 민희진 뉴진스 세계관 관점 — insight.co.kr: [insight.co.kr](https://www.insight.co.kr/news/427042) — "K팝 세계관에 반감"
+
+## 폰트 전략 / 커스텀 타입페이스
+- NotoSans Variable Font — Fontsource: [fontsource.org](https://fontsource.org/fonts/noto-sans) — wght(100-900), wdth(62.5-100) 축 정보
+- Noto Fonts GitHub: [github.com/notofonts](https://github.com/notofonts/) — 오픈소스 빌드, OFL 라이선스
+- Spotify Mix × Dinamo — It's Nice That: [itsnicethat.com](https://www.itsnicethat.com/articles/spotify-dinamo-new-typeface-spotify-mix-project-230524) — 커스텀 폰트 브랜딩 사례
+- 디자인 스튜디오가 폰트를 만드는 이유 — Elizabeth Goodspeed: [itsnicethat.com](https://www.itsnicethat.com/articles/elizabeth-goodspeed-on-why-design-studios-are-making-fonts-graphic-design-231025) — 스튜디오 주도 타입 디자인 트렌드
+- 폰트 유통 전략 — Typographica: [typographica.org](https://typographica.org/on-typography/taking-your-fonts-to-market-foundry-reseller-or-go-solo/) — 파운드리 vs 리셀러 vs 독립 판매
+
 ## 관련 문서
 - [리서치 및 벤치마킹](findings.md)
 - [프로젝트 개요](_index.md)
