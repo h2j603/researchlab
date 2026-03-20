@@ -51,6 +51,7 @@ type: index
 | `taxonomy` | 분류 체계 구축 |
 | `comparison` | 비교 분석 |
 | `deep-dive` | 심층 분석 |
+| `narrative-structure` | 서사 구조, 스토리텔링 분석 |
 | `manifesto` | 선언문, 원칙 정리 |
 | `field-note` | 현장/관찰 기록 |
 
