@@ -21,6 +21,8 @@ type: index
 | `consumer-behavior` | 소비 문화, 소비자 행동 |
 | `subculture` | 하위문화, 카운터컬처 |
 | `zeitgeist` | 시대정신, 트렌드 |
+| `worldbuilding` | 세계관 구축, 픽션 설계 |
+| `format-as-narrative` | 형식/포맷 자체가 서사 장치로 기능하는 구조 |
 
 ## 분야 태그 — 기술·도구
 | 태그 | 설명 |
@@ -49,6 +51,7 @@ type: index
 | `taxonomy` | 분류 체계 구축 |
 | `comparison` | 비교 분석 |
 | `deep-dive` | 심층 분석 |
+| `narrative-structure` | 서사 구조, 스토리텔링 분석 |
 | `manifesto` | 선언문, 원칙 정리 |
 | `field-note` | 현장/관찰 기록 |
 
