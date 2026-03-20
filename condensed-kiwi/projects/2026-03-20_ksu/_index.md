@@ -1,0 +1,47 @@
+---
+title: "KSU (Kiwi Support Union) 프로젝트"
+date: 2026-03-20
+updated: 2026-03-20
+status: in-progress
+type: research
+tags: [condensed-kiwi, ksu, branding, worldbuilding]
+related: ["../2026-04-01_ck-branding/_index.md"]
+confidence: low
+---
+
+# KSU (Kiwi Support Union) 프로젝트
+
+## 개요
+
+CK(Condensed Kiwi)의 산하 가상 단체. "진지한 태도로 헛소리를 하는" 전위적 프로젝트.
+
+**기획**: 미주
+**역할 분담**: 미주(기획/전체 브랜딩), 혁(웹), 하진(메뉴얼북)
+**목표 일정**: ~3월말 기획 / 4월 작업 / 5월 중순 쇼오프
+
+## 현재 상태
+
+- 기획 초기 단계. 핵심 컨셉("KSU가 뭔데?") 미확정
+- "실용적이면 안 된다" = 전위적/퍼포먼스적 방향 합의
+- 세계관, 타겟 오디언스, 산출물 구체화 필요
+
+## 산출물 (예정)
+
+- 기관 브랜딩
+- KSU 웹사이트
+- KSU 메뉴얼북
+- 기타(@)
+
+## 핵심 미해결 질문
+
+1. KSU는 ___를 하는 단체이다. (한 문장 정의)
+2. 왜 키위인가? 세계관 내 동기는?
+3. 타겟 오디언스는 누구인가?
+4. CK 본체와의 관계가 작업 레벨에서 어떻게 구현되는가?
+5. 웹 개발은 누가 하는가? (혁은 군복무 중 코딩 불가)
+
+## 문서 맵
+
+- [비평](_critique.md)
+- [킥오프 회의록](meetings/2026-03-20.md)
+- [CK 브랜딩 프로젝트](../2026-04-01_ck-branding/_index.md)
