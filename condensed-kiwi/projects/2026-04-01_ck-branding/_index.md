@@ -1,7 +1,7 @@
 ---
 title: "CK 브랜딩 프로젝트"
 date: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-21
 status: in-progress
 type: research
 tags: [branding, condensed-kiwi, graphic-design, visual-culture]
@@ -43,6 +43,12 @@ confidence: medium
 - [리서치 및 벤치마킹](findings.md) — 벤치마킹, 퍼블리싱 전략, 멤버 구성
 - [비평](_critique.md) — Red Team 검증
 - [출처](sources.md) — 참고 자료
+
+## 폰트 개발
+- **CK Sans** — Noto Sans Variable Font 기반 CK 커스텀 서체
+- 개발 리포: [h2j603/ckfont](https://github.com/h2j603/ckfont)
+- 축 전략: Condensed(wdth=75) + Bold(wght=700) 기본값
+- Phase 1(파라미터) → Phase 2(핵심 글리프) → Phase 3(확장) → Phase 4(다국어)
 
 ## 관련 문서
 - [Condensed Kiwi](../../_index.md) — 팀 메인 페이지
