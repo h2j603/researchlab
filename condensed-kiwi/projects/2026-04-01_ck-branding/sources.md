@@ -1,7 +1,7 @@
 ---
 title: "CK 브랜딩 — 출처"
 date: 2026-03-19
-updated: 2026-03-20
+updated: 2026-03-25
 status: in-progress
 type: reference
 tags: [branding, condensed-kiwi]
@@ -90,6 +90,17 @@ confidence: medium
 - [Kimp — Optical Illusions in Design](https://www.kimp.io/optical-illusions/)
 - Counter-Print — *Optic* (옵티컬 효과 분류 서적)
 - Halo Brewery (Underline Studio) — 옵아트 패턴 라벨 시스템
+
+## 인스타그램 퍼스트 런칭 / 팀 리빌
+- Fashion Nova 인플루언서 전략 — getSaral: [getsaral.com](https://www.getsaral.com/academy/fashion-nova-influencer-marketing-strategy) — 마이크로 인플루언서 대군 모델
+- Instagram 패션 브랜드 구축 2025 — Isa Aydin: [isa-aydin.com](https://www.isa-aydin.com/articles/how-to-build-your-clothing-brand-on-instagram-in-2025/) — 소규모 브랜드 전략
+- 크리에이티브 브랜드의 인스타 활용법 — Envato: [envato.com](https://elements.envato.com/learn/instagram-tips-from-creative-brands) — Animade, Design Bridge, Studio Mut 사례
+- 스타트업 인스타 전략 2025 — Kontentino: [kontentino.com](https://www.kontentino.com/blog/10-instagram-strategies-for-startup/) — 콘텐츠 필러 구조
+- 인스타그램 마케팅 2026 — DesignRush: [designrush.com](https://www.designrush.com/agency/social-media-marketing/instagram/trends/instagram-marketing-strategy)
+- 인스타그램 그리드 레이아웃 2025 — SpurNow: [spurnow.com](https://www.spurnow.com/en/blogs/instagram-layout-ideas) — 체커보드, 컬럼 등
+- 인스타그램 그리드 2026 — Social Rails: [socialrails.com](https://socialrails.com/blog/instagram-grid-layout-ideas) — 3:4 전환 대응
+- 인스타그램 그리드 가이드 — Planable: [planable.io](https://planable.io/blog/instagram-grid/) — 브랜드별 사례
+- 패션 마케팅 사례 연구 — Marketing LTB: [marketingltb.com](https://marketingltb.com/blog/marketing/fashion-marketing-case-study/) — Jacquemus 등
 
 ## 트렌드/리서치 참고
 - [Adobe — Design Trends 2025](https://www.adobe.com/express/learn/blog/design-trends-2025)
