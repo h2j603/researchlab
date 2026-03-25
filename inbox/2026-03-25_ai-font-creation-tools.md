@@ -119,5 +119,6 @@ Noto Sans를 직접 수정하는 대신 고려할 접근:
 
 ## 관련 문서
 
+- [오픈소스 기반 자체 서체 제작 벤치마킹](2026-03-25_open-source-font-fork-benchmarking.md)
 - [CK Font 제작 전략](../condensed-kiwi/projects/2026-03-25_ck-font-creation/_index.md)
 - [CK 브랜딩 프로젝트](../condensed-kiwi/projects/2026-04-01_ck-branding/_index.md)
