@@ -5,7 +5,7 @@ updated: 2026-03-25
 status: inbox
 type: reference
 tags: [contemporary-art, branding, deepfake, ai, worldbuilding, condensed-kiwi, instagram]
-related: ["projects/2026-03-25_paolo-cirio-resurrect/_index.md"]
+related: ["_index.md", "visual-references.md"]
 confidence: medium
 ---
 
