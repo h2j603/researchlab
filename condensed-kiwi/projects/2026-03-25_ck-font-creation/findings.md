@@ -239,7 +239,82 @@ CK Sans의 위치: **기하학적이면서 컨덴스드**. Druk의 강렬함 + S
 
 ---
 
+## 6. 벤치마킹 — 오픈소스 서체 제작 사례
+
+### 6.1 오픈소스 포크/변형으로 새 서체를 만든 사례
+
+| 사례 | 베이스 → 결과물 | 방법 | CK 시사점 |
+|------|----------------|------|----------|
+| **Public Sans** | Libre Franklin → 미국 정부 공식 서체 | 높이 2% 축소, `l`자 꼬리 하나 추가. 최소한의 변형으로 별도 서체 완성 | **소규모 변형도 브랜드 서체가 될 수 있다** |
+| **Sarasa Gothic** (12k stars) | Iosevka + Source Han Sans 합성 | 개인 1인 프로젝트. 힌팅 재작업, CJK 합성 | 한글 확장 시 참고할 합성 워크플로우 |
+| **Nerd Fonts** (62.2k stars) | 50+ 기존 폰트에 3,600+ 아이콘 패칭 | FontForge 스크립트로 자동화 | 글리프 패칭 자동화의 극단적 사례 |
+| **Monoplex KR** | IBM Plex Mono + IBM Plex Sans KR 합성 | 한영 합성 | IBM Plex 기반 한글 합성의 실제 사례 |
+| **D2 Coding** (네이버) | 나눔바른고딕 기반 코딩 서체 | 기업 내부 용도로 포크 | 기업이 오픈소스를 포크해 자사용으로 특화 |
+
+**핵심 패턴**: 포크의 성공 공식은 "기존 서체의 기술적 완성도를 유지하면서, 특정 용도에 맞게 최소한으로 변형"하는 것. Public Sans는 이 전략의 극단 — 거의 안 바꿨는데도 별도 서체로 인정받았다.
+
+### 6.2 소규모/개인이 처음부터 만든 오픈소스 서체
+
+| 사례 | 스타 | 특징 | 도구/워크플로우 |
+|------|------|------|---------------|
+| **Iosevka** | 21.9k | JavaScript로 글리프를 코드로 정의. 빌드 시스템이 수천 가지 변형 자동 생성 | **코드 기반 생성** — 가장 독특한 접근 |
+| **Maple Font** | 24.7k | 중영문 2:1 비율 모노스페이스. 라운드 코너 | Python 기반 빌드 |
+| **Plus Jakarta Sans** | 1k | 자카르타시 공식 서체를 오픈소스로 공개 | Glyphs + GitHub |
+| **Velvetyne Type Foundry** | — | 프랑스 소규모 커뮤니티. 오픈소스 도구만으로 실험적 고퀄리티 서체 지속 생산 | FontForge, fonttools 등 무료 도구 조합 |
+
+**핵심 패턴**: 세 가지 워크플로우로 수렴함:
+- **(A) 코드 기반 생성**: Iosevka처럼 글리프를 코드로 정의 → 빌드 시스템으로 폰트 생성
+- **(B) 에디터 + GitHub**: Glyphs/FontForge로 디자인 → GitHub으로 버전 관리/배포
+- **(C) 합성/패칭**: 기존 서체들을 스크립트로 합성
+
+### 6.3 AI/ML로 실제 완성된 서체
+
+| 사례 | AI 역할 | 인간 역할 | 결과 |
+|------|---------|----------|------|
+| **AIfont** (Process Studio, 2019~) | DCGAN으로 글리프 생성 (80~90%) | 데이터 큐레이션, 환경 설정 | **500개 폰트 + Variable Font 실제 판매**. 비엔나 비엔날레 비주얼 아이덴티티로 사용. 다만 아트 프로젝트 성격 |
+| **Monotype x Blaze Type "Human Types"** (2025) | Monotype AI가 소수 글리프 → 나머지 알파벳 자동 생성 (60%) | 전문 타입 디자이너가 방향 설정 + 정제 (40%) | 6개 한정 서체. 전문가 협업의 공식 실험 |
+| **CLOVA AI (NAVER)** | DM-Font, LF-Font, MX-Font 등 few-shot 모델 | 연구자가 모델 설계/훈련 | 오픈소스 통합 저장소 (261 stars). CJK 강점. 이미지 출력까지만 |
+| **MC-GAN** (CVPR 2018) | Few-shot 스타일 전이 (90%) | 연구 설계 | 447 stars. 선구적 연구지만 폰트 파일 출력 없음 |
+
+**핵심 현실**: 상용 품질의 완전한 서체 패밀리를 AI만으로 만들어 시장에서 성공한 사례는 **아직 없다**. 현재 AI 서체는:
+- 아트 프로젝트이거나 (AIfont)
+- 전문 디자이너가 상당 부분 개입한 협업이거나 (Monotype)
+- 이미지 출력까지만 가능하고 폰트 파일 변환은 별도 파이프라인이 필요하거나 (CLOVA AI, MC-GAN)
+
+### 6.4 GitHub 오픈소스 AI 폰트 프로젝트
+
+| 프로젝트 | stars | 설명 | 환경 |
+|----------|-------|------|------|
+| [`clovaai/fewshot-font-generation`](https://github.com/clovaai/fewshot-font-generation) | 261 | FUNIT/DM-Font/LF-Font/MX-Font 4개 모델 통합 | GPU + PyTorch |
+| MC-GAN | 447 | CVPR 2018, few-shot 스타일 전이 | GPU + PyTorch |
+| FontDiffuser | — | AAAI 2024, 원샷 디퓨전 폰트 생성 | GPU + PyTorch |
+| DA-Font | — | ACM MM 2025, 최신 | GPU + PyTorch |
+| GC-Font | — | BMVC 2025, 최신 | GPU + PyTorch |
+
+**현실적 제약**: 전부 GPU + Python/PyTorch 필수. 아이폰에서 실행 불가. 휴가 시 PC에서도 GPU가 없으면 학습/추론이 매우 느림.
+
+### 6.5 CK에 대한 시사점 종합
+
+**가장 현실적인 벤치마크**: **Public Sans** (Libre Franklin 포크)
+- 최소한의 변형으로 공식 브랜드 서체를 만든 사례
+- 커닝/힌팅/메트릭스를 처음부터 하지 않아도 됨
+- OFL 라이선스이지만, 브랜드 서체로서의 가치는 충분
+
+**가장 영감을 주는 벤치마크**: **Iosevka** (코드 기반 글리프 생성)
+- 글리프를 코드로 정의하고 빌드 시스템이 변형을 자동 생성
+- "최신의 기술로 최고의 아날로그함을 추구"라는 CK 철학과 맞닿아 있음
+
+**AI 활용의 현실적 기대치 조정**:
+- AI는 "전문 서체 제작"이 아니라 "빠른 프로토타이핑"에 적합
+- 최종 퀄리티는 여전히 사람 손을 타야 함
+- **경로 B(오픈소스 변형) + AI 보조**가 경로 A(AI 주도)보다 현실적일 수 있음
+
+---
+
 ## 관련 문서
 - [CK 브랜딩 프로젝트](../2026-04-01_ck-branding/_index.md)
 - [CK 브랜딩 findings § 2. 폰트 전략](../2026-04-01_ck-branding/findings.md)
 - [AI 폰트 도구 초기 리서치](../../../inbox/2026-03-25_ai-font-creation-tools.md)
+- [오픈소스 폰트 포크 벤치마킹](../../../inbox/2026-03-25_open-source-font-fork-benchmarking.md)
+- [AI 폰트 사례 조사](../../../projects/2026-03-25_ai-font-case-studies/_index.md)
+- [GitHub 오픈소스 폰트 조사](../../../projects/2026-03-25_opensource-font-github/_index.md)
