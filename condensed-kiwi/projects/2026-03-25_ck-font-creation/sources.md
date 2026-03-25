@@ -39,6 +39,16 @@ confidence: medium
 - [Grovers - Best AI Font Generators 2026](https://grovers.io/best-ai-font-generators/)
 - [I Love Typography - Fonts and AI](https://trust.ilovetypography.com/fonts-and-ai/)
 
+## 베이스 서체 후보 (포크용)
+
+- [Iosevka GitHub](https://github.com/be5invis/Iosevka) — 코드 기반 빌드, Condensed + Mono + Geometric. 21.9k stars. SIL OFL
+- [Iosevka 공식 사이트](https://typeof.net/Iosevka/) — 커스터마이저, 문서
+- [Martian Mono GitHub](https://github.com/evilmartians/mono) — Variable Font (wdth + wght), 기하학적 모노스페이스. SIL OFL
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/) — 기하학적 모노스페이스, 좁은 폭. SIL OFL
+- [Space Mono](https://github.com/googlefonts/spacemono) — 60년대 기하학 스타일. Apache 2.0
+- [IBM Plex GitHub](https://github.com/IBM/plex) — 체계적 패밀리, 8웨이트. SIL OFL
+- [Monaspace GitHub](https://github.com/githubnext/monaspace) — GitHub 공식, 5개 하위 패밀리. SIL OFL
+
 ## CK 레퍼런스 서체
 
 - **Druk** (Commercial Type) — 극단적 컨덴스드/와이드, 강렬한 헤드라인
