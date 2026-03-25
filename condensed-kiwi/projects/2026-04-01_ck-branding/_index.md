@@ -50,6 +50,7 @@ confidence: medium
 - 개발 리포: [h2j603/ckfont](https://github.com/h2j603/ckfont)
 - 축 전략: Condensed(wdth=75) + Bold(wght=700) 기본값
 - Phase 1(파라미터) → Phase 2(핵심 글리프) → Phase 3(확장) → Phase 4(다국어)
+- **방향 전환 검토**: NotoSans 포크의 난이도 문제로 AI 활용 영문 자체 제작을 병행 리서치 중 → [CK Font 제작 전략](../2026-03-25_ck-font-creation/_index.md)
 
 ## 관련 문서
 - [Condensed Kiwi](../../_index.md) — 팀 메인 페이지
