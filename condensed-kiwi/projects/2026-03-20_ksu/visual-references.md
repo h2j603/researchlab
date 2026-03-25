@@ -5,7 +5,7 @@ updated: 2026-03-25
 status: in-progress
 type: reference
 tags: [condensed-kiwi, aku, visual-reference, contemporary-art, uncanny-valley, net-art, fake-institution]
-related: ["../condensed-kiwi/projects/2026-03-20_ksu/_index.md", "../condensed-kiwi/projects/2026-03-20_ksu/meetings/2026-03-25.md"]
+related: ["_index.md", "meetings/2026-03-25.md"]
 confidence: medium
 ---
 
@@ -148,5 +148,6 @@ confidence: medium
 ---
 
 ## 관련 문서
-- [AKU 프로젝트 인덱스](../condensed-kiwi/projects/2026-03-20_ksu/_index.md)
-- [3/25 회의록](../condensed-kiwi/projects/2026-03-20_ksu/meetings/2026-03-25.md)
+- [AKU 프로젝트 인덱스](_index.md)
+- [3/25 회의록](meetings/2026-03-25.md)
+- [비주얼 레퍼런스 추가](visual-references-extra.md)
