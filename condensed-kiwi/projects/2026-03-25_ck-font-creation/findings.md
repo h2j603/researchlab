@@ -208,25 +208,90 @@ confidence: medium
 
 기존 CK 비주얼 아이덴티티에서 도출한 서체 디자인 방향:
 
-### 5.1 디자인 키워드
-- **Condensed** — 좁고 세로로 긴 비율. Druk, Dharma Gothic 계열
+### 5.1 디자인 키워드 (업데이트)
+- **Condensed** — 좁고 세로로 긴 비율. 공간 효율이 높고, 텍스트가 밀도 있게 보임
+- **Monospace** — 고정폭. 모든 글자가 같은 너비를 차지. 코드, 데이터, 모듈화된 텍스트에 적합
 - **Geometric** — 원과 직선의 조합. 유기적 곡선보다 구조적 형태
-- **High-contrast weight** — Regular과 Bold 사이 낙차가 큼
 - **Sharp terminals** — 획 끝이 날카롭게 끊김 (둥근 마감 X)
 
-### 5.2 레퍼런스 포지셔닝
+**Condensed + Monospace + Geometric의 교차점**: 이 세 속성을 동시에 가진 서체는 극히 드물다. 대부분의 모노스페이스 서체는 넓은 편이고, 컨덴스드 서체는 프로포셔널(가변폭)이다. 이 조합 자체가 CK의 차별점이 된다.
+
+### 5.2 베이스 서체 후보 (포크용)
+
+세 속성을 모두 갖춘 오픈소스 서체는 **2개만 확인됨**:
+
+| 순위 | 서체 | Condensed | Mono | Geometric | Variable Font | 라이선스 | 포크 적합도 |
+|:----:|------|:---------:|:----:|:---------:|:------------:|----------|:----------:|
+| **1** | **Iosevka** | O (기본이 1/2em 폭) | O | O | O (wght, wdth) | SIL OFL | **최고** |
+| **2** | **Martian Mono** | O (wdth 축) | O | O | O (wght, wdth) | SIL OFL | **높음** |
+
+부분 충족:
+
+| 서체 | Condensed | Mono | Geometric | 비고 |
+|------|:---------:|:----:|:---------:|------|
+| **JetBrains Mono** | X | O | O | 폭 자체가 좁은 편. 포크 후 너비 축소 필요 |
+| **Space Mono** | X | O | O | 60년대 기하학 스타일. Variable Font 없음, 2웨이트만 |
+| **IBM Plex Mono** | X | O | 부분적 | 8웨이트. Mono에는 Condensed 없음 |
+| **Monaspace** (GitHub) | X | O | 부분적 | 5개 하위 패밀리. wdth 축 있음 |
+
+**Input Mono**: Condensed 지원 + Monospace이지만, **오픈소스가 아님** (소스 비공개, 상업 유료). 포크 불가.
+
+### 5.3 최우선 후보: Iosevka
+
+**왜 Iosevka인가**:
+- **코드 기반 빌드**: `private-build-plans.toml` 파일 하나로 글리프 형태, 너비, 리가처, 세리프 유무를 모두 제어. 포크 없이도 완전한 커스텀 서체 생성 가능
+- **143개 문자 변형**: 각 글자(a, g, l, t 등)에 대해 여러 디자인 변형 중 선택 가능
+- **21.9k stars**: 대규모 커뮤니티, 지속적 업데이트
+- **이미 Condensed**: 기본 폭이 0.5em으로 일반 모노스페이스(0.6em)보다 좁음
+- **SIL OFL**: "Iosevka" 이름만 바꾸면(Reserved Font Name) 자유롭게 포크/수정/배포
+
+**CK Mono 워크플로우 (Iosevka 기반)**:
+```
+[1. private-build-plans.toml 작성]
+    → 글리프 스타일 선택 (143개 변형 중)
+    → wdth, wght 범위 설정
+    → 리가처 on/off
+
+[2. 빌드]
+    → Node.js 환경에서 빌드 (PC 또는 GitHub Actions)
+    → OTF/TTF/WOFF2 자동 생성
+
+[3. 커스텀 글리프 추가]
+    → 빌드된 결과물을 FontForge에서 열어
+    → CK 고유 글리프 추가/수정 (로고 타입 등)
+
+[4. 테스트/배포]
+```
+
+**GitHub Actions 활용**: PC 없이도 GitHub에 toml 파일을 푸시하면 자동 빌드 가능. 아이폰에서 GitHub 앱으로 설정 파일을 수정하고, Actions가 폰트를 빌드하는 워크플로우가 가능.
+
+### 5.4 차순위 후보: Martian Mono
+
+**장점**:
+- Variable Font의 wdth 축으로 Condensed ↔ Semi Wide 실시간 조절
+- 깔끔한 기하학적 디자인
+- Iosevka보다 시각적으로 따뜻한 느낌
+
+**단점**:
+- 코드 기반 커스터마이징 불가 (일반적인 폰트 에디터 필요)
+- 커뮤니티 규모 작음 (비교적 새 프로젝트)
+
+### 5.5 레퍼런스 포지셔닝 (업데이트)
 
 ```
+← 프로포셔널                        모노스페이스 →
+
+   Druk         Dharma Gothic       [해당 없음]     ← 컨덴스드
+                                        ↑
+                                    [CK Mono]       ← Condensed + Mono + Geometric
+                                        ↓
+   Space Grotesk  GT America    Iosevka / Martian   ← 기하학적
+   Futura                      JetBrains Mono
+
 ← 넓음                              좁음(컨덴스드) →
-
-   Helvetica    GT America    Druk     ← 중립적/뉴트럴
-                              ↑
-                           [CK Sans]
-                              ↓
-   Futura       Space Grotesk Dharma   ← 기하학적
 ```
 
-CK Sans의 위치: **기하학적이면서 컨덴스드**. Druk의 강렬함 + Space Grotesk의 기하학적 구조.
+**CK Mono의 고유 위치**: 컨덴스드 + 모노스페이스 + 기하학적. 이 교차점에 있는 서체가 거의 없기 때문에 포지셔닝 자체가 차별점.
 
 ### 5.3 다국어 확장 로드맵 (영문 완성 후)
 
