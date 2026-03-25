@@ -1,7 +1,7 @@
 ---
 title: "CK 브랜딩 프로젝트"
 date: 2026-03-19
-updated: 2026-03-21
+updated: 2026-03-25
 status: in-progress
 type: research
 tags: [branding, condensed-kiwi, graphic-design, visual-culture]
@@ -41,6 +41,7 @@ confidence: medium
 
 ## 문서
 - [리서치 및 벤치마킹](findings.md) — 벤치마킹, 퍼블리싱 전략, 멤버 구성
+- [인스타그램 전략 벤치마킹](instagram-strategy.md) — 초반 팀 공개, 인스타 퍼스트 런칭, 그리드 전략
 - [비평](_critique.md) — Red Team 검증
 - [출처](sources.md) — 참고 자료
 
