@@ -71,5 +71,6 @@ type: index
 | `min-hee-jin` | 민희진/오케이레코즈 벤치마킹 |
 | `instagram` | 인스타그램 전략 |
 | `publishing-strategy` | 퍼블리싱/배포 전략 |
+| `character` | 세계관 내 캐릭터/요원 프로필 |
 
 <!-- 새 태그 추가 시 적절한 카테고리에 추가하세요 -->
