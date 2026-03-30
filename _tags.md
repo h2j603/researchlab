@@ -41,6 +41,8 @@ type: index
 | `branding` | 브랜딩, 아이덴티티 |
 | `font-distribution` | 폰트 제작·배포 전략 |
 | `print` | 인쇄, 출판 |
+| `web-to-print` | 웹 기술(HTML/CSS/JS) 기반 인쇄 디자인 |
+| `self-publishing` | 셀프 퍼블리싱, 독립 출판 |
 | `graphic-history` | 그래픽 디자인 역사 |
 | `grid` | 그리드 시스템, 격자 구조 |
 
