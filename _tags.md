@@ -31,6 +31,7 @@ type: index
 | `analog-digital` | 아날로그와 디지털의 교차 |
 | `technology` | 기술 동향 |
 | `tool` | 도구, 매체, 기법 |
+| `creative-coding` | 크리에이티브 코딩, 제너러티브 아트 |
 
 ## 분야 태그 — 디자인·시각
 | 태그 | 설명 |
