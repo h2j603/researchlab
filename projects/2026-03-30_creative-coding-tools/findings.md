@@ -139,7 +139,84 @@ confidence: medium
 
 ---
 
+---
+
+## 6. 웹-투-프린트 도구 — 웹 기술로 인쇄물 만들기
+
+### 핵심 발견
+- **Paged.js** — CSS Paged Media 폴리필의 사실상 표준. Chromium 위에 CSS Paged Media 스펙을 구현. 책, 타이포그래피 출판물 등 실제 인쇄 프로젝트에 활발히 사용 중. **웹 디자인과 인쇄 디자인의 경계를 허무는 핵심 도구**
+- **Vivliostyle** — CSS 조판 엔진. 일본 커뮤니티에서 특히 활발. 다국어 타이포그래피에 강점
+- **Typst** — LaTeX의 현대적 대안. 마크업 기반 조판 시스템. 학습 곡선이 훨씬 완만하면서 동등한 파워. 리서치 문서 출판에 유망
+- **Bindery.js는 개발 중단됨** → Paged.js로 마이그레이션 권장
+- **PrePostPrint** — 웹 프로그래밍 언어를 디자인/자가출판 도구로 활용하는 커뮤니티. 2026년 4월/6월 컨퍼런스 예정
+
+### 출처
+- [Paged.js](https://pagedjs.org/) — CSS Paged Media 폴리필
+- [Vivliostyle](https://vivliostyle.org/) — CSS 기반 조판 엔진
+- [Typst](https://typst.app/) — 현대적 마크업 조판 시스템
+- [PrePostPrint](https://prepostprint.org/resources/) — 웹-투-프린트 커뮤니티
+
+---
+
+## 7. 사회 현상 데이터 시각화 도구
+
+### 핵심 발견
+- **Observable Plot** — D3 팀이 만든 고수준 API. 복잡한 D3 문법 없이 사회 데이터를 빠르게 탐색/시각화 가능
+- **Flourish** — 스토리텔링과 시각적 내러티브에 특화. 사회 현상을 대중에게 전달할 때 특히 유용. 무료 티어 존재
+- **Apache ECharts 6.0** (2025.7) — chord series, matrix 좌표계 추가. 사회 네트워크/관계 데이터에 유용
+
+### 출처
+- [Observable Plot](https://observablehq.com/plot/) — D3 팀의 고수준 시각화 API
+- [Flourish](https://flourish.studio/) — 스토리텔링 중심 데이터 시각화
+- [Apache ECharts](https://echarts.apache.org/) — 대규모 데이터셋 처리에 강한 오픈소스 시각화
+
+---
+
+## 8. 실험적 웹 기술 — 2026년 주목할 브라우저 네이티브 기능
+
+### 핵심 발견
+- **View Transitions API** — 2025년 10월 Baseline 달성. 모든 주요 브라우저 지원. 페이지 간 영화적 전환을 CSS/JS로 구현. **2026년 신규 프로젝트의 기본 선택지**
+- **Scroll-Driven Animations** — CSS만으로 스크롤 기반 애니메이션. JS 라이브러리 의존 대폭 감소. 키네틱 타이포그래피와 결합 시 강력
+- **CSS `@property` (Houdini)** — 커스텀 프로퍼티에 타입 지정 + 애니메이션 가능. 가변 폰트 축 애니메이션과 결합 가능성
+
+### 출처
+- [View Transitions in 2025 — Chrome Developers](https://developer.chrome.com/blog/view-transitions-in-2025)
+- [Scroll-Driven Animations — MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Scroll-driven_animations)
+- [CSS Houdini — MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Properties_and_values_API/Houdini)
+
+---
+
+## 9. 리서치/지식 관리 도구 — 니치하지만 알면 좋은 것들
+
+### 핵심 발견
+- **AFFiNE** — 2025-2026 가장 주목받는 신흥 도구. 로컬 퍼스트 + 비주얼 캔버스 + 협업 DB 통합. 오픈소스. Obsidian과 Notion의 장점을 결합
+- **Zettlr** — 학술 연구 특화 마크다운 에디터. Zotero 인용 관리 내장. 완전 무료 오픈소스
+- **AI 증강 지식 그래프** — NER(개체명 인식) + LLM을 Zettelkasten 위에 올려 자동 엔티티 링킹/추론하는 접근 부상 중
+
+### 출처
+- [AFFiNE](https://affine.pro/) — 오픈소스 올인원 지식 관리 도구
+- [Zettlr](https://www.zettlr.com/) — 연구자를 위한 마크다운 에디터
+- [AI Zettelkasten — Obsidian Forum](https://forum.obsidian.md/t/ai-empowered-zettelkasten-with-ner-and-graph-llm/79112)
+
+---
+
+## 기존 리서치와의 연결점
+
+| 기존 프로젝트 | 연결되는 도구/기술 | 왜 |
+|---|---|---|
+| Sound↔Video↔Graphic 번역 | **Hydra**, **Strudel**, **Tone.js** | 소리↔비주얼 실시간 번역을 코드로 직접 실험 가능 |
+| 그리드 시스템 | **c2.js** (보로노이/들로네), **CSS Grid + Scroll-Driven Animations** | 기하학적 그리드 패턴의 동적 시각화 |
+| 형식이 세계관을 만든다 | **Paged.js**, **View Transitions API** | "포맷 자체가 내러티브"를 웹/인쇄 매체에서 직접 실현하는 기술적 수단 |
+| 폰트/타이포그래피 | **가변 폰트 + GSAP + Scroll-Driven Animations** | 키네틱 타이포그래피의 실행 도구 조합 |
+| "진지한 헛소리" 조직 브랜딩 | **Typst** (가상 조직의 "공식 문서" 포맷 제작) | SCP식 관료적 문서 양식을 자동화/체계화 |
+
+---
+
 ## 관련 문서
 - [크리에이티브 코딩 도구 리서치 MOC](_index.md)
 - [AI 폰트 사례 연구](../2026-03-25_ai-font-case-studies/_index.md)
 - [오픈소스 폰트 GitHub](../2026-03-25_opensource-font-github/_index.md)
+- [Sound↔Video↔Graphic 번역](../2026-03-18_sound-video-graphic/_index.md)
+- [그리드 시스템](../2026-03-19_grid-systems/_index.md)
+- [형식이 세계관을 만든다](../../inbox/2026-03-20_format-as-worldbuilding.md)
+- [리서치-디자인 브릿지 도구 (inbox)](../../inbox/2026-03-30_research-design-bridge-tools.md)
