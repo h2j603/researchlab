@@ -37,6 +37,8 @@ type: index
 ## 분야 태그 — 디자인·시각
 | 태그 | 설명 |
 |------|------|
+| `contemporary-art` | 현대미술, 개념미술 |
+| `deepfake` | 딥페이크, AI 생성 영상/이미지 |
 | `visual-culture` | 시각 문화 |
 | `typography` | 타이포그래피 |
 | `branding` | 브랜딩, 아이덴티티 |
