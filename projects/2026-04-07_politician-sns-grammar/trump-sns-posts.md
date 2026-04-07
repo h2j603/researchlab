@@ -191,7 +191,87 @@ confidence: medium
 
 ## 4. 2024년 대선 캠페인 시기 (Truth Social)
 
+### 4-1. 바이든 사퇴 전후 (2024년 6~7월)
+
 ### Post #16
+- **날짜**: 2024년 6월 27일 (CNN 대선 토론 직후)
+- **플랫폼**: Truth Social
+- **맥락**: CNN 주최 바이든-트럼프 1차 토론. 바이든의 혼란스러운 수행이 사퇴 압력의 시작점이 됨
+- **원문**: `"Just arrived in New York City. This was a Big Victory against a man, Crooked Joe, who has WEAPONIZED his Department of Justice against me, and all of the FAKE Indictments and Lawsuits! Great Job Tonight!"`
+- **문법 특징**: "Crooked Joe" 별명, "WEAPONIZED", "FAKE" 선택적 대문자, 자기 칭찬("Great Job") + 감탄부호 연속
+- **출처**: The American Presidency Project, Factba.se
+
+### Post #17
+- **날짜**: 2024년 7월 14일 (암살 미수 직후)
+- **플랫폼**: Truth Social
+- **맥락**: 펜실베이니아 버틀러 유세 중 총격 사건. 귀에 부상을 입고 주먹을 들어올린 사진이 상징적 이미지가 됨
+- **원문**: `"I was shot with a bullet that pierced the upper part of my right ear. I knew immediately that something was wrong in that I heard a whizzing sound, shots, and immediately felt the bullet ripping through the skin. Much bleeding took place, and I realized then what was happening. GOD BLESS AMERICA!"`
+- **문법 특징**: 드문 내러티브/서술 모드(평소의 선언문 스타일 대비), 신체 경험의 구체적 묘사, 마지막에 "GOD BLESS AMERICA!" 전체 대문자 슬로건으로 전환 — 서사→선언 구조
+- **출처**: NBC News, CNN, 다수 매체 보도
+
+### Post #18
+- **날짜**: 2024년 7월 21일 (바이든 사퇴 당일)
+- **플랫폼**: Truth Social
+- **맥락**: 바이든이 2024 대선 불출마를 선언한 직후 트럼프의 첫 반응
+- **원문**: `"Crooked Joe Biden was not fit to run for President, and is certainly not fit to serve – And never was! He only attained the position of President by lies, Fake News, and not leaving his Basement. All those around him, including his Doctor and the Media, knew that he wasn't capable of being President, and he wasn't – And now, look what he's done to our Country, with millions of people coming across our Border, totally unchecked and unvetted, many from prisons, mental institutions, and record numbers of terrorists. We will suffer greatly because of his presidency, but we will remedy the damage he has done very quickly. MAKE AMERICA GREAT AGAIN!"`
+- **문법 특징**: "Crooked Joe Biden" 정식 별명, 대시(–) 반복으로 리듬 생성, "Basement" 대문자(지하실 전략 비하), 장문이지만 마지막은 반드시 MAGA 슬로건으로 종결, 감탄부호 2회
+- **출처**: Axios, NBC News, Al Jazeera
+
+### Post #19
+- **날짜**: 2024년 7월 21일 (바이든 사퇴 당일, 후속 게시물)
+- **플랫폼**: Truth Social
+- **맥락**: 바이든 사퇴에 대한 연속 반응 — 해리스 대결 구도를 의식한 첫 발언
+- **원문**: `"Crooked Joe just got knocked out, so now I'll have to do it a FOURTH TIME!!!"`
+- **문법 특징**: "FOURTH TIME" 대문자 강조, 감탄부호 3연속(!!!), 권투 비유("knocked out"), 극도의 자신감 표현
+- **출처**: ABC News, TMZ
+
+### Post #20
+- **날짜**: 2024년 7월 22일
+- **플랫폼**: Truth Social
+- **맥락**: 바이든 사퇴 후 민주당 혼란기, 해리스 후보 확정 전 불확실한 시기
+- **원문**: `"Who is running our Country right now? It's not Crooked Joe, he has no idea where he is. If he can't run for office, he can't run our Country!!!"`
+- **문법 특징**: 수사적 질문으로 시작, 자문자답 구조, "he has no idea where he is" 인지능력 공격, 조건문("If he can't...he can't...") 논리 구조, 감탄부호 3연속(!!!)
+- **출처**: ABC News
+
+### 4-2. 해리스 대결 구도 형성기 (2024년 8~9월)
+
+### Post #21
+- **날짜**: 2024년 8월 3일
+- **플랫폼**: Truth Social
+- **맥락**: 해리스가 민주당 후보로 확정되면서 토론 일정 협상 시작. 트럼프는 원래 ABC 토론을 수락했으나 Fox News 토론으로 변경 시도
+- **원문**: `"I'll see her on September 4th or, I won't see her at all."`
+- **문법 특징**: 매우 짧은 최후통첩 형식, 쉼표로 극적 끊김 생성, 감탄부호 없음(드문 경우) — 냉정한 위협 톤
+- **출처**: NPR
+
+### Post #22
+- **날짜**: 2024년 8월 27일
+- **플랫폼**: Truth Social
+- **맥락**: 최종적으로 ABC 9월 10일 토론 수락. 조건은 CNN 토론과 동일(마이크 음소거 규칙)
+- **원문**: `"I have reached an Agreement with the Radical Left Democrats for a Debate with Comrade Kamala Harris. It will be Broadcast live on ABC FAKE NEWS, on Tuesday, September 10th... The Rules will be the same as the last CNN Debate, which seemed to work out well for everyone."`
+- **문법 특징**: "Radical Left Democrats", "Comrade Kamala Harris", "ABC FAKE NEWS" — 한 문장에 별명 공격 3회 집중, 고유명사 아닌 단어도 대문자(Agreement, Broadcast, Rules, Debate), "seemed to work out well" — CNN 토론에서의 우세를 암시하는 여유
+- **출처**: CNN, NPR
+
+### 4-3. 해리스와 TV토론 전후 (2024년 9월 10일)
+
+### Post #23
+- **날짜**: 2024년 9월 11일 (토론 다음날)
+- **플랫폼**: Truth Social
+- **맥락**: 대다수 여론조사와 언론이 해리스의 토론 우세를 평가. 트럼프는 자신이 이겼다고 주장
+- **원문**: `"Polls clearly show that I won the Debate against Comrade Kamala Harris, the Democrats' Radical Left Candidate, on Tuesday night, and she immediately called for a Second Debate."`
+- **문법 특징**: "Comrade Kamala Harris" 별명(공산주의 연상), 패배 부정 — "Polls clearly show" 모호한 출처 호소, "immediately called for a Second Debate" — 재토론 요구를 자신의 우세 증거로 전환
+- **출처**: NBC News, NPR
+
+### Post #24
+- **날짜**: 2024년 9월 12일
+- **플랫폼**: Truth Social
+- **맥락**: 해리스 측의 재토론 요청 거부
+- **원문**: `"KAMALA SHOULD FOCUS ON WHAT SHE SHOULD HAVE DONE DURING THE LAST ALMOST FOUR YEAR PERIOD. THERE WILL BE NO THIRD DEBATE!"`
+- **문법 특징**: 전체 대문자(ALL CAPS) — 위기/방어 모드 전환의 전형적 신호, "THIRD DEBATE"라고 표현(실제로는 두 번째지만, 바이든과의 토론을 포함하여 셋으로 계산), 감탄부호 종결, 2문장 구조
+- **출처**: CNBC, Newsweek, NBC News
+
+### 4-4. 최종 캠페인 시기 (2024년 10~11월)
+
+### Post #25
 - **날짜**: 2024년 10월 1일 (부통령 후보 TV토론 중)
 - **플랫폼**: Truth Social
 - **맥락**: JD Vance vs Tim Walz 부통령 후보 토론 실시간 반응. 90분 동안 42개 게시물 작성
@@ -199,13 +279,21 @@ confidence: medium
 - **문법 특징**: "GREAT" 대문자, 별명 공격("Tampon Tim"), 대시(–)로 대조 구도, 짧은 단문
 - **출처**: Roll Call
 
-### Post #17
-- **날짜**: 2024년 11월 5일 (선거일)
+### Post #26
+- **날짜**: 2024년 11월 5일 (선거일, 오후 4:39)
 - **플랫폼**: Truth Social
-- **맥락**: 투표 독려 및 부정선거 의혹 동시 제기
-- **원문**: 선거일 게시물 대부분은 지지자에게 `"STAY IN LINE!"` 을 반복. 동시에 민주당이 펜실베이니아와 미시간에서 `"CHEATING"` 하고 있다는 근거 없는 주장을 게시
-- **문법 특징**: 전체 대문자 명령문, 선거 부정 프레이밍 반복 — 2020년과 동일한 패턴
+- **맥락**: 투표 진행 중, 부정선거 의혹 실시간 제기
+- **원문**: `"A lot of talk about massive CHEATING in Philadelphia. Law Enforcement coming!!!"`
+- **문법 특징**: "CHEATING" 대문자, "massive" 과장 수식어, "A lot of talk about" — 출처 불명의 소문 호소("Many people are saying" 변형), 감탄부호 3연속(!!!), "Law Enforcement coming" — 위협적 톤
 - **출처**: CNBC, Newsweek
+
+### Post #27
+- **날짜**: 2024년 11월 5일 (선거일, 오후 5:55)
+- **플랫폼**: Truth Social
+- **맥락**: 선거일 부정선거 의혹 확대
+- **원문**: `"Philadelphia and Detroit! Heavy Law Enforcement is there!!!"`
+- **문법 특징**: 도시명만 나열 후 감탄부호 — 문맥 없이 긴박감 조성, "Heavy" 수식어, 감탄부호 3연속(!!!), 7단어 초단문 — 위기 시 슬로건형 극단 압축의 전형
+- **출처**: CNBC
 
 ---
 
