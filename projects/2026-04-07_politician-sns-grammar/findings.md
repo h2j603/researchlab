@@ -1,15 +1,15 @@
 ---
-title: "한국 정치인 SNS 글쓰기 문법의 시기별 변화 — 상세 조사"
+title: "정치인 SNS 문법의 시기별 변화 — 상세 조사"
 date: 2026-04-07
 updated: 2026-04-07
 status: in-progress
 type: research
-tags: [social-phenomenon, media, case-study, comparison]
-related: ["_index.md", "sources.md", "_critique.md"]
+tags: [social-phenomenon, media, case-study, comparison, political-communication]
+related: ["_index.md", "sources.md", "_critique.md", "trump-sns-posts.md"]
 confidence: medium
 ---
 
-# 한국 정치인 SNS 글쓰기 문법의 시기별 변화
+# 정치인 SNS 문법의 시기별 변화
 
 ## 1. 정치인별 SNS 글쓰기 스타일 특징
 
@@ -19,7 +19,7 @@ confidence: medium
 
 **핵심 문체 특징**:
 - **장문의 서사형 글쓰기**: 페이스북에 1,000자 이상의 긴 글을 자주 올림. 개인 서사(성장 배경, 경험)를 정책과 연결하는 내러티브 구조
-- **직접 작성**: 보좌관 대필이 아닌 본인 직접 작성 비율이 높다는 평가. 외신도 주목 (굿모닝충청 칼럼에서 분석)
+- **직접 작성**: 보좌관 대필이 아닌 본인 직접 작성 비율이 높다는 평가 ([굿모닝충청 분석](https://www.goodmorningcc.com/news/articleView.html?idxno=421094))
 - **구어체와 문어체의 혼합**: 공식적 입장문은 문어체, 일상 공유는 구어체 전환
 - **감정 호소 빈도 높음**: 특히 위기/논란 시 감정적 어조 강화
 - **해시태그**: 선거 시기에 캠페인 해시태그 집중 사용
@@ -27,7 +27,7 @@ confidence: medium
 **시기별 변화 패턴**:
 - 평상시: 정책 설명, 일상 공유, 비교적 차분한 어조
 - 선거/위기 시: 문장 짧아짐, 단문 반복, 감탄부호 증가, "~합니다" 에서 "~입니다!" 전환
-- 2025년 대선 캠페인에서는 SNS 중심 캠페인 전략을 채택하여 "대선 캠페인 공식을 바꾼다"는 평가
+- 2025년 대선 캠페인에서는 SNS 중심 캠페인 전략을 채택 ([네이트뉴스, 2025](https://news.nate.com/view/20250423n32114))
 
 ### 윤석열 — 상대적으로 절제된 SNS 활용
 
@@ -37,7 +37,7 @@ confidence: medium
 - **짧고 공식적인 문장**: 이재명 대비 글 길이가 짧고, 보좌관 작성 비율이 높은 것으로 추정
 - **이미지/카드뉴스 중심**: 텍스트보다 시각 자료 활용 비중 높음
 - **격식체 위주**: "~습니다" 체 유지, 구어체 전환 빈도 낮음
-- **2022년 대선 시기**: 한국일보 분석에 따르면 이재명과 윤석열의 SNS에서 "많이 말한 단어, 적게 말한 단어"에 뚜렷한 차이 존재
+- **2022년 대선 시기**: [한국일보 분석](https://www.hankookilbo.com/News/Read/A2022010214410005773)에 따르면 이재명과 윤석열의 SNS에서 "많이 말한 단어, 적게 말한 단어"에 뚜렷한 차이 존재
 
 ### 한동훈 — "새로운 세대" 포지셔닝
 
@@ -79,7 +79,7 @@ confidence: medium
 
 - **슬로건의 반복**: 핵심 메시지를 거의 모든 게시물에 반복 삽입
 - **"단순홍보" 메시지 지배적**: 학술 연구에서도 선거 시기 SNS 메시지 중 '단순홍보'가 가장 높은 비율 차지 (인터넷정보학회논문지, 2016)
-- **부정적 수사의 전략적 사용**: 인신공격 게시물이 정책 비판 게시물보다 평균 2.5배 더 많이 공유됨 (Notre Dame 연구)
+- **부정적 수사의 전략적 사용**: 인신공격 게시물이 정책 비판 게시물보다 평균 2.5배 더 많이 공유됨 — 606 vs 244 리포스트 ([Notre Dame 연구](https://news.nd.edu/news/do-political-insults-pay-off-new-research-shows-what-politicians-actually-gain-from-divisive-political-rhetoric/))
 - **"주장(assertion)" 전략**: 양 진영 모두 SNS에서 '주장' 전략을 가장 많이 사용
 
 ### 위기 시기 고유 패턴
@@ -92,20 +92,29 @@ confidence: medium
 
 ### 한국 관련 연구
 
-1. **문재인 대통령의 SNS 정치 담화에 대한 텍스트언어학적 분석** (KCI)
-   - 대통령의 SNS 정치 담화를 텍스트언어학 관점에서 분석
+1. **문재인 대통령의 SNS 정치 담화에 대한 텍스트언어학적 분석** — KCI
+   - [논문 링크](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002666317)
+   - 대통령의 SNS 정치 담화를 텍스트언어학 관점에서 분석. 담화 구조와 언어 전략을 체계적으로 분류.
 
-2. **정치인 SNS의 메시지와 정치인 유형이 수용자의 반응에 미치는 영향** (KCI, 2019)
-   - 정책/일상/공격 메시지 유형별 수용자 반응 차이
+2. **정치인 SNS의 메시지와 정치인 유형이 수용자의 반응에 미치는 영향** — KCI, 2019
+   - [논문 링크](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002518274)
+   - 정책/일상/공격 메시지 유형별 수용자 반응 차이 분석. 공격 메시지가 가장 높은 공유율.
 
-3. **이재명 vs 윤석열 SNS 분석** (한국일보, 2022)
-   - 2022년 대선 후보 SNS 단어 빈도 비교
+3. **이재명 vs 윤석열 SNS 분석** — 한국일보, 2022
+   - [기사 링크](https://www.hankookilbo.com/News/Read/A2022010214410005773)
+   - 2022년 대선 후보 SNS 단어 빈도 비교. 이재명은 "국민", "함께" 등 포용적 어휘, 윤석열은 "공정", "상식" 등 원칙적 어휘 빈도 높음.
 
-4. **선거 캠페인 수단으로서의 SNS 활용** (인터넷정보학회논문지, 2016)
-   - '단순홍보'와 '주장' 전략이 지배적
+4. **정치인들의 선거 캠페인 수단으로서의 SNS 활용: 2015년 4·29 재·보궐선거를 중심으로** — 인터넷정보학회논문지, 2016
+   - [논문 링크](https://www.koreascience.kr/article/JAKO201615952962273.pub?lang=ko)
+   - '단순홍보'와 '주장' 전략이 지배적. 쌍방향 소통보다 일방향 메시지 전달이 압도적.
 
-5. **인터넷신문의 유명인 SNS 활용 기사** (한국콘텐츠학회, 2022)
-   - 정치인 SNS 기사에서 페이스북(70.4%) 압도적
+5. **국내 인터넷신문의 유명인 SNS 활용 기사의 현황과 문제점** — 한국콘텐츠학회, 2022
+   - [논문 링크](https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002833225)
+   - 정치인 SNS 기사에서 페이스북(70.4%) 압도적. 견해 표명, 폭로/비방 내용이 중심.
+
+6. **소셜미디어가 정치참여에 미치는 영향: 국내 문헌 메타분석** — KCI
+   - [논문 링크](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002025047)
+   - 2010~2015년 49개 국내 논문(315개 효과크기) 종합 분석.
 
 ## 4. 플랫폼별 문체 차이
 
@@ -116,21 +125,12 @@ confidence: medium
 | **X/트위터** | 단문, 즉각 반응, 논쟁적 | 이준석 |
 | **유튜브** | 장문 대체, 영상 메시지, 라이브 | 전 정치인 확대 추세 |
 
-## 5. "SNS 문체 = 커뮤니케이션 디자인" 관점
+## 5. 한계 및 추가 조사 필요 사항
 
-정치인의 SNS 문체 변화는 단순한 글쓰기 습관이 아니라 의도된 커뮤니케이션 디자인이다:
-- 문장 길이 조절 = 정보 밀도 설계
-- 이모지/해시태그 = 시각적 기호 체계
-- 구어체/문어체 전환 = 거리감(distance) 조절
-- 게시 빈도 = 리듬/템포 디자인
-- 인칭 전환 = 화자-청자 관계 설정
-
-## 한계 및 추가 조사 필요 사항
-
-- 실제 게시물 텍스트를 수집한 정량적 분석 미실시
-- 한동훈, 이준석의 SNS 문체에 대한 학술 연구 부족
+- 한국 정치인 실제 게시물 텍스트 수집 및 정량 분석 미실시 (트럼프만 파일럿 완료)
+- 한동훈, 이준석의 SNS 문체에 대한 학술 연구 거의 없음 — 현재 내용은 관찰 기반
 - 2024-2026년 최신 상황에서의 SNS 문체 변화 추적 필요
-- 대필 여부 판별 어려움
+- 대필 여부 판별 어려움 — 트럼프는 직접 작성으로 유명하나 한국 정치인은 불분명
 
 ---
 
@@ -143,12 +143,12 @@ confidence: medium
 **플랫폼**: X/Twitter (2009~2021, 정지 후 복귀), Truth Social
 
 **핵심 문체 특징**:
-- **전략적 대문자(Strategic Capitalization)**: "Radical Left Candidate", "destroyed our Country" 등 일반 명사를 대문자로 표기. 언어학자들은 이를 **"언어 강도(language intensity)"** 신호로 분석 — 독자에게 중요성과 감정을 동시에 전달하는 타이포그래픽 장치
+- **전략적 대문자(Strategic Capitalization)**: "Radical Left Candidate", "destroyed our Country" 등 일반 명사를 대문자로 표기. 언어학자들은 이를 **"언어 강도(language intensity)"** 신호로 분석 ([HuffPost](https://www.huffpost.com/entry/trump-weird-capitalization-language_l_66f1a9fae4b03a18c4a2602c), [Washington Post](https://www.washingtonpost.com/news/posteverything/wp/2018/05/23/trumps-bizarre-understanding-of-capitalization-is-surprisingly-strategic/))
 - **감탄부호/과장법 남발**: "AMAZING!", "SAD!", "WITCH HUNT!" 등 형용사+감탄부호 조합의 원-워드 문장
 - **별명 공격(Nickname Attacks)**: "Crooked Hillary", "Sleepy Joe", "Crazy Nancy" — 대문자로 시작하는 별명을 반복하여 상대를 브랜딩
 - **자문형 트윗**: "People are saying...", "Many people think..." — 출처 불명의 권위에 호소
 
-**시기별 변화 패턴** (PLOS ONE, 21,739개 트윗 분석):
+**시기별 변화 패턴** ([PLOS ONE, Clarke & Grieve, 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222062) — 21,739개 트윗 분석):
 - **2009~2015 (사업가 시절)**: 자기홍보, 상대적으로 절제된 어조, 대화형(conversational) 스타일
 - **2015~2016 (공화당 예비선거)**: 비공식적·구어체 스타일로 전환, 공격 빈도 급증, 대문자/감탄부호 사용 폭발적 증가
 - **2016 (본선)**: 캠페인형(campaign-style) 전환, 슬로건 반복("Make America Great Again"), 메시지 단순화
@@ -207,8 +207,8 @@ confidence: medium
 **전쟁 후 극적 전환** (학술 연구 다수):
 - **비주얼 전환**: 정장 → 군복/카키 티셔츠, 밝은 배경 → 벙커/야간 촬영
 - **텍스트 전환**: 유머/일상 → 짧고 단호한 선언문, "우크라이나는 여기 있다(Ukraine is here)"
-- **릴스를 전쟁 도구로**: 인스타그램 릴스를 국제 여론전 도구로 활용 (Journal of Risk Research, 2024)
-- **"스펙터클화(spectacularization)" 전략**: 143개 인스타 영상 분석 결과, 극적 연출을 통해 국제 공감과 지지를 유도 (Media and Communication)
+- **릴스를 전쟁 도구로**: 인스타그램 릴스를 국제 여론전 도구로 활용 ([Journal of Risk Research, 2024](https://www.tandfonline.com/doi/full/10.1080/13669877.2024.2447254))
+- **"스펙터클화(spectacularization)" 전략**: 143개 인스타 영상 분석 결과, 극적 연출을 통해 국제 공감과 지지를 유도 ([Media and Communication](https://www.cogitatiopress.com/mediaandcommunication/article/view/6366))
 - **다국어 전략**: 우크라이나어 + 영어 자막/번역 동시 게시로 국제 청중 확보
 
 **실제 사례**:
@@ -226,7 +226,7 @@ confidence: medium
 | **비주얼** | 다양 | 상징적 이미지로 수렴 (국기, 군복, 유세 현장) |
 | **인칭** | 혼합 | "I/We" 강조, 적대적 "They" 부각 |
 | **해시태그** | 분산 | 캠페인 태그 집중 |
-| **인신공격** | 낮음 | 급증 (정책 비판 대비 2.5배 더 공유됨) |
+| **인신공격** | 낮음 | 급증 — 정책 비판 대비 [2.5배 더 공유됨](https://news.nd.edu/news/do-political-insults-pay-off-new-research-shows-what-politicians-actually-gain-from-divisive-political-rhetoric/) |
 
 ## 8. 국내외 비교: 문법 변화의 보편성과 특수성
 
@@ -246,18 +246,6 @@ confidence: medium
 - **대문자 정치학**: 영어권 특유의 대문자 활용 전략 (Trump 사례). 한국어에는 대소문자 구분이 없으므로 불가능
 - **별명 공격(Branding)**: 상대에게 대문자 별명을 붙이는 전략 (Crooked Hillary 등). 한국에서는 직접적 별명보다 우회적 표현 선호
 - **다국어 전략**: Zelensky, Macron 등은 자국어 + 영어 동시 게시로 국제 청중 확보. 한국 정치인에게는 드문 전략
-
-## 9. 디자인적 시사점 — "글쓰기의 그래픽 디자인"
-
-정치인의 SNS 문법 변화는 그래픽 디자인의 시각적 도구와 구조적으로 유사하다:
-
-1. **대문자 = 시각적 볼륨 조절**: Trump의 대문자는 폰트 weight나 size 선택 없이 텍스트의 "볼륨"을 높이는 방법. 플랫폼이 제공하지 않는 타이포그래픽 위계를 문법으로 만들어냄
-2. **문장 길이 = 레이아웃의 밀도**: Zelensky의 짧은 반복문은 균일한 블록, Obama의 장문 서사는 밀도 높은 텍스트 — 같은 플랫폼에서 완전히 다른 시각적 리듬을 만듦
-3. **구두점 = 감정의 색상**: `!`, `...`, `?!`의 선택이 텍스트의 감정적 "컬러"를 결정. Trump의 `!!!`과 Obama의 `.`은 같은 문장에서도 전혀 다른 톤을 생성
-4. **포맷 자체가 메시지**: Zelensky의 정장→카키색 티셔츠 전환, 밝은 스튜디오→어두운 벙커 전환 — 텍스트 한 글자 바꾸지 않아도 형식의 전환만으로 메시지가 완성됨
-5. **경어체 = 그리드의 격자**: 한국어의 "-습니다"/"-이다"/"-요" 전환은 레이아웃에서 그리드 간격을 조절하는 것과 유사 — 같은 내용이지만 독자와의 거리가 달라짐
-
-> 결국 정치인의 SNS 문법은 **플랫폼이라는 제약 조건 안에서 만들어지는 즉석 타이포그래피**다. 폰트도 레이아웃도 선택할 수 없는 환경에서, 대문자/구두점/문장길이/이모지가 디자인 도구를 대체한다.
 
 ---
 
