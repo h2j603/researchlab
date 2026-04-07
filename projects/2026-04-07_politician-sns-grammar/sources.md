@@ -115,6 +115,18 @@ confidence: medium
 26. **"Two Linguists Use Their Skills to Inspect 21,739 Trump Tweets"** — Scientific American
     - [기사 링크](https://www.scientificamerican.com/article/two-linguists-use-their-skills-to-inspect-21-739-trump-tweets/)
 
+27. **"'Going negative': An APPRAISAL analysis of the rhetoric of Donald Trump on Twitter"** — Language Sciences
+    - [논문 링크](https://www.sciencedirect.com/science/article/abs/pii/S0271530919302617)
+    - 트럼프 트위터의 부정적 수사에 대한 평가언어학적 분석.
+
+28. **"From tweets to power: Twitter/X political communication review 2009-2024"** — Frontiers in Political Science (2025)
+    - [논문 링크](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1666104/full)
+    - 15년간 X/Twitter 정치 커뮤니케이션 연구 종합 리뷰.
+
+29. **"Donald Trump Tweet Analysis"** — Text Inspector
+    - [분석 링크](https://textinspector.com/donald-trump-tweet-analysis/)
+    - 트럼프 트윗의 어휘 수준, 가독성 분석.
+
 ---
 
 ## 관련 문서
