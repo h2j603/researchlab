@@ -25,6 +25,7 @@ confidence: medium
 | Donald Trump | X/Twitter, Truth Social | 전략적 대문자, 감탄부호 남발, 별명 공격 |
 | Barack Obama | Twitter, Instagram | 절제된 문어체, 내러티브 구조 |
 | AOC | Instagram, Twitter | 구어체, 라이브 스트림, 밈 문법 |
+| Zohran Mamdani | Instagram, TikTok, X | 숏폼 영상, "크린지의 정치학", DSA |
 | Volodymyr Zelensky | Instagram, Telegram | 셀피 영상 → 전쟁 후 극적 톤 전환 |
 
 ### 한국 정치인
