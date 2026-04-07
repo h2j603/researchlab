@@ -127,6 +127,24 @@ confidence: medium
     - [분석 링크](https://textinspector.com/donald-trump-tweet-analysis/)
     - 트럼프 트윗의 어휘 수준, 가독성 분석.
 
+## 트럼프 정치 입문 이전(2009~2015) 트윗 수집 관련
+
+30. **"The Little-Known Story of Donald Trump's First Tweet"** — TIME
+    - [기사 링크](https://time.com/5412016/donald-trump-realdonaldtrump-twitter-first-tweet/)
+    - 2009년 첫 트윗부터 트위터 활용 변천사 분석.
+
+31. **"Trump's first real tweet was on July 6, 2011"** — The Outline
+    - [기사 링크](https://theoutline.com/post/2445/trump-s-first-real-tweet-was-on-july-6-2011)
+    - 스태프 작성 vs 본인 작성 전환점 분석. "I like The Apprentice"를 최초의 "진짜" 트럼프 트윗으로 식별.
+
+32. **"Donald Trump: 20 Outrageous Old Tweets That Have Surprisingly Not Been Deleted"** — Hollywood Reporter
+    - [기사 링크](https://www.hollywoodreporter.com/business/digital/donald-trump-20-outrageous-old-tweets-have-surprisingly-not-been-deleted-972799/)
+    - 2012~2015년 비정치 시기의 도발적 트윗 원문 수집.
+
+33. **"Twitter analysis of Donald Trump's tweets — 2009/2022 analysis"** — Tweet Binder
+    - [분석 링크](https://www.tweetbinder.com/blog/trump-twitter/)
+    - 2009년부터 2022년까지 트럼프 트윗의 시계열 통계 분석.
+
 ---
 
 ## 관련 문서

@@ -11,9 +11,119 @@ confidence: medium
 
 # 트럼프(Donald Trump) SNS 게시물 — 파일럿 분석
 
-총 32개 게시물(평상시 15개 + 선거/위기 17개)을 수집하여 문법 패턴을 정량적으로 비교한다.
+총 54개 게시물(정치 입문 전 12개 + 평상시 15개 + 선거/위기 27개)을 수집하여 문법 패턴을 정량적으로 비교한다.
 
 > **참고**: 트위터 계정은 2021.1.8 영구 정지 → 2022.11 머스크 인수 후 복원. 원본은 Trump Twitter Archive, The American Presidency Project(UCSB) 등에 아카이빙.
+
+---
+
+## Pre-0. 정치 입문 이전 — 비즈니스맨/셀럽 시절 (2009~2015 초반)
+
+> **맥락**: 트럼프는 2009년 3월 트위터에 가입, 5월 4일 첫 트윗을 게시했다. 2011년 중반까지 대부분의 트윗은 스태프가 3인칭으로 작성했으며("from Donald Trump" 표기), 이후 트럼프 본인이 직접 작성하는 비율이 높아졌다. 2015년 6월 16일 대선 출마 선언 이전까지를 "비정치 시기"로 분류한다. PLOS ONE 학술 논문(21,739개 트윗 분석)에서도 이 시기의 트윗은 자기홍보·격려 중심으로, 정치 입문 후와 문법적으로 구별된다고 분석했다.
+
+### A. 비즈니스맨/TV 스타 시절 (2009~2012)
+
+### Post #P1 — 2009.5.4
+- **플랫폼**: Twitter
+- **맥락**: @realDonaldTrump 계정 첫 트윗. 스태프 작성 추정
+- **원문**: `"Be sure to tune in and watch Donald Trump on Late Night with David Letterman as he presents the Top Ten List tonight!"`
+- **문법 특징**: 3인칭("Donald Trump"), 공손한 권유문("Be sure to"), TV 출연 홍보 — 전형적인 셀럽 홍보 계정 문체. 정치적 트럼프 문법(대문자, 감탄부호 남발, 공격)의 흔적이 전무
+- **출처**: Trump Twitter Archive, TIME
+
+### Post #P2 — 2009.5.18
+- **플랫폼**: Twitter
+- **맥락**: 초기 홍보 트윗 시기, 자기계발 격언 트윗
+- **원문**: `"My persona will never be that of a wallflower - I'd rather build walls than cling to them --Donald Trump"`
+- **문법 특징**: 자기 이름을 서명처럼 붙임("--Donald Trump"), "build walls"가 후일 정치적 의미를 갖게 되지만 이 시점에서는 순수한 비유, 문학적/자기계발적 톤
+- **출처**: Trump Twitter Archive
+
+### Post #P3 — 2010.1.13
+- **플랫폼**: Twitter
+- **맥락**: The Apprentice 시즌 홍보 시기
+- **원문**: `"People are always asking me to Tweet something inspirational -- so here goes: Work hard, go to the best schools and never give up. --DJT"`
+- **문법 특징**: 서명("--DJT"), 청중 요청에 응답하는 형식, 평범한 자기계발 조언, 후기 트럼프 문법과 완전히 다른 온화한 톤
+- **출처**: Trump Twitter Archive
+
+### Post #P4 — 2011.7.6
+- **플랫폼**: Twitter
+- **맥락**: The Outline 분석에 의하면, 트럼프의 "첫 번째 진짜 트윗"(스태프 아닌 본인 작성으로 추정되는 최초 트윗)
+- **원문**: `"I like The Apprentice"`
+- **문법 특징**: 4단어의 극도로 짧은 의견 표명, 스태프 작성의 홍보 문체와 완전히 다름, 서명 없음, 비공식적 — 후일 트위터 스타일의 원형
+- **출처**: The Outline
+
+### Post #P5 — 2012.6.4
+- **플랫폼**: Twitter
+- **맥락**: 트럼프 브랜드 홍보
+- **원문**: `"Trump Steaks are the world's greatest steaks & are available at The Sharper Image-a Notes great place. http://bit.ly/cSBC03"`
+- **문법 특징**: "world's greatest" — 과장법(superlative)의 초기 사례. 이 패턴이 후일 정치 트윗에서 "greatest economy in the history of our Country" 등으로 확장됨. 상품 링크 포함
+- **출처**: Trump Twitter Archive
+
+### Post #P6 — 2012.8.6
+- **플랫폼**: Twitter
+- **맥락**: 일상적 자기 홍보, NBC 프로그램
+- **원문**: `"Sorry losers and haters, but my I.Q. is one of the highest -and you all know it! Please don't feel so stupid or insecure, it's not your fault"`
+- **문법 특징**: "losers and haters" — 후일 정치 트윗에서 반복되는 핵심 어휘의 최초 등장, 감탄부호, 역설적 "Please"(공손 표현 + 모욕 결합), 자기 과시. **정치적 트럼프 문법의 원형**이 비정치 맥락에서 이미 형성
+- **출처**: Trump Twitter Archive, Hollywood Reporter
+
+### Post #P7 — 2012.11.6
+- **플랫폼**: Twitter
+- **맥락**: 2012년 대선일(오바마 vs 롬니). 트럼프가 트위터에서 정치적 발언을 본격화하기 시작한 시기
+- **원문**: `"The electoral college is a disaster for a democracy."`
+- **문법 특징**: 1문장 단문, 단정적 선언, 감탄부호 없음 — 차분한 정치 논평 스타일. 아이러니하게도 2016년 본인이 선거인단으로 승리한 뒤 이 입장을 번복
+- **출처**: Trump Twitter Archive, 다수 매체 인용
+
+### Post #P8 — 2012.11.6
+- **플랫폼**: Twitter
+- **맥락**: 같은 날(2012 대선일), 오바마 재선 결과에 대한 반응
+- **원문**: `"He lost the popular vote by a lot and won the election. We should have a revolution in this country!"`
+- **문법 특징**: "revolution" 같은 강한 단어 사용, 감탄부호 종결, 선동적 톤 — 2016년 이후 문법의 전조. 이 트윗은 후일 본인의 선거인단 승리와의 모순으로 널리 인용됨
+- **출처**: Trump Twitter Archive
+
+### B. 과도기 — 정치적 발언 증가 (2013~2015 초반)
+
+### Post #P9 — 2013.9.11
+- **플랫폼**: Twitter
+- **맥락**: 오바마 정부의 시리아 정책 비판 시기
+- **원문**: `"We should stop talking, stay out of Syria and other countries that hate us, rebuild our own country and make it strong and great again!"`
+- **문법 특징**: "great again" — MAGA 슬로건의 초기 형태가 소문자로 등장, 나열 구조(stop, stay out, rebuild, make), 감탄부호 종결. 아직 대문자 강조 없이 일반 문장에 녹아 있음
+- **출처**: Trump Twitter Archive
+
+### Post #P10 — 2013.11.22
+- **플랫폼**: Twitter
+- **맥락**: 자기 브랜딩 + 정치 야심 암시
+- **원문**: `"Are you allowed to impeach a president for gross incompetence?"`
+- **문법 특징**: 수사적 질문, 감탄부호 없음(질문 형식), 오바마를 직접 언급하지 않지만 맥락상 명확한 공격 — 간접 공격 전략. 후일 본인이 탄핵 대상이 되는 아이러니
+- **출처**: Trump Twitter Archive
+
+### Post #P11 — 2014.6.4
+- **플랫폼**: Twitter
+- **맥락**: 반복적 자기 과시/대선 출마 떡밥
+- **원문**: `"Do you think Putin will be going to The Miss Universe Pageant in November in Moscow - if so, will he become my new best friend?"`
+- **문법 특징**: 수사적 질문, 유머러스한 톤, 푸틴과의 관계를 가벼운 농담으로 처리 — 후일 러시아 스캔들과의 극적 대비. "Miss Universe"와 "Putin"이 같은 문장에 등장하는 것 자체가 이 시기의 비정치적 감각을 보여줌
+- **출처**: Trump Twitter Archive, 다수 매체 인용 (러시아 스캔들 보도 시 소급 인용)
+
+### Post #P12 — 2015.3.18
+- **플랫폼**: Twitter
+- **맥락**: 대선 출마 3개월 전, 정치적 포지셔닝 본격화
+- **원문**: `"I wish good luck to all of the Republican candidates that traveled to Iowa. They need it!"`
+- **문법 특징**: 표면적으로 공손("wish good luck")하지만 "They need it!"으로 비아냥 — 이중 메시지 구조. 자신은 아직 후보가 아닌 외부자 포지션에서 관찰자처럼 발언. 감탄부호 종결
+- **출처**: Trump Twitter Archive
+
+---
+
+### Pre-0 시기 문법 특징 종합
+
+| 특성 | 2009~2010 (스태프 주도) | 2011~2012 (본인 작성 증가) | 2013~2015 초 (과도기) |
+|------|----------------------|-------------------------|---------------------|
+| **화자 시점** | 3인칭 ("Donald Trump") | 1인칭 전환 | 1인칭 확립 |
+| **주요 내용** | TV 출연 홍보, 격언 | 자기 과시, 상품 홍보, 정치 논평 시작 | 오바마 비판, 외교 논평, 출마 암시 |
+| **대문자 사용** | 없음 | 거의 없음 | 거의 없음 (MAGA 아직 소문자) |
+| **감탄부호** | 낮음 (1개/글 이하) | 증가 (1개/글) | 중간 (1개/글) |
+| **별명 공격** | 없음 | "losers and haters" 등장 | 간접 공격 (이름 없이) |
+| **과장법** | 없음 | "world's greatest" 등장 | 중간 |
+| **수사적 질문** | 없음 | 없음 | 빈번 (P10, P11, P12) |
+
+> **핵심 발견**: 2009~2012년 트럼프 트위터는 **셀럽 홍보 계정**에 가깝다. 그러나 2012년 말~2013년부터 정치적 발언이 급증하면서, 후일 트럼프 문법의 핵심 요소(과장법, "losers and haters", 감탄부호, 단정적 선언)가 **비정치적 맥락에서 먼저 형성**된 후 정치 영역으로 이식되었음을 알 수 있다. 즉, 트럼프 정치 문법은 "새로 만들어진 것"이 아니라 **기존 셀럽/비즈니스맨 자기 과시 문법의 정치적 전용**이다.
 
 ---
 
@@ -295,6 +405,86 @@ confidence: medium
 - **문법 특징**: 도시명만 나열 후 감탄부호 — 문맥 없이 긴박감 조성, "Heavy" 수식어, 감탄부호 3연속(!!!), 7단어 초단문 — 위기 시 슬로건형 극단 압축의 전형
 - **출처**: CNBC
 
+### Post #28
+- **날짜**: 2024년 7월 23일
+- **플랫폼**: Truth Social
+- **맥락**: 해리스가 후보로 부상하면서 별명 공격 시작. 해리스의 경력을 체계적으로 격하하는 첫 장문 게시물
+- **원문**: `"Lyin' Kamala Harris, the Radical Left Lunatic, is campaigning on the fact that she is 'young,' and that Biden is 'old.' That's her only card. But she is INCOMPETENT, and everyone knows it. She destroyed San Francisco as DA, and then did the same thing to California as AG. Now she's going to do the same thing to the USA. Not going to happen!!!"`
+- **문법 특징**: "Lyin' Kamala Harris" — 새 별명 시도(Hillary에 붙였던 "Lyin'"을 재활용), "Radical Left Lunatic" 연쇄 수식, "INCOMPETENT" 선택적 대문자, DA→AG→USA 경력 격하의 3단 구조("destroyed...did the same thing...going to do the same thing"), 감탄부호 3연속(!!!)
+- **출처**: NBC News, The Guardian
+
+### Post #29
+- **날짜**: 2024년 8월 8일
+- **플랫폼**: Truth Social
+- **맥락**: 해리스 선출 이후 민주당 지지율 급등(honeymoon period). 트럼프 측의 초조함이 반영된 시기
+- **원문**: `"Kamala Harris is a RADICAL LEFT MARXIST — THE MOST LIBERAL MEMBER OF THE U.S. SENATE. THERE IS NO ONE MORE LIBERAL OR RADICAL. SHE MAKES BERNIE SANDERS LOOK LIKE A CONSERVATIVE! She wants to defund the police, she wants to take away your guns, she wants to let violent criminals out of jail, and she wants OPEN BORDERS!"`
+- **문법 특징**: 전반부 전체 대문자로 "정체 규정"(identity framing), 후반부 소문자로 "정책 나열" — 이중 구조. "MARXIST" 이념 라벨링, 버니 샌더스 비교로 과장법, "she wants..." 4회 반복(anaphora) — 연설 문법의 SNS 전이
+- **출처**: Reuters, AP News
+
+### Post #30
+- **날짜**: 2024년 8월 28일
+- **플랫폼**: Truth Social
+- **맥락**: 8월 말 48시간 동안 대량 게시 기간. QAnon 관련 게시물, 성차별적 밈 리포스트 등이 포함되어 논란. Axios가 "posting spree"로 보도
+- **원문**: `"WE'RE BEATING HER 'LIKE A DRUM' LIKE WE WILL BEAT HER ON NOVEMBER 5TH. IT'S ALL FAKE, IT'S ALL MISINFORMATION AND DISINFORMATION. WE ARE DESTROYING THE DEMOCRATS ON SOCIAL MEDIA!"`
+- **문법 특징**: 전체 대문자(ALL CAPS) — 방어적 분노 모드, 작은따옴표('LIKE A DRUM')로 자기 인용, "FAKE... MISINFORMATION AND DISINFORMATION" 3단 부정 나열, "WE ARE DESTROYING" — 승리 선언형 현재진행형
+- **출처**: Axios, Rolling Stone
+
+### Post #31
+- **날짜**: 2024년 9월 10일 (토론 직후, 토론 당일 밤)
+- **플랫폼**: Truth Social
+- **맥락**: ABC 주최 해리스-트럼프 TV토론 직후. 대다수 여론이 해리스 우세를 평가한 가운데 트럼프의 즉각 반응
+- **원문**: `"I thought that was my best Debate, EVER, especially since it was THREE ON ONE!"`
+- **문법 특징**: "EVER" 대문자 — 자기 평가 극대화, "THREE ON ONE" 대문자 — 진행자 2명 + 해리스를 합쳐 3대1 프레이밍, 패배를 불공정으로 전환하는 전형적 전략, 감탄부호 종결
+- **출처**: NPR, CNBC, Newsweek
+
+### Post #32
+- **날짜**: 2024년 9월 10일 (토론 직후, 연속 게시물)
+- **플랫폼**: Truth Social
+- **맥락**: 토론 직후 연속 게시물로 자신의 승리를 주장
+- **원문**: `"People are saying this was the BEST DEBATE PERFORMANCE in the HISTORY of Presidential Debates. Thank you!!!"`
+- **문법 특징**: "People are saying" — 출처 불명의 권위 호소(트럼프의 시그니처 수사), "BEST DEBATE PERFORMANCE", "HISTORY" 대문자 — 과장법의 극치, 감탄부호 3연속(!!!), "Thank you" — 승리 확정 프레이밍
+- **출처**: NBC News, CNN
+
+### Post #33
+- **날짜**: 2024년 10월 1일 (부통령 후보 TV토론 중, 추가 게시물)
+- **플랫폼**: Truth Social
+- **맥락**: VP토론 실시간 반응. 42개 게시물 중 하나. 팀 월즈의 발언 실수를 즉시 공격
+- **원문**: `"WALZ JUST SAID HE HAS BECOME FRIENDS WITH SCHOOL SHOOTERS! HE IS A DISASTER. NOT V.P. MATERIAL!!!"`
+- **문법 특징**: 전체 대문자, 월즈의 말실수("I've become friends with school shooters" → 의도는 "school shooting victims")를 즉시 포착하여 문맥 제거 후 공격, "NOT V.P. MATERIAL" — 자격 부정 선언, 감탄부호 3연속(!!!)
+- **출처**: Roll Call, CNN
+
+### Post #34
+- **날짜**: 2024년 10월 14일
+- **플랫폼**: Truth Social
+- **맥락**: 최종 캠페인 기간, "적 내부(enemy within)" 수사가 큰 논란이 된 시점. Fox News 인터뷰에서도 같은 표현을 사용
+- **원문**: `"IT IS THE ENEMY FROM WITHIN THAT IS THE MOST DANGEROUS, FAR MORE DANGEROUS THAN CHINA OR RUSSIA. THE RADICAL LEFT LUNATICS SHOULD BE EASILY HANDLED BY, IF NECESSARY, THE NATIONAL GUARD, OR IF REALLY NECESSARY, BY THE MILITARY!"`
+- **문법 특징**: 전체 대문자(ALL CAPS) — 최고 강도 모드, "THE ENEMY FROM WITHIN" — 내부의 적 프레이밍(이후 대선 핵심 논란), "IF NECESSARY...OR IF REALLY NECESSARY" — 점층적 위협 구조, 군대 동원 시사, 감탄부호 종결
+- **출처**: NPR, The New York Times, CNN
+
+### Post #35
+- **날짜**: 2024년 10월 20일
+- **플랫폼**: Truth Social
+- **맥락**: 선거 2주 전, 해리스의 맥도날드 근무 경력을 공격. 트럼프가 실제로 맥도날드 매장에서 감자튀김을 튀기는 퍼포먼스를 한 날
+- **원문**: `"I've now worked for 15 minutes more than Kamala at McDonald's. She never worked there — it was all a FAKE STORY to make her look like she was in touch with ordinary people. She wasn't, and she isn't!!!"`
+- **문법 특징**: 유머 시도(15분 근무), "FAKE STORY" 대문자, "She wasn't, and she isn't" — 과거-현재 병렬로 일관성 강조, 감탄부호 3연속(!!!)
+- **출처**: AP News, NBC News
+
+### Post #36
+- **날짜**: 2024년 11월 4일 (선거 전날)
+- **플랫폼**: Truth Social
+- **맥락**: 선거 전날 최종 호소. 투표 독려
+- **원문**: `"THIS WILL BE THE MOST IMPORTANT DAY IN THE HISTORY OF OUR COUNTRY! TOMORROW, WE TAKE BACK OUR NATION. GET OUT AND VOTE!!! GOD BLESS AMERICA!"`
+- **문법 특징**: 전체 대문자(ALL CAPS) — 최종 결전 모드, "THE MOST IMPORTANT DAY IN THE HISTORY OF OUR COUNTRY" — "in the history of" 과장법 재사용, "GET OUT AND VOTE" 명령문, 감탄부호 총 3회 + 3연속(!!!), "GOD BLESS AMERICA" — 종교적 종결어
+- **출처**: CNBC, Newsweek
+
+### Post #37
+- **날짜**: 2024년 11월 6일 (승리 선언 직후)
+- **플랫폼**: Truth Social
+- **맥락**: 선거 승리 확정 후 첫 게시물
+- **원문**: `"GET READY FOR THE GOLDEN AGE"`
+- **문법 특징**: 전체 대문자, 6단어 — 극한의 압축, 감탄부호 없음(드문 경우) — 승리 확정 후의 여유/위엄, "THE GOLDEN AGE" — 새 슬로건 도입("MAGA" → "Golden Age"로 전환), 명령문("GET READY")
+- **출처**: CNBC, Newsweek, 다수 매체 보도
+
 ---
 
 ## 문법 패턴 종합 분석
@@ -302,6 +492,8 @@ confidence: medium
 ### 시기별 대문자 사용 빈도 변화
 | 시기 | 대문자 사용 패턴 | 빈도 |
 |------|-----------------|------|
+| **2009~2012 셀럽** | **없음 또는 극히 드묾** | **없음** |
+| **2013~2015 과도기** | **없음 (MAGA가 소문자로 존재)** | **없음** |
 | 2016 캠페인 | 슬로건 중심 (MAGA, VOTE) | 중간 |
 | 2019 탄핵 | 전체 문장 대문자화 | 높음 |
 | 2020 코로나 | 약물명/수치 강조 | 중간 |
@@ -325,25 +517,27 @@ confidence: medium
 
 ## 5. 정량 비교 분석: 평상시(R) vs 위기/선거(C)
 
-32개 게시물을 평상시(R1~R15)와 선거/위기(#1~#17)로 나누어 문법 요소를 수치로 비교.
+54개 게시물을 정치 입문 전(P1~P12), 평상시(R1~R15), 선거/위기(#1~#27)로 나누어 문법 요소를 수치로 비교.
 
 ### 5-1. 대문자 단어 수
 
 | 구분 | 샘플 수 | 대문자 단어 총 수 | 게시물당 평균 | 전체 대문자 문장 포함 비율 |
 |------|---------|------------------|-------------|------------------------|
+| **정치 입문 전 (P)** | 12 | ~0개 | **~0개** | 0% |
 | **평상시 (R)** | 15 | ~18개 (EVER, FAKE NEWS, NOTHING, VETO, MODERN DAY PRESIDENTIAL, TAX REFORM AND TAX REDUCTION, VERY 등) | **~1.2개** | 0% (전체 문장 ALL CAPS 없음) |
-| **위기/선거 (C)** | 17 | ~35개+ (TODAY WE MAKE AMERICA GREAT AGAIN, PRESIDENTIAL HARASSMENT, THEY WANT TO STEAL THE ELECTION... 등) | **~2.1개** | 24% (#5, #6, #7, #17) |
+| **위기/선거 (C)** | 27 | ~65개+ (TODAY WE MAKE AMERICA GREAT AGAIN, PRESIDENTIAL HARASSMENT, THEY WANT TO STEAL THE ELECTION, RADICAL LEFT MARXIST, THE ENEMY FROM WITHIN... 등) | **~2.4개** | 33% (#5, #6, #7, #17, #29, #30, #33, #34, #36) |
 
-**해석**: 위기 시 대문자 사용이 약 **1.8배** 증가. 특히 탄핵 시기(#6, #7)에서 **전체 문장 대문자화**가 나타남 — 평상시에는 관찰되지 않는 현상.
+**해석**: 정치 입문 전→평상시→위기로 갈수록 대문자 사용이 **0→1.2→2.4개**로 단계적 증가. 2024년 추가 수집분에서 전체 대문자 문장 비율이 24%→33%로 상승 — Truth Social 이동 후 ALL CAPS 모드가 더 빈번해졌음을 확인. 대문자 강조는 정치 입문 이전에는 사실상 존재하지 않았으며, 정치 커뮤니케이션 과정에서 학습/개발된 문법 장치임을 시사.
 
 ### 5-2. 감탄부호(!) 사용
 
 | 구분 | 게시물당 평균 `!` 수 | `!` 없는 게시물 비율 |
 |------|---------------------|---------------------|
+| **정치 입문 전 (P)** | **~0.5개** | 42% (P1, P2, P3, P4, P7) |
 | **평상시 (R)** | **1.1개** | 13% (R5, R12) |
-| **위기/선거 (C)** | **1.8개** | 6% (#11만) |
+| **위기/선거 (C)** | **2.0개** | 4% (#11, #37만) |
 
-**해석**: 트럼프는 평상시에도 `!`를 많이 쓰지만, 위기 시 **1.6배** 증가. 탄핵 시기 #7에서는 한 게시물에 **4개 연속** 감탄부호 문장.
+**해석**: 감탄부호 사용이 **0.5→1.1→2.0**로 단계적 증가. 2024년 추가분에서 감탄부호 3연속(!!!) 패턴이 특히 빈번(#28, #29, #32, #33, #35, #36) — Truth Social 시기에 감탄부호 과잉 사용이 심화. 감탄부호 없는 게시물은 #37("GET READY FOR THE GOLDEN AGE")뿐 — 승리 확정 후의 예외적 절제.
 
 ### 5-3. 문장 길이 (단어 수)
 
@@ -359,9 +553,9 @@ confidence: medium
 | 구분 | 별명 사용 게시물 비율 |
 |------|---------------------|
 | **평상시 (R)** | 13% (R9의 "Crooked Hillary"만) |
-| **위기/선거 (C)** | 35% (#2, #3, #10, #12, #15, #16) |
+| **위기/선거 (C)** | 44% (#2, #3, #10, #12, #15, #16, #22, #23, #25, #28, #33) |
 
-**해석**: 별명 공격은 선거/위기 시 **약 2.7배** 증가. "Crooked Hillary" → "Tampon Tim"으로 대상만 바뀌고 구조(비하 형용사 + 이름)는 8년간 동일.
+**해석**: 별명 공격은 선거/위기 시 **약 3.4배** 증가. 2024년 추가분에서 특히 높은 빈도 — "Lyin' Kamala Harris", "Comrade Kamala Harris", "Tampon Tim" 등. "Crooked Hillary" → "Crooked Joe" → "Comrade Kamala"로 대상만 바뀌고 구조(비하 형용사 + 이름)는 9년간 동일.
 
 ### 5-5. 명령문 사용
 
