@@ -39,6 +39,7 @@ confidence: medium
 ## 프로젝트 파일
 - [상세 조사 내용](findings.md) — 정치인별 SNS 문법 분석 및 실제 사례
 - [트럼프 SNS 게시물 원문](trump-sns-posts.md) — 시기별 실제 게시물 텍스트 수집 (2009~2015 정치 입문 전, 2016 캠페인, 2019 탄핵, 2020 코로나, 2021 1/6, 2024 캠페인)
+- [Mamdani SNS 게시물 원문](mamdani-sns-posts.md) — X 게시물 원문 11개 + 캠페인 영상/발언 텍스트, 문법 패턴 분석
 - [출처 정리](sources.md) — 학술 논문, 분석 기사
 - [비평](_critique.md) — Red Team 점검
 

@@ -127,6 +127,88 @@ confidence: medium
     - [분석 링크](https://textinspector.com/donald-trump-tweet-analysis/)
     - 트럼프 트윗의 어휘 수준, 가독성 분석.
 
+## Zohran Mamdani 관련
+
+34. **"How Extremely Online Mayoral Candidate Zohran Mamdani Learned to Embrace the Cringe"** — THE CITY (2025.1.21)
+    - [기사 링크](https://www.thecity.nyc/2025/01/21/zohran-mamdani-instagram-tiktok-social-media/)
+    - "크린지 수용" 전략, 영상 중심 SNS 활용, 본인 발언 원문 포함.
+
+35. **"The Name is Mamdani: How Zohran Mamdani Won the NYC Mayoral Election Through Social Media"** — The Gate (U of Chicago) (2026.3.23)
+    - [기사 링크](https://thegateuchicago.com/2026/03/23/the-name-is-mamdani-how-zohran-mamdani-won-the-new-york-city-mayoral-election-through-social-media/)
+    - 선거 승리에서 소셜미디어의 역할 종합 분석.
+
+36. **"How Zohran Mamdani drove over 20K clicks from Instagram DMs"** — Milkkarten
+    - [기사 링크](https://www.milkkarten.net/p/how-zohran-mamdani-drove-over-20k)
+    - Instagram DM 자동화 전략, 팔로워→캠페인 데이터베이스 전환 전술.
+
+37. **"How Zohran Mamdani turned social media engagement into votes"** — Campaign US
+    - [기사 링크](https://www.campaignlive.com/article/zohran-mamdani-turned-social-media-engagement-votes/1938657)
+    - 캠페인 3요소(production, content, consistency) 분석.
+
+38. **"Exclusive: How Mamdani's Campaign Used a New Instagram Feature to Swell Its Follower Count"** — Campaigns & Elections
+    - [기사 링크](https://campaignsandelections.com/industry-news/how-mamdanis-campaign-used-a-new-instagram-feature-to-grow-its-followers/)
+    - Trial Reels 기능 활용, 575,000명 팔로워 유입.
+
+39. **"Mamdani's Digital Machine"** — Dissent Magazine
+    - [기사 링크](https://dissentmagazine.org/article/mamdanis-digital-machine/)
+    - DSA 조직력 + 디지털 전략의 시너지 분석.
+
+40. **"Mamdani's Vibes Campaign"** — City Journal
+    - [기사 링크](https://www.city-journal.org/article/zohran-mamdani-voters-marketing-vibes)
+    - "Vibes Campaign" 비판적 분석.
+
+41. **"Zohran Mamdani: Mastering Political Communication"** — Upper Comms
+    - [기사 링크](https://uppercomms.com/zohran-mamdani-mastering-political-communication/)
+    - 정치 커뮤니케이션 전략 분석.
+
+42. **"ZOHRAN MAMDANI'S TROLLING YOU — A Rhetorical Analysis"** — Medium (Nia Outis)
+    - [기사 링크](https://medium.com/@Niaoutis/zohran-mamdanis-trolling-you-30c2b146cdf9)
+    - 수사학적 분석. "trolling"처럼 보이지만 정책 전달이 핵심이라는 분석.
+
+43. **"Every Graphic Designer Should Take Notes From Zohran Mamdani's Masterclass In Political Branding"** — Digital Synopsis
+    - [기사 링크](https://digitalsynopsis.com/design/zohran-mamdani-campaign-branding/)
+    - 정치 브랜딩/디자인 관점의 캠페인 분석.
+
+44. **"How Zohran designed his way to victory"** — Punchlist Magazine
+    - [기사 링크](https://www.punchlistmag.com/p/how-zohran-designed-his-way-to-victory)
+    - 디자인 전략 관점의 승리 분석.
+
+45. **"Zohran Mamdani's victory in New York and a revolutionary communication campaign"** — USI (Universita della Svizzera italiana)
+    - [기사 링크](https://www.usi.ch/en/feeds/33573)
+    - 유럽 학술 관점의 캠페인 커뮤니케이션 분석.
+
+46. **"Messaging That Moves: What PR Pros Can Learn from Zohran Mamdani's Mayoral Campaign"** — PR & Lattes
+    - [기사 링크](https://prandlattes.com/messaging-that-moves-what-pr-pros-can-learn-from-zohran-mamdanis-mayoral-campaign/)
+    - PR 전문가 관점의 메시지 전략 분석.
+
+47. **"How Zohran Mamdani used social media to build a movement"** — Washington Post (2025.6.26)
+    - [기사 링크](https://www.washingtonpost.com/politics/2025/06/26/zohran-mamdani-social-media-memes/)
+    - 소셜미디어를 통한 운동 구축 과정.
+
+48. **"In his first weeks as NYC mayor, Zohran Mamdani takes a measured approach"** — CNN (2026.1.19)
+    - [기사 링크](https://www.cnn.com/2026/01/19/politics/zohran-mamdani-nyc-mayor-profile)
+    - 취임 후 톤 변화 분석. "less off the cuff as mayor".
+
+49. **"Mayor Zohran Mamdani doubles down in an unapologetically progressive inauguration"** — CNN (2026.1.1)
+    - [기사 링크](https://www.cnn.com/2026/01/01/politics/zohran-mamdani-speech-progressive-mayor)
+    - 취임 연설의 진보적 톤 유지 분석.
+
+50. **"Launch of Zohran Mamdani's Official X Account Sparks Confusion"** — Newsweek
+    - [기사 링크](https://www.newsweek.com/zohran-mamdani-x-account-eric-adams-new-york-mayor-israel-netanyahu-11293251)
+    - @NYCMayor 계정 전환 혼선, Adams 시기 이스라엘 관련 게시물 논란.
+
+51. **"Zohran Mamdani sworn in as New York City mayor, capping historic rise"** — NPR (2026.1.1)
+    - [기사 링크](https://www.npr.org/2026/01/01/nx-s1-5663372/zohran-mamdani-sworn-in-as-new-york-city-mayor-capping-historic-rise)
+    - 취임식 및 역사적 의미 종합 보도.
+
+52. **"Zohran Mamdani's Digital Campaign Strategy"** — ISE Media Agency
+    - [기사 링크](https://www.isemediaagency.com/article/zohran-mamdanis-digital-campaign-strategy)
+    - 디지털 캠페인 전략 분석.
+
+53. **"NYC Mayor Zohran Mamdani Victory Speech — Breakdown of a Rhetorical Masterpiece"** — The Academic Papers
+    - [기사 링크](https://www.theacademicpapers.co.uk/blog/2025/11/08/zohran-mamdani-victory-speech/)
+    - 당선 연설의 수사학적 분석.
+
 ## 트럼프 정치 입문 이전(2009~2015) 트윗 수집 관련
 
 30. **"The Little-Known Story of Donald Trump's First Tweet"** — TIME
