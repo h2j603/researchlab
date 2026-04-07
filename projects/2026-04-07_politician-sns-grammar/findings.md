@@ -231,62 +231,131 @@ confidence: medium
 ### Zohran Mamdani — "크린지의 정치학"
 
 **플랫폼**: Instagram (주력), TikTok, X/Twitter
+**별도 파일**: [Mamdani SNS 게시물 원문 수집](mamdani-sns-posts.md)
 
 **기본 정보**:
 - 2026년 1월 뉴욕시 제112대 시장 취임 (34세, 역대 최연소급)
-- 뉴욕시 최초의 무슬림 시장, 남아시아계, 아프리카 출생
+- 뉴욕시 최초의 무슬림 시장, 남아시아계, 아프리카(우간다) 출생
 - 민주적 사회주의자(DSA) 소속
 - 시장 선거 전 뉴욕주 하원의원(State Assembly, 퀸즈 36지구)
 
-**핵심 문체 특징**:
+#### A. 평상시 SNS 문체 특징
 
-1. **"크린지를 껴안는" 영상 전략**: 정책 메시지를 비정형적 영상으로 전달. 렌트 동결(rent freeze) 정책을 홍보하기 위해 대서양 바다에 뛰어들거나, 부의 불평등을 설명하기 위해 볼리우드 영화 *Deewar*를 인용하는 릴스 제작. 본인 발언: *"There's a willingness to engage with the cringe if you want to represent 8.3 million people in New York City."*
+**1. 텍스트 문법 패턴**:
+- **극단적 단문 선호**: 핵심 메시지를 2~4단어로 압축. "FREEZE RENT!", "TikTok, we're back" — 트럼프의 "SAD!"와 유사한 단문 전략이지만, 감정이 아닌 **정책**을 압축
+- **대문자 사용**: 슬로건/핵심 정책에 전략적 대문자 적용 (FREEZE RENT). 트럼프처럼 감정 강조가 아닌 **정책 브랜딩** 목적
+- **감탄부호**: 슬로건에 집중 사용, 일반 텍스트에서는 절제. 트럼프의 감탄부호 남발과 대조적
+- **이모지 사용**: 제한적 — 영상이 주력 매체이므로 텍스트 이모지 의존도 낮음. AOC가 이모지를 자유롭게 쓰는 것과 대조적
+- **해시태그**: 캠페인 해시태그 사용하되 과도하지 않음. 해시태그보다 **영상 자체의 바이럴리티**에 의존
+- **인칭**: "we" 강력 선호. 당선 연설에서 유권자를 주어로 배치: *"They shared their lives, their hopes, their dreams, their fears with me"* — 4개 명사 반복(anaphora)
+- **문법 정확성**: 높음. 구어체이되 문법 오류 없음. 오바마와 유사한 정확성, 트럼프의 의도적 비문법과 대조적
+- **어휘 수준**: 간결하고 일상적인 단어 선택(simple words). 학술적/법률적 용어 회피. 정책을 생활 언어로 번역
 
-2. **영상 중심, 텍스트 보조**: AOC가 텍스트+라이브 혼합이라면, Mamdani는 **짧은 영상(릴스/숏폼)이 핵심 매체**. 텍스트 캡션은 영상을 보충하는 역할. 이것은 트럼프(텍스트 중심)나 오바마(텍스트+내러티브)와 근본적으로 다른 매체 전략.
+**2. "크린지를 껴안는" 영상 전략**:
+- 정책 메시지를 비정형적 영상으로 전달. 렌트 동결 정책을 홍보하기 위해 대서양 바다에 뛰어들거나, 볼리우드 영화 *Deewar*를 인용하거나, 발렌타인데이에 주거비 발라드를 부르는 릴스 제작
+- 본인 발언: *"There's a willingness to engage with the cringe if you want to represent 8.3 million people in New York City."*
+- **핵심 분석**: "cringe"를 부정적 단어가 아닌 커뮤니케이션 도구로 재정의. 정치인의 체면 유지 관행을 의도적으로 파괴
 
-3. **톤의 이중성 — 유머 + 진정성**: 영상은 혀를 내두를 정도로 코믹하지만(tongue-in-cheek), 동시에 정책 메시지는 진지함. 캠페인 커뮤니케이션 디렉터 Andrew Epstein의 표현: *"The style [was] downstream of the substance."* — 스타일은 내용에서 자연스럽게 도출된 것이지, 스타일을 위한 스타일이 아니다.
+**3. 영상 중심, 텍스트 보조**:
+- AOC가 텍스트+라이브 혼합이라면, Mamdani는 **짧은 영상(릴스/숏폼)이 핵심 매체**. 텍스트 캡션은 영상을 보충하는 역할
+- 이것은 트럼프(텍스트 중심)나 오바마(텍스트+내러티브)와 근본적으로 다른 매체 전략
+- 영상 내 문법: **끊임없는 이동**(매 문장마다 위치 변경), 일상적 배경(식당, 지하철 플랫폼, 해변), 카메라 직시, 빠른 컷
 
-4. **플랫폼 네이티브 감각**: "젊은 나이가 콘텐츠에 자연스러운 느낌(seamless feel)을 준다"는 분석. 사람들이 멈춰서 보는 이유는 "플랫폼에 자연스러운 방식으로 콘텐츠를 만들기 때문"
+**4. 톤의 이중성 — 유머 + 진정성**:
+- 영상은 혀를 내두를 정도로 코믹하지만(tongue-in-cheek), 동시에 정책 메시지는 진지함
+- 캠페인 커뮤니케이션 디렉터 Andrew Epstein: *"The style [was] downstream of the substance."*
+- **분석**: 스타일이 내용에서 자연스럽게 도출된 것이지, 스타일을 위한 스타일이 아님. "trolling"처럼 보이지만 실제로는 정책 전달이 핵심 ([Medium 분석](https://medium.com/@Niaoutis/zohran-mamdanis-trolling-you-30c2b146cdf9))
 
-5. **팔로워 규모의 압도적 차이**: 인스타그램 팔로워가 최대 경쟁자 Andrew Cuomo의 **10배**에 달함. 이것은 단순한 수치가 아니라 콘텐츠 전략의 승리.
+**5. 메시지 일관성**:
+- 플랫폼과 맥락이 바뀌어도 메시지 일관: Hot 97 출연, 모스크, 풍자 스킷 등 어디서든 동일한 핵심 메시지 유지
+- *"here's what I believe, here's what I'm fighting for, and here's how you can be part of it"* — 이 3단 구조가 모든 콘텐츠의 뼈대
 
-**시기별 변화 패턴**:
+**6. 팔로워 규모**: 인스타그램 팔로워 프라이머리 데이 기준 **100만 명** (경쟁자 Andrew Cuomo의 **10배**)
 
-- **주 하원의원 시절 (2021~2024)**: 정책 설명 영상, 의회 활동 공유. 상대적으로 낮은 프로필이지만 이미 영상 중심 전략 실험 중
-- **시장 선거 캠페인 (2025)**: 숏폼 영상 전략의 폭발적 확대. 렌트 동결 바다 다이빙, 볼리우드 참조 릴스 등 바이럴 콘텐츠 집중 생산. 정책 플랫폼(무료 보육, 무료 버스, 시 소유 식료품점, 최저임금 인상)을 유머러스한 영상 형식으로 전달
-- **당선 후 / 시장 취임 (2026.1~)**: "prolific poster" 상태 유지. 2026년 3월 뉴욕시 정부 TikTok 계정 복원 발표 등 소셜미디어를 공식 거버넌스 도구로 적극 활용. 공식 X 계정(@NYCMayor) 출범 시 혼선 발생 — 이전 시장(Eric Adams) 계정과의 전환 과정에서 이스라엘/네타냐후 관련 게시물 논란
+#### B. 2025 뉴욕시장 선거 캠페인 문체 변화
 
-**DSA 소속으로서의 SNS 전략 특징**:
+**캠페인의 SNS 전략 3요소** (Campaign US 분석):
+1. **Production** (제작): 고품질이 아닌 "플랫폼 네이티브" 품질. 폰 촬영, 자연광, 일상 배경
+2. **Content** (내용): 정책을 유머러스한 영상으로 번역. 모든 정책을 2~4단어 슬로건으로 압축 ("Free childcare", "Free buses", "City-owned grocery stores", "Rent freeze")
+3. **Consistency** (일관성): 매일 게시, 모든 플랫폼에서 동일 메시지
 
-1. **정책의 직접 전달**: DSA의 핵심 정책(렌트 동결, 무료 대중교통, 보편 보육)을 전통 미디어 우회하여 SNS로 직접 전달. 정치적 중개자(언론, 정당 기관) 없이 유권자와 직접 소통하는 모델
-2. **NYC-DSA 조직과의 시너지**: DSA 뉴욕 지부가 캠페인에 핵심적 역할. DSA의 조직력 + Mamdani의 개인 SNS 바이럴리티가 결합
-3. **계급 언어의 대중화**: "민주적 사회주의"라는 추상적 이념을 구체적 정책 영상으로 번역. 이념보다 생활 밀착형 메시지 우선
+**캠페인 고유 전술**:
+- **Instagram DM 퍼널**: 게시물에 특정 키워드 댓글 → 자동 DM 발송 → 캠페인 데이터베이스 유입. 20,000건 이상 클릭 유도 ([Milkkarten 분석](https://www.milkkarten.net/p/how-zohran-mamdani-drove-over-20k))
+- **Trial Reels 활용**: 인스타그램 신기능으로 575,000명 이상 팔로워 유입 ([Campaigns & Elections](https://campaignsandelections.com/industry-news/how-mamdanis-campaign-used-a-new-instagram-feature-to-grow-its-followers/))
+- **다문화 코드 스위칭**: 볼리우드 레퍼런스, 남아시아 문화 코드를 뉴욕 정치 맥락에 삽입
 
-**AOC와의 비교**:
+**캠페인 시기 문체 변화 핵심**:
+- 주 하원의원 시절의 정책 설명 영상 → 시장 선거에서 **바이럴 퍼포먼스**로 확대
+- 톤이 더 즉흥적(off the cuff), 유머 비중 증가
+- 게시 빈도 폭발적 증가
+- 정책 메시지를 극단적으로 단순화한 슬로건으로 압축
+
+#### C. 시장 취임 전후 문체 변화
+
+**취임 후 확인된 변화** (CNN, 2026.1.19):
+| 요소 | 캠페인 (2025) | 취임 후 (2026.1~) |
+|------|-------------|-----------------|
+| **톤** | 즉흥적(off the cuff), 유머 중심 | 절제된(measured), 신중 |
+| **수정 속도** | — | 빠른 코스 수정(course correction) |
+| **이념적 톤** | 진보적 | "unapologetically progressive" 유지 (CNN) |
+| **논쟁 참여** | 적극적 (트럼프 직접 도전) | 상대적으로 절제 |
+| **매체** | Instagram/TikTok 중심 | @NYCMayor 공식 X 추가, TikTok 공식 복원 |
+
+- 민주당 전략가: *"The defining characteristic of the first weeks of this new mayor is that he course corrects very quickly"* — *"less off the cuff as mayor than he was in the campaign"*
+- **핵심 발견**: 캠페인의 "크린지" 유머는 줄이되, 진보적 정책 입장은 유지. **톤은 변하고 메시지는 유지** — 이는 오바마의 재임기 절제 패턴과 유사
+
+**@NYCMayor 계정 전환 논란**:
+- 전임 시장 Adams의 게시물 잔존 → 이스라엘/네타냐후 관련 Adams 게시물이 Mamdani 명의로 보이는 혼란
+- Mamdani의 Adams 트윗 전체 삭제 계획 → SNS 계정의 역사적 연속성을 끊는 디지털 단절 선언
+- 반유대주의 관련 executive order 취소와 맞물려 정치적 논란 확대
+
+#### D. DSA 소속으로서의 SNS 전략 특징
+
+1. **전통 미디어 우회**: DSA의 핵심 정책(렌트 동결, 무료 대중교통, 보편 보육)을 언론/정당 기관 없이 SNS로 직접 전달. 정치적 중개자 제거
+2. **NYC-DSA 조직 시너지**: DSA 뉴욕 지부 + Mamdani 개인 바이럴리티가 결합. "Our Time" 캠페인 팀은 DSA 조직 생태계 출신 ([Dissent Magazine](https://dissentmagazine.org/article/mamdanis-digital-machine/))
+3. **계급 언어의 대중화**: "민주적 사회주의"를 추상적 이념이 아닌 구체적 정책 영상으로 번역. 이념 < 생활 밀착형 메시지
+4. **풀뿌리 + 디지털 하이브리드**: 소액 기부자 중심 모금 + SNS 바이럴리티 + Gen Z 유권자 동원의 3각 구조
+5. **"Vibes Campaign" 비판에 대한 대응**: City Journal이 "Vibes Campaign"으로 비판했으나, 실제로는 정책 내용이 존재하며 전달 형식이 비전통적일 뿐이라는 반박 ([City Journal](https://www.city-journal.org/article/zohran-mamdani-voters-marketing-vibes))
+
+#### E. AOC와의 스타일 비교
 
 | 요소 | AOC | Zohran Mamdani |
 |------|-----|----------------|
 | **주력 플랫폼** | Instagram + Twitter | Instagram + TikTok |
 | **핵심 포맷** | 인스타 라이브 + 텍스트 트윗 | 숏폼 영상(릴스/TikTok) |
-| **톤** | 구어체, 일상적, 감정 투명 | 유머/코미디 + 정책 진정성 |
-| **밈 활용** | 밈 문법을 정치에 차용 | 밈을 직접 제작/실행 |
+| **톤** | 구어체, 일상적, 감정 투명 ("I'm scared", "I'm angry") | 유머/코미디 + 정책 진정성 |
+| **밈 활용** | 밈 문법을 정치에 차용 | 밈을 직접 제작/실행(performing the meme) |
 | **"크린지" 수용도** | 중간 — 자연스러움 추구 | 매우 높음 — 의도적으로 크린지를 도구화 |
+| **텍스트 비중** | 높음 (트윗, 캡션 모두 중요) | 낮음 (영상이 핵심, 텍스트는 보조) |
 | **세대** | 밀레니얼 (1989~) | 밀레니얼/Z경계 (1990~) |
 | **이념** | DSA 소속, 민주적 사회주의 | DSA 소속, 민주적 사회주의 |
-| **핵심 차이** | AOC가 **템플릿을 만들었다면** | Mamdani는 **더 빠른 사이클, 더 짧은 영상, 더 감정 주도적**으로 확장 |
-| **선거 전략** | 초기 풀뿌리 + SNS | SNS를 캠페인의 **중심**에 배치 |
+| **감정 표현** | 직접적 ("I'm angry") | 간접적 (유머/퍼포먼스로 우회) |
+| **플랫폼 기능 활용** | 스토리, 라이브 | Trial Reels, DM 자동화, 알고리즘 해킹 |
+| **핵심 차이** | AOC가 **템플릿을 만들었다면** | Mamdani는 **숏폼 시대에 맞게 진화** |
+| **선거 전략** | 초기 풀뿌리 + SNS | SNS를 캠페인의 **절대 중심**에 배치 |
 
-**AOC 비교 핵심 요약**: AOC의 인스타그램 라이브 + 일상 혼합 모델이 진보 정치인 SNS의 "원형(template)"을 만들었다면, Mamdani는 이를 **숏폼 영상 시대에 맞게 진화**시켰다. 차이점은 AOC가 "자연스러운 일상"을 보여주는 방식이라면, Mamdani는 "의도적으로 과장된 퍼포먼스"를 정책 전달 수단으로 사용한다는 것. Hollywood Reporter는 Mamdani의 모방자들을 분석하며 "포맷이 핵심이 아니었다(the format was never the point)"고 지적 — 즉, 형식만 복사하면 실패함.
+**AOC 비교 핵심 요약**: AOC의 인스타그램 라이브 + 일상 혼합 모델이 진보 정치인 SNS의 "원형(template)"을 만들었다면, Mamdani는 이를 **숏폼 영상 시대에 맞게 진화**시켰다. 차이점은 AOC가 "자연스러운 일상"을 보여주는 방식이라면, Mamdani는 "의도적으로 과장된 퍼포먼스"를 정책 전달 수단으로 사용한다는 것.
 
-**실제 게시물/발언 텍스트**:
+추가적 차이: AOC는 **텍스트와 영상이 동등**한 비중이지만, Mamdani는 **영상이 압도적으로 우세**. AOC의 감정은 **직접 진술**(I'm angry)이고, Mamdani의 감정은 **퍼포먼스로 우회**(바다에 뛰어드는 행위 자체가 분노의 표현). 플랫폼 기능 활용에서도 Mamdani가 더 공격적(Trial Reels, DM 자동화 등).
 
-1. 바이럴 영상 컨셉: 대서양 바다에 뛰어들며 "FREEZE RENT!" — 렌트 동결 정책 홍보 (2025 캠페인)
-2. 볼리우드 영화 *Deewar* 인용 릴스 — 부의 불평등 설명 (2025 캠페인)
-3. 당선 연설 관련 게시물: *"They shared their lives, their hopes, their dreams, their fears with me"* (2025.11, 당선 직후)
-4. TikTok 복원 발표: *"TikTok, we're back"* — 뉴욕시 정부 소셜미디어 계정 복원 (2026.3)
-5. 트럼프 대통령에 대한 공개 도전: 당선 연설에서 도널드 트럼프 대통령에게 공개적으로 도전하는 발언 (2025.11)
+Hollywood Reporter는 Mamdani의 모방자들을 분석하며 *"the format was never the point"*라고 지적 — 형식만 복사하면 실패함.
 
-> **주의**: 원문 트윗/캡션 텍스트의 대규모 수집은 현재 환경에서 제한됨. SNS 아카이브 사이트(Wayback Machine, 웹 아카이브 등)가 403 차단되어 직접 접근 불가. 향후 PC 환경에서 X/Instagram 직접 접근 시 원문 텍스트 대규모 수집 필요.
+#### F. 실제 게시물/발언 원문 텍스트
+
+> 상세 수집은 [mamdani-sns-posts.md](mamdani-sns-posts.md) 참조
+
+**주요 원문**:
+
+1. **"FREEZE RENT!"** — 대서양 바다 다이빙 영상 캡션/슬로건 (2025 캠페인)
+2. **"TikTok, we're back."** — 뉴욕시 정부 TikTok 계정 복원 발표 (2026.3)
+3. **"They shared their lives, their hopes, their dreams, their fears with me."** — 당선 연설 (2025.11)
+4. **"There's a willingness to engage with the cringe if you want to represent 8.3 million people in New York City."** — THE CITY 인터뷰 (2025.1)
+5. 볼리우드 *Deewar* 인용 릴스 — 부의 불평등 설명 (2025 캠페인)
+6. 발렌타인 주거비 발라드 — 노래 형식의 정책 영상 (2025.2)
+7. 트럼프 대통령에 대한 공개 도전 발언 — 당선 연설 (2025.11)
+8. ICC 네타냐후 체포영장 집행 선언 (2025.9)
+
+> **수집 한계**: SNS 아카이브 직접 접근 403 차단으로 대규모 원문 수집 미실시. 향후 PC 환경에서 Instagram(@zohranmamdani), X(@ZohranMamdani, @NYCMayor) 직접 접근하여 원문 보충 필요.
 
 ## 8. 국내외 비교: 문법 변화의 보편성과 특수성
 
