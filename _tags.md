@@ -23,6 +23,8 @@ type: index
 | `zeitgeist` | 시대정신, 트렌드 |
 | `worldbuilding` | 세계관 구축, 픽션 설계 |
 | `format-as-narrative` | 형식/포맷 자체가 서사 장치로 기능하는 구조 |
+| `political-communication` | 정치 커뮤니케이션, 정치 수사학 |
+| `sns-grammar` | SNS 글쓰기 문법/문체 분석 |
 
 ## 분야 태그 — 기술·도구
 | 태그 | 설명 |
