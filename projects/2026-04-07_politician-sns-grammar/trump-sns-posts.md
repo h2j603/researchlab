@@ -562,19 +562,19 @@ confidence: medium
 | 구분 | 명령문 포함 비율 |
 |------|----------------|
 | **평상시 (R)** | 7% (R6 "Enjoy!"만) |
-| **위기/선거 (C)** | 47% (#4, #5, #10, #13, #14, #15, #16, #17) |
+| **위기/선거 (C)** | 44% (#4, #5, #10, #13, #14, #15, #16, #17, #34, #36, #37) |
 
-**해석**: **가장 극적인 차이**. 평상시 트럼프는 서술/자랑 모드이지만, 위기 시 **명령 모드**로 전환. "VOTE!", "Stay peaceful!", "Remember this day!", "Don't be afraid!", "STAY IN LINE!" — 독자에게 직접 행동을 지시.
+**해석**: **가장 극적인 차이**. 평상시 트럼프는 서술/자랑 모드이지만, 위기 시 **명령 모드**로 전환. "VOTE!", "Stay peaceful!", "Remember this day!", "Don't be afraid!" — 독자에게 직접 행동을 지시. 2024년 추가분에서도 "GET OUT AND VOTE!!!", "GET READY FOR THE GOLDEN AGE" 등 명령문 패턴이 유지됨.
 
 ### 5-6. 종합 — 트럼프 문법의 "위기 변환 공식"
 
 ```
 평상시 모드                        위기/선거 모드
 ─────────────                    ─────────────
-서술문 중심                   →    명령문 중심 (×6.7배)
-선택적 대문자 (1.2개/글)      →    전체 대문자 문장 등장 (×1.8배)
-감탄부호 1.1개/글             →    감탄부호 1.8개/글 (×1.6배)
-별명 공격 13%                 →    별명 공격 35% (×2.7배)
+서술문 중심                   →    명령문 중심 (×6.3배)
+선택적 대문자 (1.2개/글)      →    전체 대문자 문장 등장 (×2.0배, ALL CAPS 33%)
+감탄부호 1.1개/글             →    감탄부호 2.0개/글 (×1.8배)
+별명 공격 13%                 →    별명 공격 44% (×3.4배)
 평균 28단어                   →    슬로건형 극단 짧은 글 등장 (2~6단어)
 자랑(Self-praise) 위주        →    공격(Attack) + 지시(Command) 위주
 ```
@@ -594,6 +594,11 @@ confidence: medium
 - [Washington Post - Trump's Truth Social posts grew more belligerent](https://www.washingtonpost.com/politics/interactive/2024/trump-truth-social-posts/)
 - [CNBC - Trump takes a rare break from social media after election win](https://www.cnbc.com/2024/11/07/trump-x-truth-social-djt-election.html)
 - [Trump's Truth Archive](https://trumpstruth.org/) — Truth Social 게시물 아카이브
+- [Axios - Trump's Truth Social spree: QAnon, sexism and threats](https://www.axios.com/2024/08/29/trump-truth-social-posts-qanon) — 2024년 8월 대량 게시 분석
+- [Rolling Stone - Trump Promotes Fascism, QAnon in Posting Spree](https://www.rollingstone.com/politics/politics-news/trump-fascism-qanon-truth-social-posting-spree-1235089984/)
+- [AP News - Trump works the fry station at McDonald's](https://apnews.com/article/trump-mcdonalds-fries-kamala-harris) — 맥도날드 퍼포먼스
+- [The New York Times - Trump's 'Enemy Within' comments](https://www.nytimes.com/2024/10/14/us/politics/trump-enemy-within.html) — 내부의 적 발언 논란
+- [Reuters - Trump labels Harris 'Marxist'](https://www.reuters.com/world/us/trump-labels-harris-marxist/) — 해리스 이념 라벨링
 
 ---
 
