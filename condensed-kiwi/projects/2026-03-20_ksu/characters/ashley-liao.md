@@ -181,127 +181,64 @@ Ashley Liao는 AKU 인스타 콘텐츠에서 **"사례 보고서 (Case File)"** 
 
 ### 산출물: Record #0037-V — 요원 보고 영상
 
-> **영상 성격**: Ashley Liao 요원이 **웹키위바이러스 위키(kiwiki) 자체를 소개하는 보고 영상**을 촬영한다. 위키의 구조, 분류 체계, 핵심 개념을 설명하는 도중 요원의 감염 증상이 영상에 포착된다.
->
-> **언어**: 영어(모어). 공포가 극에 달할 때 만다린(*이탤릭*).
+> 위키(kiwiki)를 소개하는 보고 영상. 경계 무너짐 단계를 읽다가 자기 몸에서 일어나는 일과 겹치는 걸 깨닫는다.
+> 영어(모어) + 공포가 극에 달하면 만다린(*이탤릭*).
 
 **[RECORD START]**
 
-**[Ashley가 카메라 앞에 앉아 있다. 흰색 터틀넥. 보청기 디스플레이 정상(파란색). 목 왼쪽의 녹색 섬유질을 칼라로 가린 상태. 차분한 보고 톤.]**
+**[Ashley. 흰색 터틀넥. 보청기 디스플레이 정상(파란색). 목의 섬유질을 칼라로 가린 상태.]**
 
-This is Agent Liao, SRU-0412.
-This recording serves as a field introduction to the Web Kiwi Virus Wiki — internally designated "kiwiki."
+Agent Liao, SRU-0412.
+Field introduction to the Web Kiwi Virus Wiki — "kiwiki."
 
 요원 Liao, SRU-0412.
-이 녹화는 웹키위바이러스 위키 — 내부 지정명 "kiwiki" — 에 대한 현장 소개 자료입니다.
+웹키위바이러스 위키 — "kiwiki" — 현장 소개 자료입니다.
 
-**[서류를 한 번 내려다본다.]**
+The wiki documents thirty-three virus strains, classified by type, vector, and severity.
+Four types: Logic, Sensory, Cognitive, Environmental.
 
-The wiki currently documents thirty-three confirmed virus strains.
-Each entry is classified along three axes: type, vector, and severity.
+위키는 33종의 바이러스를 유형, 전파 경로, 위험도로 분류합니다.
+네 가지 유형: 로직형, 감각형, 인지형, 환경형.
 
-위키는 현재 33종의 확인된 바이러스 변종을 기록하고 있습니다.
-각 항목은 유형, 전파 경로, 위험도의 세 축으로 분류됩니다.
+**[보청기에서 미세한 잡음. 눈을 찡그리지만 이어간다.]**
 
-Four types have been identified.
-확인된 유형은 네 가지입니다.
-
-Logic — corrupts reasoning and judgment.
-로직형 — 추론과 판단을 부식시킵니다.
-
-Sensory — distorts perception. Sight, hearing, touch.
-감각형 — 인지를 왜곡합니다. 시각, 청각, 촉각.
-
-**[Ashley가 "hearing"이라고 말하는 순간 — 보청기에서 극히 미세한 잡음. 0.3초. 눈을 살짝 찡그리지만 바로 이어간다.]**
-
-Cognitive — erodes memory and awareness.
-인지형 — 기억과 인식을 침식합니다.
-
-Environmental — transforms physical spaces.
-환경형 — 물리적 공간을 변형시킵니다.
-
-**[짧은 멈춤. 보고 톤 유지.]**
-
-Transmission vectors are five: SNS, messenger, email, search engine, and direct access.
-전파 경로는 다섯 가지입니다: SNS, 메신저, 이메일, 검색엔진, 직접접근.
-
-Severity ranges from Moderate to Critical. Seven strains have reached irreversible status.
-위험도는 보통에서 치명적까지. 7종이 비가역 단계에 도달한 바 있습니다.
-
-**[보청기 디스플레이가 순간적으로 녹색 글리치. 0.5초. Ashley가 왼쪽 귀 쪽으로 손을 가져가려다 — 멈추고, 보고를 계속한다.]**
-
-The central concept of the wiki is Boundary Collapse.
-위키의 핵심 개념은 경계 무너짐입니다.
-
-Every documented virus follows the same progression:
-web-contained symptoms cross into physical reality through the infected individual.
-기록된 모든 바이러스는 동일한 진행을 따릅니다.
-웹에 한정된 증상이 감염자를 통해 물리적 현실로 넘어옵니다.
-
+The central concept is Boundary Collapse — web symptoms crossing into physical reality.
 The process is staged.
+
+핵심 개념은 경계 무너짐 — 웹 증상이 물리적 현실로 넘어오는 것입니다.
 이 과정은 단계적입니다.
 
-Stage One — symptoms exist only in the digital environment.
-1단계 — 증상이 디지털 환경에만 존재합니다.
+Stage One — digital only.
+Stage Two — spreads across all digital surfaces.
 
-Stage Two — symptoms spread across all digital surfaces.
-2단계 — 증상이 모든 디지털 표면으로 확산됩니다.
+1단계 — 디지털 환경에만 존재.
+2단계 — 모든 디지털 표면으로 확산.
 
-**[보청기 디스플레이가 순간적으로 녹색 글리치. Ashley가 눈을 찡그리지만 이어간다.]**
+**[보청기 디스플레이 녹색 글리치. 0.5초.]**
 
 Stage Three — symptoms manifest offline.
-3단계 — 증상이 오프라인에서 발현됩니다.
+3단계 — 증상이 오프라인에서 발현.
 
-**[Ashley가 "offline"이라고 말하는 순간 — 보청기에서 유리 질감의 잡음이 돌아온다. 입을 다문다. 1초. 다시 이어간다.]**
+**[자기 목소리가 유리 질감으로 돌아온다. 멈춘다. 1초. 억지로 이어간다.]**
 
-The boundary has been breached. The infected individual begins to experience symptoms without any digital device present —
-경계가 뚫린 것입니다. 감염자는 디지털 디바이스 없이도 증상을 경험하기 시작 —
+Stage Four — symptoms anchor in physical reality. Tissue-level changes at the point of infection.
+4단계 — 증상이 물리적 현실에 정착. 감염 지점의 조직 수준 변화.
 
-**[멈춘다. 자기가 방금 뭘 말했는지 의식한다. "without any digital device." 자기는 지금 디바이스를 끼고 있다. 보청기를 만진다.]**
+**[손이 무의식적으로 목으로 간다. 칼라 위로 섬유질이 만져진다. 굳는다. 손이 떨리면서 칼라를 내린다. 녹색 섬유질이 드러난다.]**
 
-**[삼킨다. 계속한다. 목소리가 약간 흔들린다.]**
+**[카메라를 본다. 침묵.]**
 
-Stage Four — symptoms anchor in physical reality.
-4단계 — 증상이 물리적 현실에 정착합니다.
+**[서류의 다음 줄을 읽으려 한다.]**
 
-Self-sustaining. No longer dependent on the original vector.
-자가 유지. 더 이상 최초 전파 경로에 의존하지 않습니다.
+Stage Five — irreversible. The boundary is permanently —
+5단계 — 비가역. 경계가 영구적으로 —
 
-**[여기서 Ashley의 손이 무의식적으로 목으로 간다. 칼라 위로 뭔가 만져진다. 섬유질. 손끝이 닿자 — 굳는다.]**
+**[못 읽는다. 보청기 글리치음. 귀를 움켜쥔다. 서류가 떨어진다.]**
 
-**[카메라를 본다. 서류를 내려다본다. 다시 카메라를 본다.]**
+*我现在到哪了？*
+*저 지금 어디까지 온 거야?*
 
-**[서류를 읽는다. 목소리가 작아져 있다.]**
-
-... Physical manifestation may include tissue-level changes at the point of infection.
-... 물리적 발현에는 감염 지점의 조직 수준 변화가 포함될 수 있습니다.
-
-**[읽다 멈춘다.]**
-
-**[손이 떨리면서 터틀넥 칼라를 내린다. 목 왼쪽의 녹색 섬유질이 드러난다. 카메라를 본다.]**
-
-**[긴 침묵.]**
-
-**[서류의 다음 줄을 읽으려 한다. 읽는다 — 그런데 목소리가 갈라진다.]**
-
-Stage Five — irreversible.
-5단계 — 비가역.
-
-The boundary is permanently —
-경계가 영구적으로 —
-
-**[말을 못 잇는다. 보청기에서 글리치음이 터진다. Ashley가 귀를 움켜쥔다.]**
-
-**[서류가 손에서 떨어진다.]**
-
-**[카메라를 본다. 공포.]**
-
-*(거의 속삭이듯)*
-
-What stage am I in?
-저 지금 몇 단계예요?
-
-**[보청기 디스플레이가 완전히 녹색으로 전환된다. Ashley가 두 손으로 귀를 감싸며 의자에서 무너진다.]**
+**[보청기 완전 녹색. 의자에서 무너진다.]**
 
 **[영상 끊김.]**
 
