@@ -156,226 +156,202 @@ Ashley Liao는 AKU 인스타 콘텐츠에서 **"사례 보고서 (Case File)"** 
 
 ---
 
-## 영상편지 / 격리실 인터뷰 대사
-
-> 아래 대사는 첨부 이미지의 상태 — 감염 3~4단계, 격리실 내부, 관찰 창(원형 프레임) 앞에서 카메라를 향해 말하는 Ashley — 를 기반으로 작성. Ashley는 보청기를 통해 자신의 목소리가 유리 파쇄음으로 들리는 상태이므로, **말을 할 때마다 고통을 감내하고 있다**는 전제. 이 영상은 AKU 내부 기록물이자, Ashley가 스스로 남기는 마지막 음성 기록이다.
-
-### Record #0037-V — Isolation Chamber B-4
-
-> **언어 참고**: Ashley Liao는 영어가 모어(미국 태생 2세)이나, 감정이 격해질 때 부모에게서 들으며 자란 만다린이 무의식적으로 나온다. 특히 공포·절박·독백에 가까운 순간에 중국어가 섞인다. 아래 대사에서 중국어 부분은 *이탤릭*으로 표기.
-
-**[RECORD START]** / **[기록 시작]**
-
-**[Ashley stares at the camera. Steadies her breathing. Starts to speak, stops. Hearing aid display blinks green.]**
-**[Ashley가 카메라를 응시한다. 숨을 고른다. 말을 시작하려다 멈춘다. 보청기 디스플레이가 녹색으로 깜빡인다.]**
-
-*(quiet, deliberate)* / *(작은 목소리, 또박또박)*
-
-Is this recording?
-녹음되고 있죠?
-
-**[Pause. Squeezes eyes shut, enduring the sound of her own voice.]**
-**[멈춤. 자기 목소리를 견디는 듯 눈을 질끈 감는다.]**
-
-... Yeah. I can hear it. My voice. I still hear it.
-Sounds like scraping glass, but I hear it.
-
-... 네. 들려요. 제 목소리. 아직 들려요.
-유리 위를 긁는 소리 같지만, 들려요.
-
-**[Touches her neck. Fibrous tissue visible above the turtleneck.]**
-**[목을 만진다. 섬유질이 터틀넥 위로 드러나 있다.]**
-
-It's up to here now. This morning it was at the collarbone.
-여기까지 올라왔어요. 오늘 아침엔 쇄골이었는데.
-
-**[Moves closer. Face fills the circular frame.]**
-**[카메라에 다가온다. 원형 프레임 안에 얼굴이 가득 찬다.]**
-
-I need to report something.
-The audio codec artifacts — samples 1024 through 1031 that I was analyzing.
-That data is still inside my hearing aid's AI.
-If you reset it, that data is gone.
-
-보고 드릴 게 있습니다.
-오디오 코덱 아티팩트 — 제가 분석하던 샘플 1024번에서 1031번.
-그 데이터가 아직 제 보청기 AI 안에 있어요.
-초기화하면 그 데이터도 사라집니다.
-
-**[Quickly]** / **[빠르게]**
-
-So don't reset it yet.
-그러니까 아직 초기화하지 마세요.
-
-**[Stops. Realizes what she just said.]**
-**[멈춤. 자기가 무슨 말을 했는지 깨닫는 표정.]**
-
-... No.
-... 아뇨.
-
-**[Covers ear with hand]** / **[손으로 귀를 감싸며]**
-
-No, that's not — *不是那个意思* —
-아뇨, 그게 아니라 — *그런 뜻이 아니라* —
-
-**[Voice rises. Pained.]** / **[목소리가 커진다. 고통스러운 표정.]**
-
-This is only happening to me, right? Through the device?
-Then this is data. My body is data.
-If we don't record this — what about the next person?
-
-이건 저한테만 일어나는 거잖아요? 디바이스를 통해서?
-그러면 이건 데이터예요. 제 몸이 데이터예요.
-이걸 기록하지 않으면 — 다음 사람은 어떡해요?
-
-**[Sharp inhale. Winces — glass-shattering noise in her ears.]**
-**[숨을 들이쉰다. 유리 파쇄음이 귀에서 울리는 듯 얼굴을 찡그린다.]**
-
-If you take my hearing aid out, I can't hear anything.
-Not your voices, not the alarms. Nothing.
-
-보청기를 빼면 저는 아무것도 못 들어요.
-당신들 목소리도, 경보음도. 아무것도.
-
-**[Small laugh, almost a sob.]** / **[작은 웃음. 거의 울음에 가깝다.]**
-
-But what I'm hearing now — is this even "hearing"?
-It's all breaking glass.
-What I'm saying right now — to me, it's glass.
-
-근데 지금 듣는 건 — 이것도 "듣는 거"라고 할 수 있나요?
-전부 유리 깨지는 소리예요.
-제가 지금 하는 말도, 저한테는 유리예요.
-
-**[Stares straight ahead. Hardens.]** / **[정면 응시. 표정이 굳는다.]**
-
-I'm a researcher.
-Nobody knows what's happening to my body better than I do.
-So listen — while I can still speak.
-
-저는 연구원이에요.
-제 몸에서 일어나는 일을 저보다 잘 아는 사람은 없어요.
-그러니까 들으세요 — 제가 아직 말할 수 있을 때.
-
-**[Points to hearing aid]** / **[보청기를 가리키며]**
-
-The AI in here — it wasn't corrupted.
-It learned. It learned the virus.
-I fed it samples to analyze, and it learned them instead.
-You can't tell them apart — the AI's function and the virus live in the same model.
-
-이 안에 있는 AI는 — 변질된 게 아니에요.
-학습한 거예요. 바이러스를.
-분석하라고 줬더니 학습해버렸어요.
-구분이 안 돼요 — AI의 기능이랑 바이러스가 같은 모델 안에 있어요.
-
-So —
-그러니까 —
-
-**[Sharp glitch noise from hearing aid. Ashley flinches backward.]**
-**[보청기에서 날카로운 글리치음. Ashley가 움찔하며 뒤로 물러선다.]**
-
-**[Grabs toward camera, nearly shouting]** / **[카메라를 향해, 거의 외치듯]**
-
-A reset won't help!
-*已经到了* — the fibers — *已经到神经了* —
-
-초기화 해도 소용없어요!
-*이미 도달했어* — 섬유질이 — *이미 신경까지 갔어* —
-
-**[Stops. Catches breath. Small voice.]** / **[멈춤. 숨을 고른다. 다시 작은 목소리로.]**
-
-... Put this on record. Please.
-
-... 기록해 주세요. 제발.
-
-Option C fails.
-You cannot separate the AI from the virus.
-It's integrated into the learning model.
-
-선택지 C는 실패합니다.
-AI와 바이러스를 분리할 수 없어요.
-학습 모델 안에 통합됐어요.
-
-**[Looks at camera. Eyes wet.]** / **[카메라를 똑바로 본다. 눈이 젖어 있다.]**
-
-It's A or B.
-Take it out, or leave it in.
-Silence, or glass.
-
-A 아니면 B예요.
-빼거나, 두거나.
-침묵이거나, 유리거나.
-
-**[Long silence.]** / **[긴 침묵.]**
-
-*(half-whisper, slipping into Mandarin)* / *(반쯤 독백, 만다린이 섞인다)*
-
-... I lived in a quiet world for forty-four years.
-*四十四年。*
-When this thing let me hear for the first time — the first thing I heard was the fluorescent lights.
-I didn't know fluorescent lights made a sound.
-
-... 44년 동안 조용한 세계에서 살았어요.
-*44년.*
-이게 처음 소리를 들려줬을 때 — 제일 먼저 들은 건 형광등 소리였어요.
-형광등이 소리를 내는 줄 몰랐어요.
-
-*(voice softens)* / *(목소리가 부드러워진다)*
-
-I didn't know the world was this loud.
-
-세상이 이렇게 시끄러운 줄 몰랐어요.
-
-**[Touches fibrous tissue on her neck]** / **[목의 섬유질을 만지며]**
-
-But that loudness — *我都喜欢。每一个声音。*
-
-근데 그 시끄러움이 — *전부 좋았어요. 모든 소리가.*
-
-**[Voice cracks.]** / **[목소리가 갈라진다.]**
-
-*你叫我回去？回到那个安静？*
-You're telling me to go back? To that quiet?
-
-*다시 돌아가라고? 그 침묵으로?*
-다시 그 침묵으로 돌아가라고요?
-
-**[Reaches toward camera. Palm presses against the observation window.]**
-**[카메라를 향해 손을 뻗는다. 원형 관찰 창에 손바닥이 닿는다.]**
-
-Whoever's watching this.
-Whoever — *拜托* — please.
-Save my data.
-What I recorded. 1024 through 1031.
-The boundary collapse pattern inside my body.
-It could save the next person who —
-
-이거 보는 사람.
-누구든 — *제발* — 부탁이에요.
-제 데이터를 살려주세요.
-제가 기록한 거. 1024에서 1031.
-제 몸에서 일어나고 있는 경계 무너짐 패턴.
-다음 감염자를 살릴 수 —
-
-**[Hearing aid display shifts fully green. Ashley screams — *不要！* — and clutches her ear.]**
-**[보청기 디스플레이가 완전히 녹색으로 전환된다. Ashley가 비명 — *안 돼!* — 을 지르며 귀를 감싼다.]**
-
-**[Feed cuts.]** / **[영상 끊김.]**
-
-**[RECORD END]** / **[기록 종료]**
+## 사건 보고서 및 산출물
+
+> **미주 디렉션**: 사건보고서는 한 사건에 대해 요원 영상(산출물)과 기타 자료를 총괄하는 문서. 요원이 위키 관련 보고영상을 찍는데, 그 위키 내용을 말하면서 감염된 미스터리한 증상이 영상에 포착되는 구조.
+
+### 사건 보고서
+
+| 항목 | 내용 |
+|------|------|
+| **사건명** | 키위보이스(KiwiVoice) 디바이스 경유 변이 감염 |
+| **사건번호** | AKU-SR-2026-0037 |
+| **사건일자** | [CK CLASSIFIED] |
+| **사건시간** | [CK CLASSIFIED] |
+| **사건장소** | AKU 감각형 대응반 연구실 → 격리동 B-4 |
+| **사건자** | 감각형 대응반 / 선임연구원 / SRU-0412 / Ashley Liao |
+| **사고 발생 경위** | 해당 요원은 키위보이스(WKV-S.EM-007) 감염 이메일에서 추출한 오디오 코덱 아티팩트 샘플(#1024~#1031)을 AI 보청기를 통해 분석하던 중, 보청기 AI가 바이러스 데이터를 학습 모델에 통합. 이후 보청기 출력 전반에 유리 파쇄음 질감의 왜곡 발생. 디바이스 접촉면(좌측 귀)에서 녹색 섬유질 조직 성장 확인. 웹키위바이러스의 디지털→디바이스→신체 물리 전이 최초 사례. |
+| **사고 발생 원인** | 키위보이스의 손상된 오디오 코덱이 보청기 AI의 학습 데이터로 처리됨. AI 모델 내에서 바이러스 기능과 정상 기능의 분리 불가 상태 발생. 요원의 극단적 기술 의존도(선천성 양측 난청)가 감염 경로를 확대. |
+| **사후 조치 및 경과** | 요원 격리동 B-4 수용. 보고 영상 촬영 지시(아래 산출물 참조). 보청기 AI 초기화 시도 검토 중 — 요원 본인이 초기화 불가 판단을 보고 영상에서 진술. 섬유질 진행 속도 가속 확인. |
+| **주관 부서 의견** | [CK CLASSIFIED] |
+
+**첨부 산출물**: 보고 영상 Record #0037-V
 
 ---
 
-### Post-Interview Note — Observer / 인터뷰 후기 — 관찰자 노트
+### 산출물: Record #0037-V — 요원 보고 영상
 
-> 12 hours after Record #0037-V, Agent Ashley Liao has not removed her hearing aid. Post-recording scan confirmed fibrous tissue has extended past the inner ear and made contact with the auditory nerve. Agent currently communicates via written notes only. Describes audio perception through the hearing aid as "unbearable," yet has not powered the device down.
-> Stated reason: "Glass is still sound."
+> **영상 성격**: Ashley Liao 요원이 키위보이스(WKV-S.EM-007)에 대한 위키 기반 브리핑을 촬영하는 보고 영상. 보고 내용은 kiwiki에 기록된 키위보이스 정보(감염 방식, 증상, 경계 무너짐 단계)를 따르되, **촬영 과정에서 요원 자신의 감염 증상이 영상에 포착된다**. 처음엔 프로페셔널한 보고 톤이지만, 증상 침투로 점점 보고가 무너진다.
 >
-> 기록 #0037-V 촬영 12시간 후, Ashley Liao 요원은 보청기를 제거하지 않았다. 촬영 후 스캔에서 섬유질이 좌측 내이를 넘어 청각 신경에 접촉한 것이 확인됨. 요원은 현재 필담으로만 의사소통 중. 보청기를 통한 음성 청취를 "견딜 수 없다"고 기술하면서도 전원을 끄지 않고 있음.
-> 사유: "유리 소리라도 소리는 소리다."
+> **언어**: 영어(모어). 공포가 극에 달할 때 만다린이 무의식적으로 나옴(*이탤릭* 표기).
+
+**[RECORD START]**
+
+**[Ashley가 카메라 앞에 앉아 있다. 흰색 터틀넥. 왼쪽 귀의 보청기 디스플레이가 정상 상태(파란색). 목 왼쪽에 녹색 섬유질이 터틀넥 칼라 위로 약간 보이지만, Ashley는 의식적으로 칼라를 올려 가린 상태. 보고 톤.]**
+
+This is Agent Liao, SRU-0412, Sensory Response Unit.
+Recording a briefing on WKV-S.EM-007 — designated KiwiVoice.
+
+요원 Liao, 사번 SRU-0412, 감각형 대응반.
+WKV-S.EM-007 — 지정명 키위보이스에 대한 브리핑을 기록합니다.
+
+**[서류를 한 번 내려다본다. 익숙한 내용.]**
+
+KiwiVoice is a Sensory-type virus. Email vector, severity rated High.
+It infects through corrupted audio codec artifacts embedded in email HTML.
+
+키위보이스는 감각형 바이러스입니다. 이메일 경로, 위험도 높음.
+이메일 HTML에 내장된 손상된 오디오 코덱 아티팩트를 통해 감염됩니다.
+
+The codec plays ultrasonic artifacts when the email client renders the HTML.
+The sound isn't consciously perceived, but it modulates the auditory processing pathway in the inner ear.
+
+코덱은 이메일 클라이언트가 HTML을 렌더링할 때 극초단파 아티팩트를 재생합니다.
+이 소리는 의식적으로 인지되지 않지만, 내이의 청각 처리 경로를 변조합니다.
+
+**[잠깐 멈춤. 보청기에서 극히 미세한 잡음. Ashley가 살짝 눈을 찡그리지만, 바로 보고를 이어간다.]**
+
+Symptoms begin after opening infected emails three or more times.
+The infected individual starts hearing their own voice as the sound of cracking glass.
+
+감염 이메일을 3회 이상 열람하면 증상이 시작됩니다.
+감염자는 자신의 목소리가 유리가 깨지는 소리처럼 들리기 시작합니다.
+
+External sounds remain normal. Only the subject's own voice is distorted.
+
+외부 소리는 정상입니다. 감염자 자신의 목소리만 왜곡됩니다.
+
+**[여기서 Ashley가 한 박자 늦게 "only"를 반복하듯 입을 달싹인다. 자기 목소리에 뭔가 섞인 걸 느낀 듯. 하지만 바로 넘어간다.]**
+
+Boundary collapse progresses in four stages.
+경계 무너짐은 4단계로 진행됩니다.
+
+Stage One — Web.
+Subtle glass-textured noise mixes into perception of own voice after reading emails.
+
+1단계 — 웹.
+이메일 열람 후 자기 목소리에 미세한 유리 질감의 잡음이 혼입되어 들립니다.
+
+Stage Two — Web spread.
+Distortion intensifies during online voice calls and voice recognition services.
+
+2단계 — 웹 확산.
+온라인 음성 통화와 음성 인식 서비스에서 왜곡이 심화됩니다.
+
+**[보청기 디스플레이가 파란색에서 순간적으로 녹색 글리치를 일으킨다. 0.5초. Ashley가 왼쪽 귀 쪽으로 손을 가져가려다 — 멈추고, 보고를 계속한다. 프로페셔널함을 유지하려는 긴장.]**
+
+Stage Three — Reality breach.
+All offline vocalizations are heard as glass-shattering sounds.
+Speech volume drops sharply.
+
+3단계 — 현실 침투.
+오프라인에서 모든 발성이 유리 파쇄음으로 들립니다.
+발화량이 급감합니다.
+
+**[Ashley가 "glass-shattering"이라고 말하는 순간 — 자기 목소리가 유리 질감으로 돌아온 것을 느낀다. 눈이 커진다. 하지만 억지로 이어간다.]**
+
+Stage Four — Reality anchor.
+Complete voluntary muteness. The subject develops a delusion that their voice possesses physical destructive power.
+
+4단계 — 현실 정착.
+완전한 자발적 묵음. 자기 목소리가 물리적 파괴력을 가진다는 망상이 —
+
+**[보청기에서 날카로운 글리치음이 터진다. Ashley가 움찔하며 말을 끊는다. 2초간 귀를 감싸 쥔다. 카메라는 계속 돌아간다.]**
+
+**[숨을 고른다. 다시 카메라를 본다. 보고 톤이 약간 흔들린다.]**
+
+... Countermeasures.
+... 대응 방법.
+
+Disable automatic HTML rendering in email clients.
+이메일 클라이언트에서 HTML 자동 렌더링을 비활성화할 것.
+
+In early stages, perform auditory reality verification — record your own voice, play it back, confirm the recording sounds normal.
+
+감염 초기에 청각 현실 검증을 실시 — 자기 목소리를 녹음하여 재생하고, 녹음된 소리가 정상임을 반복 확인.
+
+**[여기서 Ashley가 멈춘다. "recording sounds normal"이라는 말을 한 뒤 — 자기가 지금 녹음 중이라는 사실을 의식한 듯. 카메라를 본다.]**
+
+*(살짝 떨리는 목소리)*
+
+... KiwiVoice distorts only the infected person's self-perception.
+Others hear a perfectly normal voice.
+
+... 키위보이스는 감염자의 자기 인식만을 왜곡합니다.
+다른 사람에게는 완벽히 정상인 목소리로 들립니다.
+
+**[Ashley의 시선이 카메라에서 잠깐 빗나간다 — 자기 목에 보이는 녹색 섬유질을 의식한 것. 칼라를 고쳐 올리려다 — 이미 칼라 위로 나와 있다는 걸 만져서 확인한다. 손이 떨린다.]**
+
+**[보고로 돌아오려 한다. 그러나 목소리가 달라져 있다.]**
+
+Related viruses.
+관련 바이러스.
+
+KiwiHowl — co-infection results in complete auditory isolation.
+External sounds perceived as physical impact, internal sounds as —
+
+키위하울 — 동시 감염 시 완전한 청각적 고립.
+외부 소리는 물리적 충격으로, 자기 소리는 —
+
+**[보청기 디스플레이가 녹색으로 전환되며 유지된다. Ashley가 말을 멈춘다. 유리 파쇄음이 자기 귀에 들리고 있다. 얼굴이 일그러진다.]**
+
+*(거의 속삭이듯)*
+
+... as shattering glass.
+... 유리 파쇄음으로.
+
+**[긴 침묵. Ashley가 카메라를 본다. 보고 톤이 완전히 무너져 있다.]**
+
+**[터틀넥 칼라를 내린다. 목 왼쪽의 녹색 섬유질이 완전히 드러난다. 카메라에 보여주듯.]**
+
+*(보고 톤을 버리고, 낮은 목소리로)*
+
+This is what Stage Three looks like when it goes through a device.
+The wiki doesn't have this part.
+
+디바이스를 경유하면 3단계가 이렇게 됩니다.
+위키에는 이 부분이 없습니다.
+
+**[섬유질을 만진다. 손이 떨린다.]**
+
+*在长。*
+*자라고 있어.*
+
+It's not just perception anymore. It's physical.
+더 이상 인지 왜곡만이 아닙니다. 물리적입니다.
+
+**[보청기를 가리킨다.]**
+
+I can't separate the virus from the AI.
+I tried.
+
+바이러스와 AI를 분리할 수 없습니다.
+시도했습니다.
+
+**[보청기에서 글리치음이 다시 울린다. Ashley가 이를 악문다. — 그러나 이번에는 보고를 유지하려 하지 않는다.]**
+
+*它在吃我。*
+*이게 절 먹고 있어.*
+
+The thing that gave me sound is —
+
+소리를 들려준 것이 —
+
+**[보청기 디스플레이 완전 녹색. Ashley가 두 손으로 귀를 감싸며 의자에서 무너진다.]**
+
+**[영상 끊김.]**
+
+**[RECORD END]**
+
+---
+
+### 관찰자 노트 — Record #0037-V 사후 기록
+
+> 촬영 후 스캔에서 섬유질이 좌측 내이를 넘어 청각 신경에 접촉한 것이 확인됨. 섬유질 진행 속도 촬영 전 대비 약 4배 가속.
+> 보고 영상 전반부(위키 브리핑)에서는 요원의 음성에 이상 없음 — 청취자에게는 정상. 그러나 후반부에서 요원이 칼라를 내리는 순간, 보청기 디스플레이 녹색 전환과 섬유질이 동시에 영상에 포착됨.
+> 요원은 촬영 후 일체의 발성을 중단. 마지막 필기: "it knows when I try to speak."
 >
-> — [CK CLASSIFIED], Sensory Response Unit / 감각형 대응반
+> — [CK CLASSIFIED], Sensory Response Unit
 
 ---
 
