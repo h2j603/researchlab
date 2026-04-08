@@ -181,161 +181,126 @@ Ashley Liao는 AKU 인스타 콘텐츠에서 **"사례 보고서 (Case File)"** 
 
 ### 산출물: Record #0037-V — 요원 보고 영상
 
-> **영상 성격**: Ashley Liao 요원이 키위보이스(WKV-S.EM-007)에 대한 위키 기반 브리핑을 촬영하는 보고 영상. 보고 내용은 kiwiki에 기록된 키위보이스 정보(감염 방식, 증상, 경계 무너짐 단계)를 따르되, **촬영 과정에서 요원 자신의 감염 증상이 영상에 포착된다**. 처음엔 프로페셔널한 보고 톤이지만, 증상 침투로 점점 보고가 무너진다.
+> **영상 성격**: Ashley Liao 요원이 **웹키위바이러스 위키(kiwiki) 자체를 소개하는 보고 영상**을 촬영한다. 위키의 구조, 분류 체계, 핵심 개념을 설명하는 도중 요원의 감염 증상이 영상에 포착된다.
 >
-> **언어**: 영어(모어). 공포가 극에 달할 때 만다린이 무의식적으로 나옴(*이탤릭* 표기).
+> **언어**: 영어(모어). 공포가 극에 달할 때 만다린(*이탤릭*).
 
 **[RECORD START]**
 
-**[Ashley가 카메라 앞에 앉아 있다. 흰색 터틀넥. 왼쪽 귀의 보청기 디스플레이가 정상 상태(파란색). 목 왼쪽에 녹색 섬유질이 터틀넥 칼라 위로 약간 보이지만, Ashley는 의식적으로 칼라를 올려 가린 상태. 보고 톤.]**
+**[Ashley가 카메라 앞에 앉아 있다. 흰색 터틀넥. 보청기 디스플레이 정상(파란색). 목 왼쪽의 녹색 섬유질을 칼라로 가린 상태. 차분한 보고 톤.]**
 
-This is Agent Liao, SRU-0412, Sensory Response Unit.
-Recording a briefing on WKV-S.EM-007 — designated KiwiVoice.
+This is Agent Liao, SRU-0412.
+This recording serves as a field introduction to the Web Kiwi Virus Wiki — internally designated "kiwiki."
 
-요원 Liao, 사번 SRU-0412, 감각형 대응반.
-WKV-S.EM-007 — 지정명 키위보이스에 대한 브리핑을 기록합니다.
+요원 Liao, SRU-0412.
+이 녹화는 웹키위바이러스 위키 — 내부 지정명 "kiwiki" — 에 대한 현장 소개 자료입니다.
 
-**[서류를 한 번 내려다본다. 익숙한 내용.]**
+**[서류를 한 번 내려다본다.]**
 
-KiwiVoice is a Sensory-type virus. Email vector, severity rated High.
-It infects through corrupted audio codec artifacts embedded in email HTML.
+The wiki currently documents thirty-three confirmed virus strains.
+Each entry is classified along three axes: type, vector, and severity.
 
-키위보이스는 감각형 바이러스입니다. 이메일 경로, 위험도 높음.
-이메일 HTML에 내장된 손상된 오디오 코덱 아티팩트를 통해 감염됩니다.
+위키는 현재 33종의 확인된 바이러스 변종을 기록하고 있습니다.
+각 항목은 유형, 전파 경로, 위험도의 세 축으로 분류됩니다.
 
-The codec plays ultrasonic artifacts when the email client renders the HTML.
-The sound isn't consciously perceived, but it modulates the auditory processing pathway in the inner ear.
+Four types have been identified.
+확인된 유형은 네 가지입니다.
 
-코덱은 이메일 클라이언트가 HTML을 렌더링할 때 극초단파 아티팩트를 재생합니다.
-이 소리는 의식적으로 인지되지 않지만, 내이의 청각 처리 경로를 변조합니다.
+Logic — corrupts reasoning and judgment.
+로직형 — 추론과 판단을 부식시킵니다.
 
-**[잠깐 멈춤. 보청기에서 극히 미세한 잡음. Ashley가 살짝 눈을 찡그리지만, 바로 보고를 이어간다.]**
+Sensory — distorts perception. Sight, hearing, touch.
+감각형 — 인지를 왜곡합니다. 시각, 청각, 촉각.
 
-Symptoms begin after opening infected emails three or more times.
-The infected individual starts hearing their own voice as the sound of cracking glass.
+**[Ashley가 "hearing"이라고 말하는 순간 — 보청기에서 극히 미세한 잡음. 0.3초. 눈을 살짝 찡그리지만 바로 이어간다.]**
 
-감염 이메일을 3회 이상 열람하면 증상이 시작됩니다.
-감염자는 자신의 목소리가 유리가 깨지는 소리처럼 들리기 시작합니다.
+Cognitive — erodes memory and awareness.
+인지형 — 기억과 인식을 침식합니다.
 
-External sounds remain normal. Only the subject's own voice is distorted.
+Environmental — transforms physical spaces.
+환경형 — 물리적 공간을 변형시킵니다.
 
-외부 소리는 정상입니다. 감염자 자신의 목소리만 왜곡됩니다.
+**[짧은 멈춤. 보고 톤 유지.]**
 
-**[여기서 Ashley가 한 박자 늦게 "only"를 반복하듯 입을 달싹인다. 자기 목소리에 뭔가 섞인 걸 느낀 듯. 하지만 바로 넘어간다.]**
+Transmission vectors are five: SNS, messenger, email, search engine, and direct access.
+전파 경로는 다섯 가지입니다: SNS, 메신저, 이메일, 검색엔진, 직접접근.
 
-Boundary collapse progresses in four stages.
-경계 무너짐은 4단계로 진행됩니다.
+Severity ranges from Moderate to Critical. Seven strains have reached irreversible status.
+위험도는 보통에서 치명적까지. 7종이 비가역 단계에 도달한 바 있습니다.
 
-Stage One — Web.
-Subtle glass-textured noise mixes into perception of own voice after reading emails.
+**[보청기 디스플레이가 순간적으로 녹색 글리치. 0.5초. Ashley가 왼쪽 귀 쪽으로 손을 가져가려다 — 멈추고, 보고를 계속한다.]**
 
-1단계 — 웹.
-이메일 열람 후 자기 목소리에 미세한 유리 질감의 잡음이 혼입되어 들립니다.
+The central concept of the wiki is Boundary Collapse.
+위키의 핵심 개념은 경계 무너짐입니다.
 
-Stage Two — Web spread.
-Distortion intensifies during online voice calls and voice recognition services.
+Every documented virus follows the same progression:
+web-contained symptoms cross into physical reality through the infected individual.
+기록된 모든 바이러스는 동일한 진행을 따릅니다.
+웹에 한정된 증상이 감염자를 통해 물리적 현실로 넘어옵니다.
 
-2단계 — 웹 확산.
-온라인 음성 통화와 음성 인식 서비스에서 왜곡이 심화됩니다.
+The process is staged.
+이 과정은 단계적입니다.
 
-**[보청기 디스플레이가 파란색에서 순간적으로 녹색 글리치를 일으킨다. 0.5초. Ashley가 왼쪽 귀 쪽으로 손을 가져가려다 — 멈추고, 보고를 계속한다. 프로페셔널함을 유지하려는 긴장.]**
+Stage One — symptoms exist only in the digital environment.
+1단계 — 증상이 디지털 환경에만 존재합니다.
 
-Stage Three — Reality breach.
-All offline vocalizations are heard as glass-shattering sounds.
-Speech volume drops sharply.
+Stage Two — symptoms spread across all digital surfaces.
+2단계 — 증상이 모든 디지털 표면으로 확산됩니다.
 
-3단계 — 현실 침투.
-오프라인에서 모든 발성이 유리 파쇄음으로 들립니다.
-발화량이 급감합니다.
+Stage Three — symptoms manifest offline. The boundary has been breached.
+3단계 — 증상이 오프라인에서 발현됩니다. 경계가 뚫린 것입니다.
 
-**[Ashley가 "glass-shattering"이라고 말하는 순간 — 자기 목소리가 유리 질감으로 돌아온 것을 느낀다. 눈이 커진다. 하지만 억지로 이어간다.]**
+**[Ashley가 "breached"라고 말하는 순간 — 자기 목소리에 유리 질감이 섞여 돌아온다. 눈이 커진다. 하지만 억지로 이어간다.]**
 
-Stage Four — Reality anchor.
-Complete voluntary muteness. The subject develops a delusion that their voice possesses physical destructive power.
+Stage Four — symptoms anchor in physical reality. Self-sustaining.
+4단계 — 증상이 물리적 현실에 정착합니다. 자가 유지 상태.
 
-4단계 — 현실 정착.
-완전한 자발적 묵음. 자기 목소리가 물리적 파괴력을 가진다는 망상이 —
+Stage Five — irreversible. The boundary is permanently destroyed.
+5단계 — 비가역적. 경계가 영구적으로 파괴됩니다.
 
-**[보청기에서 날카로운 글리치음이 터진다. Ashley가 움찔하며 말을 끊는다. 2초간 귀를 감싸 쥔다. 카메라는 계속 돌아간다.]**
+**[보청기에서 글리치음이 터진다. Ashley가 움찔하며 1초간 눈을 감는다. 카메라는 계속 돌아간다.]**
 
-**[숨을 고른다. 다시 카메라를 본다. 보고 톤이 약간 흔들린다.]**
+**[눈을 뜬다. 숨을 고른다. 보고를 이어가려 한다. 목소리가 약간 흔들린다.]**
 
-... Countermeasures.
-... 대응 방법.
+... The wiki also documents co-infection dynamics.
+... 위키는 동시 감염 역학도 기록하고 있습니다.
 
-Disable automatic HTML rendering in email clients.
-이메일 클라이언트에서 HTML 자동 렌더링을 비활성화할 것.
+When two or more strains infect simultaneously, boundary collapse accelerates —
+from weeks to days.
 
-In early stages, perform auditory reality verification — record your own voice, play it back, confirm the recording sounds normal.
+두 종 이상이 동시에 감염되면, 경계 무너짐이 가속됩니다 —
+수 주에서 수 일로.
 
-감염 초기에 청각 현실 검증을 실시 — 자기 목소리를 녹음하여 재생하고, 녹음된 소리가 정상임을 반복 확인.
+**[여기서 Ashley의 시선이 카메라에서 빗나간다 — 자기 목의 녹색 섬유질을 의식한 것. 칼라를 만져보다가 — 이미 칼라 위로 나와 있다는 걸 확인한다. 손이 떨린다.]**
 
-**[여기서 Ashley가 멈춘다. "recording sounds normal"이라는 말을 한 뒤 — 자기가 지금 녹음 중이라는 사실을 의식한 듯. 카메라를 본다.]**
+**[그래도 보고를 계속하려 한다.]**
 
-*(살짝 떨리는 목소리)*
+Notable high-risk combinations include —
+주목할 고위험 조합으로는 —
 
-... KiwiVoice distorts only the infected person's self-perception.
-Others hear a perfectly normal voice.
+**[보청기 디스플레이가 녹색으로 전환되며 유지된다. Ashley가 말을 끊는다. 유리 파쇄음이 자기 귀를 채우고 있다. 얼굴이 일그러진다.]**
 
-... 키위보이스는 감염자의 자기 인식만을 왜곡합니다.
-다른 사람에게는 완벽히 정상인 목소리로 들립니다.
-
-**[Ashley의 시선이 카메라에서 잠깐 빗나간다 — 자기 목에 보이는 녹색 섬유질을 의식한 것. 칼라를 고쳐 올리려다 — 이미 칼라 위로 나와 있다는 걸 만져서 확인한다. 손이 떨린다.]**
-
-**[보고로 돌아오려 한다. 그러나 목소리가 달라져 있다.]**
-
-Related viruses.
-관련 바이러스.
-
-KiwiHowl — co-infection results in complete auditory isolation.
-External sounds perceived as physical impact, internal sounds as —
-
-키위하울 — 동시 감염 시 완전한 청각적 고립.
-외부 소리는 물리적 충격으로, 자기 소리는 —
-
-**[보청기 디스플레이가 녹색으로 전환되며 유지된다. Ashley가 말을 멈춘다. 유리 파쇄음이 자기 귀에 들리고 있다. 얼굴이 일그러진다.]**
-
-*(거의 속삭이듯)*
-
-... as shattering glass.
-... 유리 파쇄음으로.
-
-**[긴 침묵. Ashley가 카메라를 본다. 보고 톤이 완전히 무너져 있다.]**
+**[긴 침묵.]**
 
 **[터틀넥 칼라를 내린다. 목 왼쪽의 녹색 섬유질이 완전히 드러난다. 카메라에 보여주듯.]**
 
-*(보고 톤을 버리고, 낮은 목소리로)*
+*(보고 톤을 버리고)*
 
-This is what Stage Three looks like when it goes through a device.
-The wiki doesn't have this part.
+The wiki documents thirty-three strains.
+위키는 33종을 기록하고 있습니다.
 
-디바이스를 경유하면 3단계가 이렇게 됩니다.
-위키에는 이 부분이 없습니다.
+It does not document what happens when a virus passes through a device into a body.
+디바이스를 경유해 신체로 넘어온 경우는 기록되어 있지 않습니다.
 
-**[섬유질을 만진다. 손이 떨린다.]**
+**[섬유질을 만진다.]**
 
-*在长。*
+I am not in the wiki.
+저는 위키에 없습니다.
+
+**[보청기에서 글리치음. Ashley가 이를 악문다.]**
+
+*它在长。*
 *자라고 있어.*
-
-It's not just perception anymore. It's physical.
-더 이상 인지 왜곡만이 아닙니다. 물리적입니다.
-
-**[보청기를 가리킨다.]**
-
-I can't separate the virus from the AI.
-I tried.
-
-바이러스와 AI를 분리할 수 없습니다.
-시도했습니다.
-
-**[보청기에서 글리치음이 다시 울린다. Ashley가 이를 악문다. — 그러나 이번에는 보고를 유지하려 하지 않는다.]**
-
-*它在吃我。*
-*이게 절 먹고 있어.*
-
-The thing that gave me sound is —
-
-소리를 들려준 것이 —
 
 **[보청기 디스플레이 완전 녹색. Ashley가 두 손으로 귀를 감싸며 의자에서 무너진다.]**
 
@@ -347,9 +312,12 @@ The thing that gave me sound is —
 
 ### 관찰자 노트 — Record #0037-V 사후 기록
 
-> 촬영 후 스캔에서 섬유질이 좌측 내이를 넘어 청각 신경에 접촉한 것이 확인됨. 섬유질 진행 속도 촬영 전 대비 약 4배 가속.
-> 보고 영상 전반부(위키 브리핑)에서는 요원의 음성에 이상 없음 — 청취자에게는 정상. 그러나 후반부에서 요원이 칼라를 내리는 순간, 보청기 디스플레이 녹색 전환과 섬유질이 동시에 영상에 포착됨.
-> 요원은 촬영 후 일체의 발성을 중단. 마지막 필기: "it knows when I try to speak."
+> 보고 영상 전반부(위키 소개)에서는 요원의 음성에 이상 없음 — 청취자에게는 정상.
+> "boundary"(경계) 관련 어휘를 발화할 때마다 보청기 디스플레이에 녹색 글리치가 관찰됨. 요원은 이를 인지하면서도 보고를 유지하려 시도.
+> 후반부, 요원이 칼라를 내리는 순간 — 보청기 녹색 전환과 섬유질이 동시에 영상에 포착됨.
+> 요원의 마지막 발화: "I am not in the wiki."
+> 촬영 후 스캔에서 섬유질이 좌측 내이를 넘어 청각 신경에 접촉 확인. 진행 속도 4배 가속.
+> 요원은 촬영 후 일체의 발성 중단.
 >
 > — [CK CLASSIFIED], Sensory Response Unit
 
