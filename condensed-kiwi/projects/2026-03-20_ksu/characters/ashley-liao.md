@@ -247,62 +247,61 @@ Stage One — symptoms exist only in the digital environment.
 Stage Two — symptoms spread across all digital surfaces.
 2단계 — 증상이 모든 디지털 표면으로 확산됩니다.
 
-Stage Three — symptoms manifest offline. The boundary has been breached.
-3단계 — 증상이 오프라인에서 발현됩니다. 경계가 뚫린 것입니다.
+**[보청기 디스플레이가 순간적으로 녹색 글리치. Ashley가 눈을 찡그리지만 이어간다.]**
 
-**[Ashley가 "breached"라고 말하는 순간 — 자기 목소리에 유리 질감이 섞여 돌아온다. 눈이 커진다. 하지만 억지로 이어간다.]**
+Stage Three — symptoms manifest offline.
+3단계 — 증상이 오프라인에서 발현됩니다.
 
-Stage Four — symptoms anchor in physical reality. Self-sustaining.
-4단계 — 증상이 물리적 현실에 정착합니다. 자가 유지 상태.
+**[Ashley가 "offline"이라고 말하는 순간 — 보청기에서 유리 질감의 잡음이 돌아온다. 입을 다문다. 1초. 다시 이어간다.]**
 
-Stage Five — irreversible. The boundary is permanently destroyed.
-5단계 — 비가역적. 경계가 영구적으로 파괴됩니다.
+The boundary has been breached. The infected individual begins to experience symptoms without any digital device present —
+경계가 뚫린 것입니다. 감염자는 디지털 디바이스 없이도 증상을 경험하기 시작 —
 
-**[보청기에서 글리치음이 터진다. Ashley가 움찔하며 1초간 눈을 감는다. 카메라는 계속 돌아간다.]**
+**[멈춘다. 자기가 방금 뭘 말했는지 의식한다. "without any digital device." 자기는 지금 디바이스를 끼고 있다. 보청기를 만진다.]**
 
-**[눈을 뜬다. 숨을 고른다. 보고를 이어가려 한다. 목소리가 약간 흔들린다.]**
+**[삼킨다. 계속한다. 목소리가 약간 흔들린다.]**
 
-... The wiki also documents co-infection dynamics.
-... 위키는 동시 감염 역학도 기록하고 있습니다.
+Stage Four — symptoms anchor in physical reality.
+4단계 — 증상이 물리적 현실에 정착합니다.
 
-When two or more strains infect simultaneously, boundary collapse accelerates —
-from weeks to days.
+Self-sustaining. No longer dependent on the original vector.
+자가 유지. 더 이상 최초 전파 경로에 의존하지 않습니다.
 
-두 종 이상이 동시에 감염되면, 경계 무너짐이 가속됩니다 —
-수 주에서 수 일로.
+**[여기서 Ashley의 손이 무의식적으로 목으로 간다. 칼라 위로 뭔가 만져진다. 섬유질. 손끝이 닿자 — 굳는다.]**
 
-**[여기서 Ashley의 시선이 카메라에서 빗나간다 — 자기 목의 녹색 섬유질을 의식한 것. 칼라를 만져보다가 — 이미 칼라 위로 나와 있다는 걸 확인한다. 손이 떨린다.]**
+**[카메라를 본다. 서류를 내려다본다. 다시 카메라를 본다.]**
 
-**[그래도 보고를 계속하려 한다.]**
+**[서류를 읽는다. 목소리가 작아져 있다.]**
 
-Notable high-risk combinations include —
-주목할 고위험 조합으로는 —
+... Physical manifestation may include tissue-level changes at the point of infection.
+... 물리적 발현에는 감염 지점의 조직 수준 변화가 포함될 수 있습니다.
 
-**[보청기 디스플레이가 녹색으로 전환되며 유지된다. Ashley가 말을 끊는다. 유리 파쇄음이 자기 귀를 채우고 있다. 얼굴이 일그러진다.]**
+**[읽다 멈춘다.]**
+
+**[손이 떨리면서 터틀넥 칼라를 내린다. 목 왼쪽의 녹색 섬유질이 드러난다. 카메라를 본다.]**
 
 **[긴 침묵.]**
 
-**[터틀넥 칼라를 내린다. 목 왼쪽의 녹색 섬유질이 완전히 드러난다. 카메라에 보여주듯.]**
+**[서류의 다음 줄을 읽으려 한다. 읽는다 — 그런데 목소리가 갈라진다.]**
 
-*(보고 톤을 버리고)*
+Stage Five — irreversible.
+5단계 — 비가역.
 
-The wiki documents thirty-three strains.
-위키는 33종을 기록하고 있습니다.
+The boundary is permanently —
+경계가 영구적으로 —
 
-It does not document what happens when a virus passes through a device into a body.
-디바이스를 경유해 신체로 넘어온 경우는 기록되어 있지 않습니다.
+**[말을 못 잇는다. 보청기에서 글리치음이 터진다. Ashley가 귀를 움켜쥔다.]**
 
-**[섬유질을 만진다.]**
+**[서류가 손에서 떨어진다.]**
 
-I am not in the wiki.
-저는 위키에 없습니다.
+**[카메라를 본다. 공포.]**
 
-**[보청기에서 글리치음. Ashley가 이를 악문다.]**
+*(거의 속삭이듯)*
 
-*它在长。*
-*자라고 있어.*
+What stage am I in?
+저 지금 몇 단계예요?
 
-**[보청기 디스플레이 완전 녹색. Ashley가 두 손으로 귀를 감싸며 의자에서 무너진다.]**
+**[보청기 디스플레이가 완전히 녹색으로 전환된다. Ashley가 두 손으로 귀를 감싸며 의자에서 무너진다.]**
 
 **[영상 끊김.]**
 
@@ -312,10 +311,10 @@ I am not in the wiki.
 
 ### 관찰자 노트 — Record #0037-V 사후 기록
 
-> 보고 영상 전반부(위키 소개)에서는 요원의 음성에 이상 없음 — 청취자에게는 정상.
-> "boundary"(경계) 관련 어휘를 발화할 때마다 보청기 디스플레이에 녹색 글리치가 관찰됨. 요원은 이를 인지하면서도 보고를 유지하려 시도.
-> 후반부, 요원이 칼라를 내리는 순간 — 보청기 녹색 전환과 섬유질이 동시에 영상에 포착됨.
-> 요원의 마지막 발화: "I am not in the wiki."
+> 전반부(위키 소개)에서 요원의 음성에 이상 없음 — 청취자에게는 정상.
+> 경계 무너짐 단계를 읽기 시작한 시점부터 보청기 디스플레이에 녹색 글리치 빈도 증가.
+> 4단계 낭독 중 요원이 칼라를 내리는 순간 — 녹색 섬유질이 영상에 포착됨.
+> 5단계를 읽다 중단. 요원의 마지막 발화: "What stage am I in?"
 > 촬영 후 스캔에서 섬유질이 좌측 내이를 넘어 청각 신경에 접촉 확인. 진행 속도 4배 가속.
 > 요원은 촬영 후 일체의 발성 중단.
 >
