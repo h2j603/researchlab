@@ -18,24 +18,26 @@ confidence: medium
 
 ## 0. 한 페이지 요약
 
-**확정 후보 5개** (Bologna MA/MFA, 영어 트랙, 학사 졸업자에게 효율적):
+**확정 후보 6개** (Bologna MA/MFA, 영어 트랙, 학사 졸업자에게 효율적):
 1. **KABK Type and Media** (헤이그) — 활자 디자인 글로벌 톱, 1년, €11,488
 2. **KABK Non Linear Narrative** (헤이그) — 리서치 기반 내러티브, 2년, €11,488/년
 3. **Sandberg Instituut Design Department** (암스테르담) — 비평적 디자인 본진, 2년, ~€15,500/년
 4. **Werkplaats Typografie** (Arnhem) — 인디 출판/체계 중심, 2년, €13,030/년 (50% 면제 가능)
-5. **Bauhaus-Universität Weimar MFA Media Art and Design** (Weimar) — 매체 실험, 2년, **무상**
+5. **Design Academy Eindhoven — Critical Inquiry Lab** (Eindhoven) — 리서치 기반 비평적 디자인, 2년, €19,762/년
+6. **Bauhaus-Universität Weimar MFA Media Art and Design** (Weimar) — 매체 실험, 2년, **무상**
 
 **핵심 결정 논리**
-- 비용 양극 구조: Bauhaus + Type and Media = 재정 안전 (각 ~3,800만원), KABK NLN + Werkplaats = 중간, Sandberg = 도전
-- 학력 깔끔: 5개 모두 Bologna 시스템 → 홍익대 BA 위에 깔끔하게 누적
-- 콘텐츠 다각화: 활자 / 내러티브 리서치 / 비평 / 출판 / 매체 — 본인 작업 방향의 5개 다른 각도
+- 비용 양극 구조: Bauhaus + Type and Media = 재정 안전 (각 ~3,800만원), KABK NLN + Werkplaats = 중간, Sandberg + DAE = 도전 (각 8,900~10,100만원)
+- 학력 깔끔: 6개 모두 Bologna 시스템 → 홍익대 BA 위에 깔끔하게 누적
+- 콘텐츠 다각화: 활자 / 내러티브 / 비평 / 출판 / 학문적 리서치 / 매체 — 본인 작업 방향의 6개 다른 각도
 - KABK 두 프로그램 동시 지원 — 같은 학교 인프라 + 활자(모토)와 내러티브(콘텐츠) 양면 도전
 
 **핵심 리스크**
-- Sandberg/Werkplaats/KABK NLN는 한국 풀펀딩 장학금 없으면 진학 불가 또는 큰 자비 부담
+- DAE/Sandberg/Werkplaats/KABK NLN는 한국 풀펀딩 장학금 없으면 진학 불가 또는 큰 자비 부담
+- DAE는 가장 비쌈 (€19,762/년)
 - Werkplaats 합격률 극히 낮음 (연 8명), KABK NLN "2년 실무 경험 선호" 약점
 - KABK NLN 영상 비중 + 카메라 제약 충돌 가능성
-- 5개 학교 모두 떨어질 시나리오 3~7%
+- 6개 학교 모두 떨어질 시나리오 2~5%
 
 ---
 
@@ -86,12 +88,12 @@ confidence: medium
 
 ### 3.1 기본 정보
 
-| | KABK Type and Media | KABK Non Linear Narrative | Sandberg | Werkplaats | Bauhaus Weimar |
-|---|---|---|---|---|---|
-| 학위 | MA | MA | MA | MA | **MFA** |
-| 기간 | **1년** | 2년 | 2년 | 2년 | 2년 |
-| 도시 | 헤이그 | 헤이그 | **암스테르담** | Arnhem (소도시) | Weimar (소도시) |
-| 강의 언어 | 영어 100% | 영어 100% | 영어 100% | 영어 100% | 영어 + **독일어 A2 필수** |
+| | KABK T&M | KABK NLN | Sandberg | Werkplaats | DAE Critical Inquiry Lab | Bauhaus Weimar |
+|---|---|---|---|---|---|---|
+| 학위 | MA | MA | MA | MA | MA | **MFA** |
+| 기간 | **1년** | 2년 | 2년 | 2년 | 2년 | 2년 |
+| 도시 | 헤이그 | 헤이그 | **암스테르담** | Arnhem | Eindhoven | Weimar |
+| 강의 언어 | 영어 100% | 영어 100% | 영어 100% | 영어 100% | 영어 100% | 영어 + **독일어 A2 필수** |
 
 ### 3.2 비용 (전 기간 총합)
 
@@ -101,11 +103,11 @@ confidence: medium
 | KABK Non Linear Narrative | €22,976 (2년) | €30,000 | 약 €53,000 (≈7,700만원) |
 | Sandberg | ~€31,000 (2년) | €30,000 | 약 €61,000 (≈8,900만원) |
 | Werkplaats | €26,060 (또는 50% 면제 시 €13,030) | €30,000 | 약 €56,000 / 면제 시 €43,000 |
+| **DAE Critical Inquiry Lab** | **€39,524 (2년)** | €30,000 | **약 €69,500 (≈1억 100만원)** |
 | Bauhaus Weimar | €1,120 (2년) | €25,000 | **약 €26,000 (≈3,800만원)** |
 
-→ **Type and Media와 Bauhaus Weimar가 비용 거의 동일** (≈3,800만원, 안전 트랙).
-→ KABK NLN과 Werkplaots가 중간 (≈7,700~8,200만원).
-→ Sandberg가 가장 비쌈 (≈8,900만원).
+→ **DAE가 가장 비쌈** (≈1억 100만원).
+→ Type and Media와 Bauhaus Weimar가 비용 거의 동일 (≈3,800만원, 안전 트랙).
 
 ### 3.3 입학·합격 난이도
 
@@ -115,6 +117,7 @@ confidence: medium
 | KABK Non Linear Narrative | 2월 중순 | ~10~15명 | 높음 |
 | Sandberg | 1~2월 | 트랙별 변동 | 매우 높음 |
 | Werkplaats | 3/1 | **연 8명** | **극도로 높음** |
+| DAE Critical Inquiry Lab | 2~3월 | 부서별 변동 | 매우 높음 |
 | Bauhaus Weimar | 3/31 | 영어 트랙 모수 큼 | 중상 |
 
 ### 3.4 콘텐츠 결과 사용자 매핑
@@ -125,6 +128,7 @@ confidence: medium
 | KABK Non Linear Narrative | 디자인·저널리즘·픽션·다큐 교차, 리서치 기반 내러티브 | **"사회 현상 리서치 → 디자인" 직매칭** / 영상 비중 높음 |
 | Sandberg | 정치·사회 비평, 리서치 프로세스 평가 | "사회 현상 리서치" 직매칭 (정치적 색채) |
 | Werkplaats | 워크숍/스튜디오형, 출판·인쇄·텍스트 중심 | **체계·아카이브 결 매칭, 영상 부담 없음** |
+| **DAE Critical Inquiry Lab** | **리서치 기반 디자인, 사회·환경·기술·문화 생태 분석, 학제간** | **"고유한 논리·매뉴얼로 분류·분석" 가장 정확한 매칭** (학문적·체계적) |
 | Bauhaus Weimar | 미디어 아트, 코드·사운드·무빙 이미지 | 매체 실험 / 그래픽 디자인 거리 있음 |
 
 ### 3.5 위상·졸업생
@@ -135,6 +139,7 @@ confidence: medium
 | KABK Non Linear Narrative | 신생 (2017~), Niels Schrader/Lauren Alexander 강사진 | ★★ (떠오르는 중) | 리서치 스튜디오, 비평적 출판 |
 | Sandberg | 비평적 디자인 진영 본진 | ★★★★★ | 인디 출판·큐레이터·교육자 |
 | Werkplaats | Karel Martens 학파, Roger Willems(Roma) 등 | ★★★★★ | Roma Publications급 인디 출판 |
+| **DAE Critical Inquiry Lab** | DAE 전반: Studio Formafantasma, Maarten Baas 등. CIL 자체는 신생 | **★★★★★** (DAE 전반) | 리서치 스튜디오·학술·디자인 비평 |
 | Bauhaus Weimar | 글로벌 스타 약함, Bauhaus 이름 후광 | ★★★★ | 미디어 아티스트 |
 
 ### 3.6 자체 장학금·재정 전략
@@ -145,6 +150,7 @@ confidence: medium
 | KABK Non Linear Narrative | Holland Scholarship €5K | **관정·일주 풀펀딩 권장** | ✗ | 한국 부분/풀 펀딩으로 감당 |
 | Sandberg | 자체 펀드 제한적 | **관정·일주 풀펀딩 필수** | ✗ | 한국 풀펀딩 못 받으면 진학 불가 |
 | Werkplaats | **ArtEZ Talent Scholarship 50%** | 관정·일주 도전 | ✗ | 자체 50% + 한국 부분 펀딩 |
+| **DAE Critical Inquiry Lab** | NL Scholarship €5K, DAE 자체 펀드(제한적) | **관정·일주 풀펀딩 필수** | ✗ | 한국 풀펀딩 못 받으면 진학 거의 불가 (가장 비쌈) |
 | Bauhaus Weimar | 미상 | 부수적 | **⭕ DAAD 생활비 €11K/년** | DAAD만 받으면 자비 거의 없음 |
 
 ---
@@ -172,6 +178,7 @@ confidence: medium
 | KABK Non Linear Narrative | IELTS 6.5 / TOEFL iBT 90 | — |
 | Sandberg | IELTS 6.5 / TOEFL iBT 90 | — |
 | Werkplaats | IELTS 6.0 (가장 낮음) | — |
+| DAE Critical Inquiry Lab | IELTS 6.5 / TOEFL iBT 90 | — |
 | **Bauhaus Weimar** | **IELTS 7.0 / TOEFL 95 (C1)** | **Goethe A2 또는 동등 (TestDaF, telc, ÖSD)** |
 
 → 모든 학교 만족시키려면 **IELTS 7.0 + Goethe A2** 두 시험.
@@ -184,16 +191,17 @@ confidence: medium
 | KABK Non Linear Narrative | **리서치 기반 내러티브 작업** — 텍스트·아카이브·다큐적 접근, 디자인+다른 분야(저널리즘/영화/건축 등) 융합 |
 | Sandberg | **리서치 노트·실패한 시도·과정 자료 포함** — 결과물보다 사고 과정 |
 | Werkplaats | **"왜 이 형식인가" 논리** — 출판·체계·구조 중심 |
+| DAE Critical Inquiry Lab | **학문적 리서치 + 디자인 결과물 통합** — 사회·문화·기술 시스템에 대한 분석적 접근, 이론·실천 균형 |
 | Bauhaus Weimar | 매체·실험 작업 — 영상·코드·사운드·인터랙션 |
 
-→ **포트폴리오 4가지 버전 빌드 권장**: 활자 강화 / 리서치 내러티브 강화 / 출판·체계 강화 / 매체 실험 강화.
+→ **포트폴리오 5가지 버전 빌드 권장**: 활자 강화 / 리서치 내러티브 강화 / 비평·과정 강화 / 출판·체계 강화 / 매체 실험 강화. (DAE는 NLN·Sandberg 버전 변형 활용 가능)
 → KABK 두 프로그램은 같은 학교라 일부 자료 공유 가능 (학력증명·추천서 등) 단 포트폴리오·동기서는 따로.
 
 ### 4.4 입학 후 비자·재정 증빙
 
 | 학교 | 비자 | 자금 증빙 (1년) |
 |---|---|---|
-| 네덜란드 (KABK 양쪽·Sandberg·Werkplaats) | 학생 비자 (MVV) | **학비 + €13,000** = 약 €25,000~28,500 계좌 증명 |
+| 네덜란드 (KABK 양쪽·Sandberg·Werkplaats·DAE) | 학생 비자 (MVV) | **학비 + €13,000** = 약 €25,000~33,000 계좌 증명 |
 | 독일 (Bauhaus Weimar) | 독일 학생 비자 | **Sperrkonto €11,904/년** + 학비 약간 |
 
 → 합격해도 비자용 자금 증빙(약 3,000~3,500만원)이 안 되면 비자 못 받음.
@@ -254,13 +262,15 @@ confidence: medium
 | 시나리오 | 행동 |
 |---|---|
 | Sandberg 합격 + 한국 풀펀딩 | → Sandberg 진학 (꿈) |
+| **DAE Critical Inquiry Lab 합격 + 한국 풀펀딩** | → 학문적 리서치 결 1순위면 진학 |
 | Werkplaats 합격 + Talent Scholarship 50% + 한국 부분 펀딩 | → Werkplaats 진학 |
-| KABK Non Linear Narrative 합격 + 한국 부분/풀펀딩 | → 콘텐츠 1순위 진학 (사회 현상 리서치 직매칭) |
+| KABK Non Linear Narrative 합격 + 한국 부분/풀펀딩 | → 콘텐츠 1순위 진학 |
 | KABK Type and Media 합격 | → 1년 + 자비 + Holland Scholarship으로 감당 가능 → 진학 |
 | Bauhaus Weimar 합격 + DAAD | → 자비 거의 없이 진학 가능 (안전 옵션) |
 | 다 떨어짐 | → 1년 갭이어 + 포트폴리오 보강 + 재지원 |
 
 → KABK 두 프로그램 동시 합격 시: **Type and Media (1년 짧음·기술 명료) vs NLN (2년 깊이·리서치 깊이)** 사이에서 본인 작업 미래 방향에 따라 결정.
+→ DAE vs Sandberg 동시 합격 시: **DAE (학문적·분석적) vs Sandberg (정치적·실험적)** 결로 결정.
 
 ---
 
@@ -328,7 +338,7 @@ confidence: medium
 ## 10. 다음 액션 (즉시·우선순위 순)
 
 ### 즉시 (군 안에서, 이번 주)
-- [ ] 5개 학교 공식 인스타그램 팔로우
+- [ ] 6개 학교 공식 인스타그램 팔로우
 - [ ] 윤휘연 인스타(@huiyeon.yun) 작업 다시 보고 본인 작업과 결 비교
 - [ ] Sandberg / Werkplaats / KABK 졸업전시 영상·웹사이트 확인
 - [ ] 매월 사회 현상 리서치 노트 1편 작성 시작
@@ -340,12 +350,12 @@ confidence: medium
 
 ### 6개월 안
 - [ ] IELTS 학습 루틴 안정화
-- [ ] 동기서 1차 초안 (학교별 5개 버전)
+- [ ] 동기서 1차 초안 (학교별 6개 버전)
 - [ ] 기존 작업물 영문 설명 작성
 
 ### 전역 후 즉시 (2027-03)
 - [ ] IELTS 응시
-- [ ] 5개 학교 입학처에 영문 문의 메일
+- [ ] 6개 학교 입학처에 영문 문의 메일
 
 ---
 
