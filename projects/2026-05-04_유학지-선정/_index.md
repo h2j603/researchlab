@@ -11,39 +11,39 @@ confidence: medium
 
 # 유학지 선정 — 독일 vs 네덜란드
 
-## 한 줄 요약 (2026-05-04 갱신)
-**사용자 1순위 = Sandberg Instituut (마음 기준).** 메인 타깃으로 두되 한국 측 풀 펀딩 장학금이 사실상 유일한 실현 경로이므로, 무상 백업(UdK Berlin Art and Media·Bauhaus Weimar MFA)을 **반드시 동시 지원**한다.
+## 한 줄 요약 (2026-05-04 최종)
+**최종 후보 4개 확정**: KABK Type and Media (활자) / Sandberg Design (비평) / Werkplaats Typografie (출판) / Bauhaus Weimar MFA (매체). 콘텐츠 다각화 + 비용 양극 (Bauhaus·Type and Media = 안전, Sandberg·Werkplaats = 도전). 4개 모두 Bologna MA/MFA, 영어 트랙.
+
+→ **[최종 보고서 (final-report.md)](final-report.md) 참조**
 
 ## 전제 조건 (사용자 확정)
-- 학비 부담은 불가 → 비EU 국제학생 풀 학비 못 냄
-- 후보국: 독일 / 네덜란드 / 스위스 → **스위스 탈락** (생활비 폭탄, 콘텐츠 미스매치)
-- 독일어 학습 의향: 있음 (단, 부담은 큼)
-- 장학금 도전 의지: 있음
-- 학사 전공: 디자인
+- **소속**: 홍익대학교 시각디자인 학사 재학중
+- 학비 부담은 불가 → 비EU 국제학생 풀 학비 못 냄 (장학금 또는 무상 학교)
+- 후보국: 독일 / 네덜란드 / 스위스 → **스위스 탈락**
+- 영어 학습 가능, 독일어 학습 의향 있음
+- 장학금 도전 의지 있음, 비용 부담 일부 감수 ("도전해보려고")
 - **전역**: 2027-02
 - **학사 졸업**: 2028-02
 - **희망 MA 입학**: 2028-09 (가을학기)
-- **희망 1순위**: Sandberg Instituut Design MA
 
-## 지원 학교 컷 (4~5개 권장)
-**메인**
-- Sandberg Instituut Design MA (1순위 — 마음·콘텐츠)
+## 지원 학교 컷 (4개 최종 확정)
 
-**무상 백업 (필수)**
-- UdK Berlin Art and Media MA (영어 + 무상)
-- Bauhaus-Universität Weimar MFA Media Art and Design (영어 + 무상)
+**메인 도전 트랙 (콘텐츠 우선, 학비·합격 도전)**
+- Sandberg Instituut Design MA (비평적 디자인 본진)
+- Werkplaats Typografie MA (인디 출판·Karel Martens 학파)
 
-**선택 백업**
-- KABK Den Haag Non Linear Narrative (콘텐츠 적합 + 학비 중간)
-- Werkplaats Typografie (콘텐츠 적합 + ArtEZ Talent 50% 가능)
+**메인 안전 트랙 (학비 안전망)**
+- KABK Type and Media MA (1년, 활자 글로벌 톱)
+- Bauhaus-Universität Weimar MFA Media Art and Design (무상 + 영어 + DAAD)
 
-**드롭**: HfG Karlsruhe (Diplom·독일어), HfG Offenbach·Burg Halle (독일어), KABK Type and Media (성향 미스매치)
+**드롭됨**: HfG Karlsruhe (Diplom·구조적 비효율), HfG Offenbach·Burg Halle (독일어), UdK Berlin (재검토 가능), KABK Non Linear Narrative (콘텐츠 적합하지만 영상 부담)
 
 ## 문서 구성
+- **[final-report.md](final-report.md) — 🎯 최종 통합 보고서 (의사결정 + 비교 + 자격증 + 일정 + 비평)**
 - [findings.md](findings.md) — 학교별 비교표, 비용 분석, 장학금 옵션
-- [school-profiles.md](school-profiles.md) — 9개 프로그램 개별 프로필 (특성·장단점·언어·입학요건·학비·준비사항)
-- [timeline.md](timeline.md) — **분기별 일정표 (2026-05 ~ 2028-09 입학) + Sandberg 1순위 시나리오 + 백업 플랜**
-- [sources.md](sources.md) — 출처 (학교 공식 사이트, 장학금 기관)
+- [school-profiles.md](school-profiles.md) — 9개 프로그램 개별 프로필
+- [timeline.md](timeline.md) — 분기별 일정표
+- [sources.md](sources.md) — 출처
 - [_critique.md](_critique.md) — 비평 (이 결정의 약한 고리)
 
 ## 다음 액션 (2026-05 즉시)
