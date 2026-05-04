@@ -18,7 +18,8 @@ confidence: medium
 - 2026-05-04 (4차): "Sandberg가 가장 적합" 매칭 근거 메타 비평
 - 2026-05-04 (5차): 4개 후보 확정 (KABK Type and Media / Sandberg / Werkplaats / Bauhaus Weimar)
 - 2026-05-04 (6차): KABK Non Linear Narrative 추가 → 5개 후보 (KABK 두 프로그램 동시 지원)
-- 2026-05-04 (7차, **최종**): 학사 졸업 시점 정정 (2028-02 → **2029-02**, 2028년 2학기 마치고). 일정 전체 1년 시프트. 준비 기간 약 1년 추가 확보. Phase 2~4 재구성.
+- 2026-05-04 (7차): 학사 졸업 시점 정정 (2028-02 → 2029-02). 일정 1년 시프트. Phase 2~4 재구성.
+- 2026-05-04 (8차, **최종**): DAE Critical Inquiry Lab 추가 → 6개 후보. 1차 라운드에서 누락된 강력한 학문적·분석적 결 후보.
 
 ## 핵심 주장 (최종)
 **"홍익대 BA 보유자에게 구조적으로 깔끔한 Bologna MA/MFA 4개를 메인으로, 콘텐츠와 비용을 양극화해서 도전·안전 트랙을 동시에 운영한다. 도전 트랙(Sandberg·Werkplaats)은 한국 풀펀딩 장학금에 의존하고, 안전 트랙(KABK Type and Media·Bauhaus Weimar)은 자비·DAAD로 감당한다."**

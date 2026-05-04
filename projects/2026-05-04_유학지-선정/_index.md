@@ -12,7 +12,7 @@ confidence: medium
 # 유학지 선정 — 독일 vs 네덜란드
 
 ## 한 줄 요약 (2026-05-04 최종)
-**최종 후보 5개 확정**: KABK Type and Media (활자) / KABK Non Linear Narrative (리서치 내러티브) / Sandberg Design (비평) / Werkplaats Typografie (출판) / Bauhaus Weimar MFA (매체). 콘텐츠 다각화 + 비용 양극 (Bauhaus·Type and Media = 안전, NLN·Werkplaats = 중간, Sandberg = 도전). 5개 모두 Bologna MA/MFA, 영어 트랙.
+**최종 후보 6개 확정**: KABK Type and Media (활자) / KABK Non Linear Narrative (리서치 내러티브) / Sandberg Design (비평) / Werkplaats Typografie (출판) / **DAE Critical Inquiry Lab (학문적 리서치)** / Bauhaus Weimar MFA (매체). 콘텐츠 다각화 + 비용 양극 (Bauhaus·Type and Media = 안전, NLN·Werkplaats = 중간, Sandberg·DAE = 도전). 6개 모두 Bologna MA/MFA, 영어 트랙.
 
 → **[최종 보고서 (final-report.md)](final-report.md) 참조**
 
@@ -26,12 +26,13 @@ confidence: medium
 - **학사 졸업**: 2029-02 (2028년 2학기 마치고)
 - **희망 MA 입학**: 2029-09 (가을학기)
 
-## 지원 학교 컷 (5개 최종 확정)
+## 지원 학교 컷 (6개 최종 확정)
 
 **메인 도전 트랙 (콘텐츠 우선, 학비·합격 도전)**
 - Sandberg Instituut Design MA (비평적 디자인 본진)
 - Werkplaats Typografie MA (인디 출판·Karel Martens 학파)
-- KABK Non Linear Narrative MA (사회 현상 리서치 직매칭)
+- KABK Non Linear Narrative MA (사회 현상 리서치·내러티브)
+- **DAE Critical Inquiry Lab MA (학문적 리서치·분석적 결)**
 
 **메인 안전 트랙 (학비 안전망)**
 - KABK Type and Media MA (1년, 활자 글로벌 톱)
