@@ -38,22 +38,22 @@ confidence: medium
 
 ### 독일 (메인 트랙)
 
-| 학교 | 강점 | 영어 프로그램 | 비고 |
-|---|---|---|---|
-| **HfG Karlsruhe** | Communication Design, Media Art. ZKM 연결, 비판이론 전통 | 일부 가능 (지도교수에 따라) | 가장 콘텐츠 적합. 입학 빡셈. |
-| **UdK Berlin** | Visual Communication, Art and Media. 베를린 시너지 | Art and Media MA 영어 가능 | 자유도 높음. 베를린 생활비는 독일 내 상위. |
-| **Bauhaus-Universität Weimar** | MFA Media Art and Design (영어), Visual Communication MFA | **MFA 영어 트랙 명시적** | 영어만으로 학위 가능. 작은 도시. |
-| **HfG Offenbach** | 실험적·비평적 전통 | 거의 독일어 | 콘텐츠 좋지만 언어 장벽. |
-| **Burg Giebichenstein Halle** | 그래픽·타이포 클래식 강함 | 거의 독일어 | 같은 이유로 후순위. |
+| 학교 | 강점 | 영어 | 학비 (비EU) | 비고 |
+|---|---|---|---|---|
+| **HfG Karlsruhe** | Communication Design, Media Art. ZKM 연결, 매체이론 | 일부 (공식 영어 트랙 ✗) | **€1,700/학기** (Baden-Württemberg) | **MA 없음 — Diplom 시스템.** |
+| **UdK Berlin** | Visual Communication, Art and Media MA | Art and Media 영어 가능 | **무상** + €315/학기 | 비EU 학비 무상 (베를린). 클래스 시스템. |
+| **Bauhaus-Universität Weimar** | MFA Media Art and Design | **공식 영어 트랙** (독일어 A2 필수) | **무상** + €280/학기 | 영어로 MFA 가능. 단 독일어 병행. |
+| **HfG Offenbach** | 실험적·비평적, 자기 주제 선언형 MA | 독일어 C1 필요 | **무상** + €350/학기 | 콘텐츠 좋지만 언어 장벽. |
+| **Burg Giebichenstein Halle** | Visual Strategies and Stories MA 신설 | 독일어 필수 | **무상** + €110/학기 | 학비 부담 최저. 언어 장벽. |
 
 ### 네덜란드 (도전 트랙)
 
-| 학교 | 강점 | 학비 (대략, 비EU MA) | 비고 |
+| 학교 | 강점 | 학비 (비EU, 2026~27) | 비고 |
 |---|---|---|---|
-| **Sandberg Instituut (Amsterdam)** | Design / Critical Studies. 사회·정치적 비평. 1년 자율 연구. | ~€16,500/년 | 콘텐츠 최고 적합. 장학금 펀드 있음. |
-| **Werkplaats Typografie (ArtEZ Arnhem)** | 개념적 타이포. 작은 학생 수, 집중. 2년. | ~€15,000~17,000/년 | 매우 경쟁적. 디자인 깊이 추구 시 최적. |
-| **KABK Den Haag — Type and Media** | 폰트 디자인 정점 | ~€15,000~17,000/년 | 폰트·타이포 중심이면 1순위. |
-| **KABK Den Haag — Non Linear Narrative** | 리서치·픽션·사회 이슈 융합 MA | ~€15,000~17,000/년 | 사용자 성향과 매우 잘 맞음. |
+| **Sandberg Instituut (Amsterdam)** | Design / Critical Studies. 사회·정치적 비평. | **~€15,500/년** | 콘텐츠 최고 적합. 4곳 중 학비 최고. |
+| **Werkplaats Typografie (ArtEZ Arnhem)** | 개념적 타이포·출판. 연 8명 정원. 2년. | **€13,030/년** | 매우 경쟁적. ArtEZ Talent Scholarship 50% 면제 가능. |
+| **KABK Den Haag — Type and Media** | 폰트 디자인 정점. 1년. | **€11,488/년** | 사용자 성향과는 정합도 낮음 (활자 기술 중심). |
+| **KABK Den Haag — Non Linear Narrative** | 리서치·픽션·사회 이슈 융합 MA. 2년. | **€11,488/년** | 사용자 성향과 가장 잘 맞음. 단, 2년 실무 경험 선호. |
 
 ## 4. 장학금 옵션
 

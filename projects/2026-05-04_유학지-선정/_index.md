@@ -32,6 +32,7 @@ confidence: medium
 
 ## 문서 구성
 - [findings.md](findings.md) — 학교별 비교표, 비용 분석, 장학금 옵션
+- [school-profiles.md](school-profiles.md) — **9개 프로그램 개별 프로필 (특성·장단점·언어·입학요건·학비·준비사항)**
 - [sources.md](sources.md) — 출처 (학교 공식 사이트, 장학금 기관)
 - [_critique.md](_critique.md) — 비평 (이 결정의 약한 고리)
 

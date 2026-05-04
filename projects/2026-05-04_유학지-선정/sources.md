@@ -13,15 +13,21 @@ confidence: medium
 
 > ⚠️ 현 단계는 **사용자와의 대화 기반 1차 정리**이다. 아직 학교 공식 사이트를 직접 확인하지 않았다. 모든 수치·요건은 지원 전 1차 출처에서 재확인 필수.
 
-## 학교 공식 사이트 (확인 필요)
-- HfG Karlsruhe — `hfg-karlsruhe.de`
-- UdK Berlin — `udk-berlin.de`
-- Bauhaus-Universität Weimar — `uni-weimar.de`
-- HfG Offenbach — `hfg-offenbach.de`
-- Burg Giebichenstein Halle — `burg-halle.de`
-- Sandberg Instituut — `sandberg.nl`
-- Werkplaats Typografie (ArtEZ) — `werkplaatstypografie.org`
-- KABK Den Haag — `kabk.nl`
+## 학교 공식 사이트
+- HfG Karlsruhe — [hfg-karlsruhe.de](https://hfg-karlsruhe.de/en/studium/bewerbung/zulassung-und-eignungspruefung/)
+- UdK Berlin — Visual Communication: [udk-berlin.de](https://www.udk-berlin.de/en/application/applicationguide/visual-communication-master/) / Art and Media: [Meisterschüler](https://www.udk-berlin.de/en/application/applicationguide/art-and-media-meisterschuelerin/)
+- Bauhaus-Universität Weimar — [MFA Media Art and Design](https://www.uni-weimar.de/en/art-and-design/studies/media-art-and-design/medienkunstmediengestaltung-mfa/media-art-and-design-mfa/)
+- HfG Offenbach — [Foreign Students](https://hfg-jetzt.de/en/auslaendische-studienbewerber_innen/) / [Visual Communication](https://www.hfg-offenbach.de/en/pages/visual-communication)
+- Burg Giebichenstein Halle — [Multimedia Design MA](https://www.burg-halle.de/en/design/multimedia-design-ma) / [Communication Design](https://www.burg-halle.de/en/design/communication-design)
+- Sandberg Instituut — [Apply](https://sandberg.nl/apply-now)
+- Werkplaats Typografie (ArtEZ) — [Admission](https://www.artez.nl/en/courses/master/werkplaats-typografie/admission)
+- KABK Den Haag — [Type and Media Admission](https://www.kabk.nl/en/programmes/master/type-and-media/admission-requirements) / [Non Linear Narrative Admission](https://www.kabk.nl/en/programmes/master/non-linear-narrative/admission-requirements) / [Tuition fees](https://www.kabk.nl/en/practical-matters/tuition-fees)
+
+## 보조 출처
+- [DAAD International Programmes — Bauhaus](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/10328/)
+- [MyGermanUniversity — HfG Karlsruhe](https://www.mygermanuniversity.com/universities/Karlsruhe-University-of-Arts-and-Design)
+- [Sandberg Institute — Wikipedia](https://en.wikipedia.org/wiki/Sandberg_Institute)
+- [ArtEZ Tuition Fees](https://www.artez.nl/en/study-at-artez/arrange-your-study/tuition-fees)
 
 ## 장학금 기관 (확인 필요)
 - DAAD Korea — `daad.or.kr`
