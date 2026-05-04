@@ -14,9 +14,11 @@ confidence: medium
 ## 사용자 확정 일정
 - **현재**: 2026-05-04, 군복무 중
 - **전역**: 2027-02
-- **학사 졸업**: 2028-02
-- **희망 MA 입학**: 2028-09 (가을학기)
-- **희망 1순위**: Sandberg Instituut Design MA
+- **학사 졸업**: **2029-02** (2028년 2학기 마치고)
+- **희망 MA 입학**: **2029-09** (가을학기)
+- **최종 후보 5개**: KABK Type and Media / KABK NLN / Sandberg / Werkplaats / Bauhaus Weimar
+
+> ⚠️ 이 timeline.md는 1차 작성본이다. 사용자 일정 정정(학사 졸업 2029-02)과 NLN 추가 후 [final-report.md](final-report.md)의 Section 5가 최신 일정이다. 충돌 시 final-report.md 우선.
 
 ## 지원 사이클 역산
 대부분 학교 마감 = MA 입학 직전 1~3월. **2028 가을 입학 = 2028년 1~3월 마감.**
