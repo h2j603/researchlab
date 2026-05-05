@@ -1,7 +1,7 @@
 ---
 title: "공식 태그 목록"
 date: 2026-03-18
-updated: 2026-03-19
+updated: 2026-05-05
 type: index
 ---
 
@@ -23,6 +23,8 @@ type: index
 | `zeitgeist` | 시대정신, 트렌드 |
 | `worldbuilding` | 세계관 구축, 픽션 설계 |
 | `format-as-narrative` | 형식/포맷 자체가 서사 장치로 기능하는 구조 |
+| `material-culture` | 물질문화, 재료의 의미·기호 작용 |
+| `monument` | 비석·기념물·표지물 등 공적 표지 구조물 |
 
 ## 분야 태그 — 기술·도구
 | 태그 | 설명 |
