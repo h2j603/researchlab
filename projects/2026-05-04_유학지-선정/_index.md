@@ -43,6 +43,7 @@ confidence: medium
 ## 문서 구성
 - **[final-report.md](final-report.md) — 🎯 최종 통합 보고서 (의사결정 + 비교 + 자격증 + 일정 + 비평)**
 - **[graduate-works-links.md](graduate-works-links.md) — 📱 졸업작품 직접 보기 (6개 학교 모바일 친화 링크)**
+- **[graduate-works-topics.md](graduate-works-topics.md) — 📊 졸업작품 주제·리서치 대상 표 (불완전, 사용자 PC 작업 시 보완 권장)**
 - [findings.md](findings.md) — 학교별 비교표, 비용 분석, 장학금 옵션
 - [school-profiles.md](school-profiles.md) — 9개 프로그램 개별 프로필
 - [timeline.md](timeline.md) — 분기별 일정표
