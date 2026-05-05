@@ -74,14 +74,21 @@ python detect_markers.py --candidates candidates.yaml --output detections.json
 
 ## 출력
 
+기본적으로 모든 산출물이 `out/` 디렉토리에 모인다.
+
 ```
 out/
 ├── streetview/
-│   ├── G15_백마마을_h0.jpg
-│   ├── G15_백마마을_h90.jpg
+│   ├── G15_백마마을_h0.jpg     # 좌표에서 동쪽
+│   ├── G15_백마마을_h90.jpg    # 남쪽
+│   ├── G15_백마마을_h180.jpg   # 서쪽
+│   ├── G15_백마마을_h270.jpg   # 북쪽
+│   ├── G16_밤가시마을_h0.jpg
 │   ├── ...
-└── detections.json    # 후보 67개 × 이미지 4장 × §10 변수
+└── detections.json               # 후보 × 4방향 × §10 변수
 ```
+
+각 이미지는 `{후보ID}_{마을이름}_h{heading}.jpg` 형식으로 저장. 캐시 적중 (재실행 시 동일 좌표는 fetch 생략) 가능. `detections.json`의 각 항목에 `image` 필드로 경로가 기록되어 있어, 분류 결과와 이미지를 시각적으로 대조하기 쉽다.
 
 `detections.json`을 `gyeonggi-cases.md` 표에 수동으로 옮기거나, 후속 스크립트로 자동 병합 가능.
 

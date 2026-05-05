@@ -238,6 +238,7 @@ def process_candidate(client: Anthropic, candidate: dict, out_dir: Path,
         if not fetch_streetview(lat, lng, heading, google_key, img_path):
             print(f"  h{heading}: 거리뷰 없음", file=sys.stderr)
             continue
+        print(f"  h{heading}: 저장 → {img_path}", file=sys.stderr)
 
         analysis = classify_image(client, img_path, model)
         if analysis is None:
@@ -282,7 +283,8 @@ def process_candidate(client: Anthropic, candidate: dict, out_dir: Path,
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--candidates", default=Path("candidates.yaml"), type=Path)
-    parser.add_argument("--output", default=Path("detections.json"), type=Path)
+    parser.add_argument("--output", default=Path("out/detections.json"), type=Path,
+                        help="JSON 결과 경로. 기본 out/ 디렉토리 안")
     parser.add_argument("--out-dir", default=Path("out"), type=Path,
                         help="이미지·캐시 저장 디렉토리")
     parser.add_argument("--limit", type=int, default=None,
@@ -316,6 +318,7 @@ def main() -> int:
             print(f"  처리 실패: {e}", file=sys.stderr)
             results.append({**c, "status": "error", "error": str(e)})
 
+    args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(results, ensure_ascii=False, indent=2),
                            encoding="utf-8")
     print(f"\n결과: {args.output}", file=sys.stderr)
