@@ -1,86 +1,100 @@
 # 마을표석 후보 리스트 — gyeonggi-cases.md에서 추출
-# 67개 전체는 `gyeonggi-cases.md` G1~G82에 정의되어 있음.
-# 여기는 파이프라인 시범용 12건. 실전에서는 67개 모두 채워 사용.
 #
-# 필드:
-#   id           — gyeonggi-cases.md 행 번호
-#   group        — G1 (전통촌락) / G2 (새마을운동기) / G3 (신도시)
-#   name         — 마을 이름
-#   address      — 카카오 로컬 API에 넘길 주소 (지번 또는 도로명)
-#   note         — 사람이 보는 메모
+# 두 종류의 위치 단서:
+#   search_query — 카카오 장소(POI) 검색에 넘길 쿼리. 단지명·고유명을 포함해
+#                  실제 위치를 잡을 수 있게 한다. 예: "분당 까치마을 시범단지"
+#                  (없으면 name이 검색 쿼리로 사용됨)
+#   address      — 결과 정렬용 region_hint. 검색 결과가 다른 시·도에 있는
+#                  동명 마을에 잡히는 것을 방지.
+#
+# 신도시 ○○마을은 거의 모두 카카오에 POI로 등록되어 있어 키워드 검색이
+# 잘 잡힌다. 농촌 자연부락(G2)은 단지처럼 등록 안 된 경우가 많아 동·리 단위
+# 좌표로만 잡힘 — 이 경우 hit rate가 낮으므로 외출 답사가 필요.
 
 candidates:
   # --- G3 1기 신도시 ---
   - id: G15
     group: G3
     name: 백마마을
-    address: 경기도 고양시 일산동구 마두1동
+    search_query: 일산 백마마을
+    address: 경기도 고양시 일산동구
     note: 합성 지명형 (백석+마두)
 
   - id: G16
     group: G3
     name: 밤가시마을
-    address: 경기도 고양시 일산동구 정발산동
+    search_query: 일산 밤가시마을
+    address: 경기도 고양시 일산동구
     note: 율악부곡 옛 지명
 
   - id: G17
     group: G3
     name: 후곡마을
-    address: 경기도 고양시 일산서구 일산3동
+    search_query: 일산 후곡마을
+    address: 경기도 고양시 일산서구
     note: 後谷, 뒷골
 
   - id: G23
     group: G3
     name: 꿈마을
-    address: 경기도 안양시 동안구 귀인동
+    search_query: 평촌 꿈마을
+    address: 경기도 안양시 동안구
     note: 평촌, 추상어형. 7개 단지
 
   - id: G31
     group: G3
     name: 백두마을
-    address: 경기도 군포시 산본동
+    search_query: 산본 백두마을
+    address: 경기도 군포시
     note: 산본 명산 시리즈
 
   # --- G3 2기 신도시 ---
   - id: G44
     group: G3
     name: 봇들마을
-    address: 경기도 성남시 분당구 삼평동
+    search_query: 판교 봇들마을
+    address: 경기도 성남시 분당구
     note: 신라 화랑 보(洑) 전승, 판교
 
   - id: G45
     group: G3
     name: 백현마을
-    address: 경기도 성남시 분당구 백현동
+    search_query: 판교 백현마을
+    address: 경기도 성남시 분당구
     note: 잣고개→栢峴, 판교
 
   - id: G51
     group: G3
     name: 한빛마을
-    address: 경기도 화성시 반송동
+    search_query: 동탄 한빛마을
+    address: 경기도 화성시
     note: 동탄1, 한글 추상어 (원래 장산마을)
 
   - id: G56
     group: G3
     name: 책향기마을
-    address: 경기도 파주시 와동동
+    search_query: 운정 책향기마을
+    address: 경기도 파주시
     note: 운정1, 도서관 인접
 
-  # --- G2 새마을운동기 자연부락 ---
+  # --- G2 새마을운동기 자연부락 (POI 등록 가능성 낮음 — hit rate 낮을 것) ---
   - id: G68
     group: G2
     name: 동창리
-    address: 경기도 평택시 진위면 동창리
+    search_query: 평택 진위면 동창리
+    address: 경기도 평택시 진위면
     note: 양성현 동창(곡식 창고)
 
   - id: G72
     group: G2
     name: 희복마을
-    address: 경기도 가평군 가평읍
+    search_query: 가평 희복마을
+    address: 경기도 가평군
     note: 마을 만들기 사업으로 작명
 
   - id: G73
     group: G2
     name: 장촌마을
-    address: 경기도 양평군 단월면 산음리
+    search_query: 양평 장촌마을
+    address: 경기도 양평군 단월면
     note: 관광두레, 농촌체험마을
