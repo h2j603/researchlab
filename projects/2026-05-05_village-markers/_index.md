@@ -51,7 +51,8 @@ confidence: medium
 
 ## 문서 구조
 
-- [findings.md](findings.md) — 상세 조사 내용 (8개 섹션)
+- [findings.md](findings.md) — 상세 조사 내용 (8개 섹션 + 디자인 번역 9절)
+- [village-cases.md](village-cases.md) — 한국 마을 사례 30선 (전통 민속마을 10 + 자연부락·집성촌 10 + 신도시 ○○마을 10)
 - [sources.md](sources.md) — 학술 출처 및 1차 자료
 - [_critique.md](_critique.md) — 비평 (Red Team)
 
