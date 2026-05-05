@@ -52,8 +52,11 @@ confidence: medium
 ## 문서 구조
 
 - [findings.md](findings.md) — 상세 조사 내용 (8개 섹션 + 디자인 번역 9절)
-- [village-cases.md](village-cases.md) — 한국 마을 사례 30선 (전통 민속마을 10 + 자연부락·집성촌 10 + 신도시 ○○마을 10) — 현존 표석 컬럼 추가
-- [songpa-cases.md](songpa-cases.md) — **송파구 현존 ‘마을’ 표지 사례** (사용자 거주 지역, ‘부재의 발견’ 포함)
+- [village-cases.md](village-cases.md) — **3 그룹 분류 마스터** (G1 전통촌락 + G2 새마을운동기 자연부락 표석 + G3 신도시 ○○마을)
+- [gyeonggi-cases.md](gyeonggi-cases.md) — 경기도 마을 표지 67건 상세(1·2·3기 신도시 + 농촌)
+- [songpa-cases.md](songpa-cases.md) — 송파구 현존 ‘마을’ 표지 사례 (‘부재의 발견’)
+- [rituals.md](rituals.md) — **표석 의례·제막식·동제** 현존 사례 + G2·G3가 G1 의례를 차용하는 양상
+- [language-and-categories.md](language-and-categories.md) — **‘언어가 범주를 만든다’의 이론적 토대** (Wittgenstein·Hobsbawm·Bourdieu 트리오 + 보조 4개)
 - [sources.md](sources.md) — 학술 출처 및 1차 자료
 - [_critique.md](_critique.md) — 비평 (Red Team)
 
