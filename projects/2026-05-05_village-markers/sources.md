@@ -83,6 +83,61 @@ confidence: medium
 
 **정헌목의 아파트 공동체 연구 + 한국문화인류학회의 마을 만들기 비판 연구 + 김기빈의 신도시 지명 자료** — 이 세 축을 함께 읽으면 학술적 토대를 잡을 수 있다.
 
+-----
+
+## H. 디자인 출판물 레퍼런스 (NL/DE 권 + 책+웹 하이브리드)
+
+본 프로젝트의 결과물 형식 — **zine 또는 book+web 동시 퍼블리싱, Cyber Feminism Index(Mindy Seu, Inventory Press 2022) 수준의 큐레이팅된 아카이브** — 을 위한 참고 작업.
+
+### 12개 핵심 레퍼런스
+
+| # | 제목 / 작가 | 출판사 / 연도 | 포맷 | 다루는 대상 | 본 프로젝트와의 연결점 |
+|---|------------|-------------|------|-----------|---------------------|
+| H1 | **Library of the Printed Web** — Paul Soulellis | 자가출판 → MoMA Library | 책+웹+POD 진 시리즈 | 웹-투-프린트 아티스트 출판물 아카이브 | **‘공식 등록 외부 매체’를 큐레이팅+책+웹 하이브리드**로 묶는 가장 가까운 사례. CFI와 거의 동일한 DNA |
+| H2 | **Caps Lock** — Ruben Pater | Valiz, 2021 | 책 (research essay+카탈로그) | 자본주의 도구로서의 그래픽 디자인 | 6 챕터 사례 카탈로그, 캡션이 본문만큼 중요. 표지·내지 ‘공식 매뉴얼’ 톤 차용. **NL 맥락에서 가장 가까운 톤** |
+| H3 | **The Politics of Design** — Ruben Pater | BIS Publishers, 2016 | 시각 문화 핸드북 | 색·기호·문자·이미지의 문화적 정치학 | 좌우 페이지 = 사례+해설 견본첩. 그리드 기반 메타데이터 처리 — 표석 도상·서체·색 비교 카탈로그의 페이지 구조 모델 |
+| H4 | **The New Alphabet (시리즈)** — HKW + 편집팀 | Spector Books, 2020~ | 책 시리즈 25권 + 행사 + 웹 | ‘새 알파벳’ 키워드 25개 사전 | 일관된 표지 시스템·번호. **시리즈 자체가 메타데이터**. 책+웹+이벤트 다층 퍼블리싱 |
+| H5 | **FORENSIS: The Architecture of Public Truth** — Forensic Architecture (eds. Weizman·Franke) | Sternberg Press, 2014 | 다중 저자 리서치 문집 | 국가폭력 증거를 건축·공간 데이터로 재구성 | 표석을 단순 기록물이 아닌 **‘공식 진술의 인공물’**로 다루는 방법론 |
+| H6 | **Atlas of the Conflict: Israel-Palestine** — Malkit Shoshan | 010 Publishers, 2010 | 지도책+데이터 아카이브 | 100년간 영토·행정·인구 변화 500여 지도 | 지도의 일관된 시각 시스템 + 카테고리 색인 + 연표·범례 모듈화. **표석을 지리·행정 데이터로 매핑할 때의 시각 표준화 모델** |
+| H7 | **In Alphabetical Order: File Under Werkplaats Typografie** — eds. Stuart Bailey 외 | WT/Roma·Veenman, 2003 | 학교 아카이브 책 | WT 학생·교사 작업의 ABC 색인 | 알파벳 색인이 책 전체 구조. **‘분류 도식 자체가 디자인’이라는 사고** — 표석 항목 분류·색인의 모델 |
+| H8 | **Roma Publications #1–425 at Sitterwerk** — Roger Willems / Hans Gremmen 사진 | Roma Publications, 2022 | 출판사 자기 아카이브 | 25년간 425권 출판물 사진 카탈로그 | 책을 오브제로 촬영, 인덱스+이미지 단순 페어링. **오브제(표석)를 일관된 촬영 규약으로 카탈로그화**하는 견본첩 모델 |
+| H9 | **Space for Visual Research (1·2)** — Markus Weisbeck 외 | Spector Books, 2018·2023 | 책 시리즈 (Bauhaus Uni Weimar) | 추상·시각 실험의 학생 리서치 아카이브 | 그리드·플레이트 번호·작가 인덱스. **각자(刻字) 견본첩 + 인덱스 시스템** — 표석 유형별 매뉴얼 |
+| H10 | **Set Margins'** (출판 카탈로그) — Freek Lommé | Set Margins', Eindhoven, 2022~ | 책+meetups 플랫폼 | ‘주변부에서 오는 충동’ 큐레이팅 — 디자인·액티비즘·비공식 출판 | **‘공식 외부’를 출판으로 정당화하는 편집 POV** — 마을표석의 핵심 정서와 일치 |
+| H11 | **Onomatopee Research Projects** (시리즈) | Onomatopee, 2006~ | 책+전시 짝 (15~25권/년) | 자가발의 리서치 — 도시·생태·디자인·아카이브 | 전시-책 1:1 매칭. **‘전시+책’ 더블 퍼블리싱** — 본 프로젝트 결과물 형식의 직접 모델 |
+| H12 | **Fw:Books 사진+리서치 시리즈** — Hans Gremmen | Fw:Books, 2008~ | 책 (사진+리서치) | 사진가 장기 아카이브 — 지형·인공물·기록사진 | 단일 디자이너 일관된 손맛, 사진 시퀀스+캡션 절제. **표석을 사진 아카이브로 다룰 때의 시퀀싱·여백 운용** |
+
+### 추천 우선순위 (CFI 질감 가까운 순)
+
+1. **H1 Library of the Printed Web** — 책+웹+POD 하이브리드, 큐레이팅 + 강한 편집 POV. CFI와 같은 DNA
+2. **H2 Caps Lock** — 단일 저자 POV + 사례 카탈로그 + 그래픽 디자이너 주도. NL 톤
+3. **H4 The New Alphabet** — 시리즈 자체가 큐레이팅 사전, 다층 퍼블리싱
+
+### 본 프로젝트에 직접 적용 가능한 형식 요소
+
+- **모듈러 표석 카드 (CFI식 entry card)**: 항목당 고정 메타데이터 슬롯 — 위치(좌표·행정구역) / 설치 주체(관·주민·기업) / 재질(S1~S5) / 서체 분류 / 설치 연도 / 문안 유형 / 사진. H1·H6 entry 모델 참고
+- **분류 도식 자체를 표지·인덱스로**: H7 *In Alphabetical Order*처럼 G1·G2·G3 분류와 a/b/c/d 명명 4계열이 책의 구조이자 시각 시스템이 되도록 설계
+- **각자 견본첩(specimen book) 구조**: H9·H2처럼 좌=실물 사진(통일 촬영 규약), 우=메타데이터+비평 캡션. 표석 서체를 디지털화한 견본 페이지 별도 챕터
+- **책+웹 페어링** (H1 직접 모델): 책=큐레이팅 셀렉션 + 편집 에세이 / 웹=확장 가능 데이터셋(필터·지도·태그). 아이폰만으로 운영 가능한 정적 사이트(Are.na / Cargo / Tumblr) 기반
+- **‘공식 외부’를 정당화하는 편집 POV** (H10·H2): 도입부에 **‘왜 비공식 표석을 다루는가’**의 선언적 에세이. 단순 도록과 차별화하는 핵심 — `findings.md` §11의 ‘메타 발견’(표석은 비등록·비지정이 본질)이 그 에세이의 1차 자료
+- **연도·지역 시퀀스 그리드** (H6): 시간축 매핑 — 표석 설치 연도·지역 분포를 시각 시스템화한 인덱스 페이지
+
+### 출처
+
+- [Library of the Printed Web — Soulellis](https://soulellis.com/entries/lotpw.html)
+- [Caps Lock — Valiz](https://valiz.nl/en/publications/caps-lock.html)
+- [The New Alphabet — Spector / HKW](https://www.itsnicethat.com/articles/the-new-alphabet-spector-books-graphic-design-publication-260221)
+- [FORENSIS — Sternberg Press](https://www.sternberg-press.com/product/the-architecture-of-public-truth/)
+- [Forensic Architecture — Publications](https://forensic-architecture.org/programme/publications)
+- [Onomatopee Publications](https://www.onomatopee.net/publications/)
+- [Spector Books — Space for Visual Research](https://spectorbooks.com/space-for-visual-research)
+- [Roma Publications #1–425 at Sitterwerk](https://www.perimeterbooks.com/products/roma-publications-1-425-at-sitterwerk-st-gallen-1)
+- [Hans Gremmen / Fw:Books](https://fw-books.nl/author/hans/)
+- [Werkplaats Typografie](https://werkplaatstypografie.org/)
+- [Set Margins'](https://www.setmargins.press/)
+- [The Politics of Design — BIS Publishers](https://www.bispublishers.com/the-politics-of-design.html)
+
+-----
+
 ## 관련 문서
 - [findings.md](findings.md)
 - [_index.md](_index.md)
