@@ -52,4 +52,6 @@ CK(Condensed Kiwi) 세계관 내에서 **웹 키위바이러스에 대항하기 
 - [킥오프 회의록](meetings/2026-03-20.md)
 - [하진 '저주 전파' 구조 제안 회의록 (3/22)](meetings/2026-03-22.md)
 - [상위개념 수립 + AKU 개명 회의록 (3/25)](meetings/2026-03-25.md)
+- [비주얼 레퍼런스 — 현대미술](visual-references.md)
+- [비주얼 레퍼런스 추가](visual-references-extra.md)
 - [CK 브랜딩 프로젝트](../2026-04-01_ck-branding/_index.md)

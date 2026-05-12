@@ -1,7 +1,7 @@
 ---
 title: "공식 태그 목록"
 date: 2026-03-18
-updated: 2026-03-19
+updated: 2026-05-05
 type: index
 ---
 
@@ -23,6 +23,10 @@ type: index
 | `zeitgeist` | 시대정신, 트렌드 |
 | `worldbuilding` | 세계관 구축, 픽션 설계 |
 | `format-as-narrative` | 형식/포맷 자체가 서사 장치로 기능하는 구조 |
+| `material-culture` | 물질문화, 재료의 의미·기호 작용 |
+| `monument` | 비석·기념물·표지물 등 공적 표지 구조물 |
+| `political-communication` | 정치 커뮤니케이션, 정치 수사학 |
+| `sns-grammar` | SNS 글쓰기 문법/문체 분석 |
 
 ## 분야 태그 — 기술·도구
 | 태그 | 설명 |
@@ -35,6 +39,8 @@ type: index
 ## 분야 태그 — 디자인·시각
 | 태그 | 설명 |
 |------|------|
+| `contemporary-art` | 현대미술, 개념미술 |
+| `deepfake` | 딥페이크, AI 생성 영상/이미지 |
 | `visual-culture` | 시각 문화 |
 | `typography` | 타이포그래피 |
 | `branding` | 브랜딩, 아이덴티티 |
@@ -72,5 +78,10 @@ type: index
 | `instagram` | 인스타그램 전략 |
 | `publishing-strategy` | 퍼블리싱/배포 전략 |
 | `character` | 세계관 내 캐릭터/요원 프로필 |
+
+## 개인 메타 태그
+| 태그 | 설명 |
+|------|------|
+| `career-planning` | 진로·유학·커리어 결정 메모 |
 
 <!-- 새 태그 추가 시 적절한 카테고리에 추가하세요 -->
