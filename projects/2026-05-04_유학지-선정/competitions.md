@@ -9,7 +9,7 @@ related: ["_index.md", "final-report.md", "timeline.md"]
 confidence: medium
 ---
 
-# 유학 전 도전할 해외 공모전 12선 (2026~2029)
+# 유학 전 도전할 해외 공모전 13선 (2026~2029)
 
 > **목적**: 유학 입학(2029-09) 전까지 포트폴리오·동기서·추천서에 쓸 만한 수상·출품 이력 누적.
 > **사용자 제약 반영**: 군복무(~2027-02) 중 아이폰만 가능 / 카메라 불가 / 그래픽·인쇄·타이포·시스템 작업 강점.
@@ -17,22 +17,23 @@ confidence: medium
 
 ---
 
-## 우선 추천 12개
+## 우선 추천 13개
 
 | # | 공모전 | 카테고리 | 매년 마감 | 학교 셀링 |
 |---|---|---|---|---|
 | 1 | **TDC Annual (Communication Design + Typeface Design)** | 활자·디자인 | 1월 (regular), 2월 (final) | KABK T&M, NLN, Werkplaats |
 | 2 | **D&AD New Blood Awards** | 학생 일반 | 3월 중순 | 6개 학교 모두 |
-| 3 | **Brno Biennial Open Call** | 그래픽 | 격년 (홀수해 개최) | Sandberg, Werkplaats |
-| 4 | **NY Art Book Fair 부스 출품** | 출판 페어 | 3월 말 | Werkplaats, Sandberg |
-| 5 | **Tokyo Art Book Fair** | 출판 페어 | 6월 초 | Werkplaats, NLN |
-| 6 | **Sappi Ideas that Matter** | 사회 임팩트 | 6월 | Sandberg, DAE CIL |
-| 7 | **Granshan Type Design Competition** | 비라틴 활자 | 비정기 (11월~2월) | KABK T&M |
-| 8 | **Morisawa Type Design Competition** | 활자 | 격년 (다음 2026~2027) | KABK T&M |
-| 9 | **Tokyo TDC Annual** | 동아시아 타이포 | 10~11월 | KABK T&M |
-| 10 | **Future Architecture Platform — Call for Ideas** | 리서치·출판 | 9~10월 | DAE CIL, Sandberg |
-| 11 | **Stiftung Buchkunst — Best Book Design** | 책 디자인 | 12월~1월 | Werkplaats |
-| 12 | **Adobe Design Achievement Awards (ADAA)** | 학생 일반 | 6~8월 | 보조용 |
+| 3 | **INTL International Poster Competition** | 포스터 | 6월 1일 | Sandberg, Werkplaats, 6개 모두 |
+| 4 | **Brno Biennial Open Call** | 그래픽 | 격년 (홀수해 개최) | Sandberg, Werkplaats |
+| 5 | **NY Art Book Fair 부스 출품** | 출판 페어 | 3월 말 | Werkplaats, Sandberg |
+| 6 | **Tokyo Art Book Fair** | 출판 페어 | 6월 초 | Werkplaats, NLN |
+| 7 | **Sappi Ideas that Matter** | 사회 임팩트 | 6월 | Sandberg, DAE CIL |
+| 8 | **Granshan Type Design Competition** | 비라틴 활자 | 비정기 (11월~2월) | KABK T&M |
+| 9 | **Morisawa Type Design Competition** | 활자 | 격년 (다음 2026~2027) | KABK T&M |
+| 10 | **Tokyo TDC Annual** | 동아시아 타이포 | 10~11월 | KABK T&M |
+| 11 | **Future Architecture Platform — Call for Ideas** | 리서치·출판 | 9~10월 | DAE CIL, Sandberg |
+| 12 | **Stiftung Buchkunst — Best Book Design** | 책 디자인 | 12월~1월 | Werkplaats |
+| 13 | **Adobe Design Achievement Awards (ADAA)** | 학생 일반 | 6~8월 | 보조용 |
 
 ---
 
@@ -110,6 +111,17 @@ confidence: medium
 
 ### 4. 그래픽 디자인 일반·포스터
 
+#### INTL International Poster Competition ★★★★★
+- **주최**: INTL (구 Graphic Design Festival Scotland)
+- **매년 마감**: **6월 1일** (2026 동일)
+- **자격**: **누구나** (학생 포함). 작업 기간 2024~2026
+- **참가비**: **£20/포스터** (약 36,000원), 최대 8장
+- **상금**: 1등 £500, 2등 £300, 3등 £100
+- **규모**: 110개국 60,000+ 출품 (2014~2025)
+- **셀링**: 매우 높음. **단일 포스터 작업으로 진입 가능 — 군 안에서 디지털 포스터로 도전 가능**. Sandberg·Werkplaats가 포스터 강세, 사회 주제 포스터에 친화적
+- **URL**: https://intl.international/posters/
+- **인스타**: https://www.instagram.com/intl.international/
+
 #### International Biennial of Graphic Design Brno ★★★★
 - **주최**: Moravian Gallery (체코)
 - **매년 마감**: 격년 (홀수해). 다음 회차 2027 예상
@@ -174,6 +186,7 @@ confidence: medium
 ### Phase 1 — 군복무 중 (2026-05 ~ 2027-02)
 **환경**: 아이폰만 가능. 텍스트·디지털 그래픽·활자 작업.
 
+- **INTL International Poster Competition 2026**: 6월 1일 마감 — 단일 포스터로 진입 가능, 군 안 디지털 작업으로 도전
 - **TDC Annual 2027**: 군 안에서 2027년 1월 마감 도전 — 기존 작업 정리·재맥락화로 응시
 - **Granshan / Morisawa**: 한글 폰트 실험 작업 시도 (군 안 가능, 디지털)
 - **Sappi Ideas that Matter 2026**: 6월 마감 — 사회 주제 리서치 프로젝트 응시
@@ -241,7 +254,8 @@ confidence: medium
 - **Granshan + Morisawa + Tokyo TDC** 3개는 한국 디자이너로서 가장 진입 유리
 - **Brno + Future Architecture**는 한 번이라도 선정되면 동기서 가산점 큼
 - **Stiftung Buchkunst는 입학 후 트랙** — 지금 도전 어려움
-- 군복무 중 가능한 것: TDC·Granshan·Morisawa·Sappi·NY/Tokyo ABF (5개) — 충분히 도전 가능
+- 군복무 중 가능한 것: **INTL**·TDC·Granshan·Morisawa·Sappi·NY/Tokyo ABF (6개) — 충분히 도전 가능
+- **INTL은 가장 빨리 도전 가능한 공모전** (2026-06-01 마감) — 군 안 디지털 포스터 작업으로
 
 ---
 
