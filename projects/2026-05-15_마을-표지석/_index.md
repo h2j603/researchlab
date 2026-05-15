@@ -17,6 +17,7 @@ confidence: low
 
 ## 문서
 - [findings.md](findings.md) — 1차 카탈로그 (15개, 표 + 문구 기록 + 1차 관찰)
+- [facets.md](facets.md) — 패싯 분류 (9개 독립 축, 좌표표, 교차 읽기)
 - [_critique.md](_critique.md) — 비평 (범위·약한 고리·복잡도 통제)
 
 ## 현황

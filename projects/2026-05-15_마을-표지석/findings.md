@@ -151,5 +151,6 @@ confidence: low
 - [자양골/쟁골마을 — 디지털강남문화대전](https://www.grandculture.net/gangnam/toc/GC04800100)
 
 ## 관련 문서
+- [패싯 분류 (9축 좌표표)](facets.md)
 - [프로젝트 MOC](_index.md)
 - [비평 (Red Team)](_critique.md)
